@@ -1,0 +1,7964 @@
+[
+    {
+        "itemName": "VERY LIGHT",
+        "price": -50.0,
+        "sku": "e1ba1310-1444-45fa-9abb-308e5df0f8c1",
+        "upsert": true
+    },
+    {
+        "itemName": "VERY LIGHT",
+        "price": -50.0,
+        "sku": "90616783-25f4-492a-b7a7-9c29bde142a0",
+        "upsert": true
+    },
+    {
+        "itemName": "VERY LIGHT",
+        "price": -50.0,
+        "sku": "78416c25-3010-482b-baed-ad0899da0efb",
+        "upsert": true
+    },
+    {
+        "itemName": "VERY LIGHT",
+        "price": -50.0,
+        "sku": "ec1d849d-f163-46d9-8f79-8f56a49f2c48",
+        "upsert": true
+    },
+    {
+        "itemName": "VERY LIGHT",
+        "price": -50.0,
+        "sku": "bd9e75d0-20c1-4d40-ab6a-613995e510ab",
+        "upsert": true
+    },
+    {
+        "itemName": "VERY LIGHT",
+        "price": -50.0,
+        "sku": "3825a3a0-2be4-4f0d-b8f2-8934f7cc9623",
+        "upsert": true
+    },
+    {
+        "itemName": "VERY LIGHT",
+        "price": -50.0,
+        "sku": "05c5affc-76a8-49d4-af6d-15c99194f2e7",
+        "upsert": true
+    },
+    {
+        "itemName": "VERY LIGHT",
+        "price": -50.0,
+        "sku": "dde6b8e2-47a9-4fd9-bdf5-77394e33f172",
+        "upsert": true
+    },
+    {
+        "itemName": "VERY LIGHT",
+        "price": -50.0,
+        "sku": "ae04009c-95af-428f-aebd-cf372cff4040",
+        "upsert": true
+    },
+    {
+        "itemName": "VERY LIGHT",
+        "price": -50.0,
+        "sku": "9371a266-32c3-4e84-8249-17cd0d47a627",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": -1.5,
+        "sku": "765e5e9d-0665-4c57-8d7d-be337f93e8db",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": -1.25,
+        "sku": "b0442941-0bdb-4e6b-9538-91b339b54109",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": -1.25,
+        "sku": "85aa4a8b-3a9d-48cb-8982-b859f1396cc8",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": -1.25,
+        "sku": "2353e992-4cb6-44ae-a47c-6ac9e0d8bf56",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": -1.0,
+        "sku": "54f40ea3-fc86-4bd1-a393-db0ff9ee78cf",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": -1.0,
+        "sku": "beae1e81-f8cc-4110-8d67-fd09ab4ec02f",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": -1.0,
+        "sku": "efc126a9-8d01-4802-9372-647235de8fa7",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": -1.0,
+        "sku": "e4febf86-e301-44a1-b302-9f443c7cab4c",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": -1.0,
+        "sku": "d55330f6-1eb1-4d84-bf01-22b0a214dd05",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": -1.0,
+        "sku": "4369ff7f-0e8a-4d6a-af3e-b9be48cfe496",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": -1.0,
+        "sku": "b84842ed-07b7-4f46-8679-31e17112f914",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": -1.0,
+        "sku": "b3a41fe6-ef73-4500-ac0e-ca5903e0f9c7",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": -0.5,
+        "sku": "b404933f-a714-4703-b9cd-397acd4473ac",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": -0.5,
+        "sku": "7fa7daf9-c0de-41d7-ba07-9e8624f9f412",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": -0.5,
+        "sku": "f0c7db13-ba92-4fd6-9dc7-32500c50db70",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": -0.5,
+        "sku": "891f3fc8-a4c8-4407-8460-98db93c6eca4",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": -0.5,
+        "sku": "050f86f8-ac0c-44ea-931a-5ba737f864e0",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": -0.5,
+        "sku": "0960ee8e-9e1e-4322-b64c-18b9ca724bf5",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": -0.5,
+        "sku": "21a6e155-dd13-49be-88b4-eff66282d799",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": -0.5,
+        "sku": "d2ce3d00-3954-4bdf-a30a-15d9b67a940f",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": -0.5,
+        "sku": "c23976fb-9139-4400-9f84-208d5022ecd4",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": -0.5,
+        "sku": "b936c676-ee26-456c-aefe-1539bafa101a",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": -0.5,
+        "sku": "d49fd7d1-a910-43c4-aa0d-3d6952043b58",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": -0.5,
+        "sku": "55712f7a-4ac2-411f-a32b-909d34ca0760",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "76ab3c4c-93e9-4aa0-b9ed-345461a2113e",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "e6818b3b-585c-415f-a6ce-517df4d2de66",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "127227df-d225-449a-93f1-9d0a30138503",
+        "upsert": true
+    },
+    {
+        "itemName": "NO CREASE",
+        "price": 0.0,
+        "sku": "8e119dd0-c7e3-4b99-9b35-74df69a43969",
+        "upsert": true
+    },
+    {
+        "itemName": "STARCH",
+        "price": 0.0,
+        "sku": "54c7e110-d1e1-42ee-8bc5-fcdaa7ffe895",
+        "upsert": true
+    },
+    {
+        "itemName": "ANGORA",
+        "price": 0.0,
+        "sku": "98803c84-5232-488c-97fa-3fe931b480a5",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "208b115f-1db1-40ad-8abc-03a6efeddf62",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 0.0,
+        "sku": "57155059-10eb-4873-ab92-e1ab3719c892",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.0,
+        "sku": "89076c83-d8b7-44fa-9aca-31d0db6ff162",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 0.0,
+        "sku": "a38d6a52-3964-4cbc-acb9-7e568b4ce5d8",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.0,
+        "sku": "e0f0521b-ce31-48a8-b344-aadf08c6c39e",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.0,
+        "sku": "5d50f7fd-8ee5-4b39-84ac-f0cdc24bef19",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "46c5233e-76bf-455f-a787-43a5410602ed",
+        "upsert": true
+    },
+    {
+        "itemName": "FLARE",
+        "price": 0.0,
+        "sku": "e6eb7970-68d9-4686-82c8-269ede04102d",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 0.0,
+        "sku": "e932150c-dabb-4565-88fb-5b3cd557a004",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.0,
+        "sku": "ac3d7148-7ca8-410d-bcf8-0257e30bac5c",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "dce719a5-c81f-4e22-9f0b-555ba27e689f",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "caa78905-1bb1-45c5-b08f-aae4b13e913f",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 0.0,
+        "sku": "ad9b941f-1a71-4554-91c7-f60959b01ed4",
+        "upsert": true
+    },
+    {
+        "itemName": "W/BELT",
+        "price": 0.0,
+        "sku": "2b847ddc-6190-4260-84f2-f486393b6f97",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LINING",
+        "price": 0.0,
+        "sku": "adcc123a-496f-4268-89e0-e316028ea94a",
+        "upsert": true
+    },
+    {
+        "itemName": "ANGORA",
+        "price": 0.0,
+        "sku": "3b23d692-2362-4e96-8cd2-4d23927aa8be",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 0.0,
+        "sku": "459f4935-e007-4226-9d6f-67dd01d15820",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "a3b77891-a261-4fea-9633-b41aee513fb8",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "bc500227-e22d-4c35-a6d1-e6a9dac863cc",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 0.0,
+        "sku": "13f911d9-56ff-4008-8af7-8da5b1bb4bd8",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 0.0,
+        "sku": "7a230a75-2ee0-4e46-8115-f4aadb7ea5a2",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "8f9caf29-0658-441a-bb2a-3097139c28fc",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 0.0,
+        "sku": "7809ccb8-b1dd-434f-a4a3-d1cb76da8558",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.0,
+        "sku": "9117de89-a176-4a57-af92-38043f0b6cb8",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 0.0,
+        "sku": "60d465c0-f9e8-4e6e-ae22-5b8d129f5121",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.0,
+        "sku": "510bebd4-29d5-4f67-b3c9-997bf126b1e8",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.0,
+        "sku": "84d274e4-1c18-4858-8fdb-bb634872097e",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 0.0,
+        "sku": "123fce7b-3183-42cb-8554-27f9f8b64d58",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 0.0,
+        "sku": "bb89799c-9ad1-4b63-8713-e5b34981c4ab",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "6ff8fc7c-d34a-4f6b-a933-f954c038287c",
+        "upsert": true
+    },
+    {
+        "itemName": "NO CREASE",
+        "price": 0.0,
+        "sku": "9075f9a5-c17a-4bc2-8f81-cc709c7c88cd",
+        "upsert": true
+    },
+    {
+        "itemName": "STARCH",
+        "price": 0.0,
+        "sku": "cecdeb0a-b104-4cea-a0bb-e4d4f363168c",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": 0.0,
+        "sku": "6a2e8b84-d39e-4549-9305-d865430997a9",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "6abadff4-6ca1-495b-a196-b605267e043c",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "213d2999-398d-4cc9-a888-0d9d70d4a39a",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 0.0,
+        "sku": "825c00a4-cba0-4fc8-bd2e-e91e6d6de591",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 0.0,
+        "sku": "95f8bef8-80f5-450a-9c0b-fe6732adbf93",
+        "upsert": true
+    },
+    {
+        "itemName": "FLARE",
+        "price": 0.0,
+        "sku": "7a143d63-de68-40bc-a663-a5200ca5a960",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 0.0,
+        "sku": "2b300c0a-9c65-45ce-b6e5-6235605f249c",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 0.0,
+        "sku": "a4121461-aa1d-4ad4-ac74-086a6328f87d",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.0,
+        "sku": "b5389a8e-7a40-4faa-94f1-939dcb179e23",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 0.0,
+        "sku": "c6dda9f6-daaf-462a-a9a1-029dc28900b1",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 0.0,
+        "sku": "fe4c1074-403a-490a-9a88-caff1c9f85db",
+        "upsert": true
+    },
+    {
+        "itemName": "W/BELT",
+        "price": 0.0,
+        "sku": "1563fd25-c3fb-41e7-a906-832ec6041926",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LINING",
+        "price": 0.0,
+        "sku": "4c095b1e-d83d-480a-97ae-66511b93e69d",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 0.0,
+        "sku": "d1a87ab7-ecfb-4095-8e9a-e5c3d6de7ae6",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 0.0,
+        "sku": "1cd47169-63c4-4150-ac9e-408fe123dddd",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.0,
+        "sku": "e2ca4990-8de3-4f82-8968-7f14a958146f",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": 0.0,
+        "sku": "6aac3e46-89da-4b80-952e-cb7d4fad0bc9",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "39fd7ae2-68a9-4692-819e-5aa878d50b94",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "86849a17-ae12-4064-b3a8-6ca6121384f7",
+        "upsert": true
+    },
+    {
+        "itemName": "FLARE",
+        "price": 0.0,
+        "sku": "7bb67a13-8a04-4ff5-a0f2-7764dbf89a55",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 0.0,
+        "sku": "cd4655f5-1c4a-4650-a77a-329f143a9551",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 0.0,
+        "sku": "523f68e1-36c5-4e85-a7f1-0f7cac277b55",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.0,
+        "sku": "946791e8-f443-488c-bbd1-4ad028615bea",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 0.0,
+        "sku": "874bab58-573b-4dda-a4b9-2b022129ddfb",
+        "upsert": true
+    },
+    {
+        "itemName": "W/BELT",
+        "price": 0.0,
+        "sku": "8baa1be5-d8a8-462a-ae78-4fcf6d3a509e",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LINING",
+        "price": 0.0,
+        "sku": "8cbea9c6-c661-4eef-93da-1fd75dc44f2d",
+        "upsert": true
+    },
+    {
+        "itemName": "ANGORA",
+        "price": 0.0,
+        "sku": "90e863e1-8255-4066-831e-4f021c57f556",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 0.0,
+        "sku": "a50f3fda-59f6-480d-85d2-f25fc76f5a65",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "d455198d-185d-4a9b-84e6-865f4e04bcdf",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "83da28d8-cc50-41c0-88c7-21eca2307e9c",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 0.0,
+        "sku": "aacaa842-5559-4463-9335-fd5250cc8048",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "69a689a1-98d7-4c01-b0ac-bfbd94b5ca99",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "135d2723-c441-468b-91d0-06648d660ffc",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.0,
+        "sku": "39c1c7b2-4bce-4acf-949c-76ec5616d489",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 0.0,
+        "sku": "7db0ce57-9517-4fa0-bafe-a5147984cce1",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.0,
+        "sku": "972f9601-2bed-4732-adbd-7dcaa5cb2542",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "ada8b833-2667-44d4-9a06-3cfe0a9ca4da",
+        "upsert": true
+    },
+    {
+        "itemName": "NO CREASE",
+        "price": 0.0,
+        "sku": "d0ee8c3a-4dd7-47c1-85f5-264a5465b9df",
+        "upsert": true
+    },
+    {
+        "itemName": "STARCH",
+        "price": 0.0,
+        "sku": "f25445ff-75cf-4a90-9329-14922431d4db",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": 0.0,
+        "sku": "42012574-3f73-489c-a1ea-56c48d1535fe",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "56b094f9-339c-459e-a43d-68ae6d6f1167",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "718a48b8-3e07-4026-9573-c037f1f6af55",
+        "upsert": true
+    },
+    {
+        "itemName": "FLARE",
+        "price": 0.0,
+        "sku": "698fbdd7-a124-49c5-9563-c10fcb88667b",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 0.0,
+        "sku": "039875cd-4c4f-4428-a165-24034e5233a5",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.0,
+        "sku": "aa44181c-f675-493a-ab87-07773590e215",
+        "upsert": true
+    },
+    {
+        "itemName": "W/BELT",
+        "price": 0.0,
+        "sku": "db69bcaa-e4e6-40a5-9713-1f6a7100bb47",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LINING",
+        "price": 0.0,
+        "sku": "259e199d-f46d-460d-84d0-736d4a217f55",
+        "upsert": true
+    },
+    {
+        "itemName": "ANGORA",
+        "price": 0.0,
+        "sku": "0cd8ff6b-25c5-4dac-831d-6761919a4188",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 0.0,
+        "sku": "b5d9e579-3f1e-4f78-97d0-51e8341f2f2a",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "2021eba4-faeb-4701-9b44-fa8c113f7f0c",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "dd126251-2977-4ca8-8bf1-67f327752538",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 0.0,
+        "sku": "5fb5c1e4-a249-4588-95ef-389d5bb9345d",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "f0837179-905b-4a1e-a30f-ca96ca9eff3b",
+        "upsert": true
+    },
+    {
+        "itemName": "NO CREASE",
+        "price": 0.0,
+        "sku": "9e5a300b-edfc-4d23-b280-bedf9d66080e",
+        "upsert": true
+    },
+    {
+        "itemName": "STARCH",
+        "price": 0.0,
+        "sku": "8ce1ad55-4d21-4929-811d-a186717efb0b",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": 0.0,
+        "sku": "f6ae4af9-1f73-4972-97e1-5bae0ccdde63",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "7c9bd115-659d-44ad-a3a5-0ec4534ef7cd",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "5a477669-dc24-4e28-8e46-9b9775090e49",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "02b12654-71ff-430b-9c74-82d2e5a30529",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "36d4c913-fbdf-480d-9d29-a4bea2cc6af1",
+        "upsert": true
+    },
+    {
+        "itemName": "FLARE",
+        "price": 0.0,
+        "sku": "4bac6c97-78b0-405a-8a26-ba39d9b7d1a6",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 0.0,
+        "sku": "197c9a05-e348-4635-88b7-5b00f5698bc1",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 0.0,
+        "sku": "262d67c5-1746-4d70-88af-cb3f9e832276",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.0,
+        "sku": "d0b1a6df-4fe6-4aaa-af0b-f3bfe871f0d8",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 0.0,
+        "sku": "1d2d1b88-7cad-453c-aa7d-6c83e501037d",
+        "upsert": true
+    },
+    {
+        "itemName": "W/BELT",
+        "price": 0.0,
+        "sku": "4d8ca2f5-773b-4c19-a841-9b7e2bc7add5",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 0.0,
+        "sku": "e638a086-597f-4dab-afa0-c5c4fe2a311e",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "5dd729d8-16a5-4102-b5c7-08f3b9bb3262",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "d88c5856-358f-4d33-9a9a-3e0261e31586",
+        "upsert": true
+    },
+    {
+        "itemName": "ANGORA",
+        "price": 0.0,
+        "sku": "b489f0ad-d356-43fa-bcb2-b22fda9f2602",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 0.0,
+        "sku": "53d2b393-43c6-48b8-a1fd-650e54c72e89",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "6693bc08-851f-4103-81b2-5ca0bff4d4c8",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "83823be9-737b-444c-84a0-8d78519ee248",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 0.0,
+        "sku": "8e0d3884-3c55-4aa5-8c13-2eddcfc74d94",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 0.0,
+        "sku": "339a04ed-a7c5-485e-ae58-16b5ff07877d",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "0b977d51-72c2-4f70-ac32-3c22cb974bce",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 0.0,
+        "sku": "ed691deb-3213-4189-8e2f-753e0e39be95",
+        "upsert": true
+    },
+    {
+        "itemName": "NO CREASE",
+        "price": 0.0,
+        "sku": "8e54a428-311b-4813-90bf-7b1f62c36f91",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 0.0,
+        "sku": "01f3cce8-228b-45d8-9dab-d3e756678f97",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 0.0,
+        "sku": "c7146d26-661d-493d-b30a-200de0adabfa",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "dbdb4ca5-a583-40bf-a3ce-96856e33a008",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "34cefab1-52f7-4bb5-83e1-c3b2e75edc24",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 0.0,
+        "sku": "9b3815c7-a4de-46b1-88d0-e9eb6a590adf",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 0.0,
+        "sku": "c2d32aac-d086-4d9c-832f-1c6d6405e316",
+        "upsert": true
+    },
+    {
+        "itemName": "FLARE",
+        "price": 0.0,
+        "sku": "ad817f1d-fe0f-45f4-8487-40036d804942",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "5035f7ff-0420-4ca4-9eaa-74a753398b91",
+        "upsert": true
+    },
+    {
+        "itemName": "NO CREASE",
+        "price": 0.0,
+        "sku": "eeeb2468-cb12-4f55-b047-850d4f850bd1",
+        "upsert": true
+    },
+    {
+        "itemName": "STARCH",
+        "price": 0.0,
+        "sku": "607caea4-119f-48df-8854-ecaaa200a9bc",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "25e87a10-b996-41bb-a881-323473daca32",
+        "upsert": true
+    },
+    {
+        "itemName": "NO CREASE",
+        "price": 0.0,
+        "sku": "bbe531d6-b238-4afd-98f1-c20db67636ab",
+        "upsert": true
+    },
+    {
+        "itemName": "STARCH",
+        "price": 0.0,
+        "sku": "c72184ec-e8fc-45a2-a453-32eb61c8a5f9",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "285c554f-d402-4522-b7c4-ceff43a59c0a",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.0,
+        "sku": "b4aa093c-0f62-4fca-8058-611d10ada1aa",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.0,
+        "sku": "a21483b3-b186-4d27-b25b-8b25b69b88cb",
+        "upsert": true
+    },
+    {
+        "itemName": "W/HOOD",
+        "price": 0.0,
+        "sku": "8c4ba8f5-71d2-4790-b90a-c3dd231e870e",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LINING",
+        "price": 0.0,
+        "sku": "bbe4a249-9711-4b12-9521-5f5def9b6a8a",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 0.0,
+        "sku": "39b2e9d2-83fb-46dc-800a-cb149f7d4d1c",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "be939210-3a5f-4ad3-a76b-f46030e88686",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "51e59b72-8ddf-4096-aa1b-1d6e3de41cbb",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 0.0,
+        "sku": "10a5d4eb-d9c9-4ac6-9cdc-e1c4dc6a3b79",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.0,
+        "sku": "0239e4df-cb88-4624-8bc6-1efacaf29b27",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "93029b4e-0a89-4385-8386-254ce4d7c40e",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 0.0,
+        "sku": "fad45969-908e-420d-a302-1179bedf6880",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "5b674096-8810-4053-b4dd-e78d08328388",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "71316ff0-77e0-4b1c-b6e5-c4be8594c785",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "806a75fb-0999-4cf8-8755-cb85d43a7ed0",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "c1995076-4489-434a-a50d-78c78794524f",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 0.0,
+        "sku": "d5ef1183-e9c3-461b-86e5-2fdce8aef3f3",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LINING",
+        "price": 0.0,
+        "sku": "4ee32731-eff0-4760-9e9a-d32e46fbcb0e",
+        "upsert": true
+    },
+    {
+        "itemName": "ANGORA",
+        "price": 0.0,
+        "sku": "c1693e5b-9b9d-45bf-a6e2-2ec5bff2df80",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 0.0,
+        "sku": "86beba49-201a-4572-b3b3-6809d1f32eb4",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "cad8e796-2aed-4890-9556-cfb538df2175",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "04b62c9b-28cc-4194-9f9f-9084e562270e",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 0.0,
+        "sku": "76d82a29-864a-4eb9-b58e-472e9e42b073",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 0.0,
+        "sku": "60418f3c-6b64-4eff-86ff-91d2e2bcdb0d",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "d0cee060-b9e9-4c1b-9f9e-ba6e4efa41d9",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 0.0,
+        "sku": "80b3442e-26d5-4395-9263-d22c53abc6b1",
+        "upsert": true
+    },
+    {
+        "itemName": "ANGORA",
+        "price": 0.0,
+        "sku": "8dcf5051-fd98-4b12-810a-d73006bb2370",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 0.0,
+        "sku": "a13ffa77-e68d-4384-855d-410d0e904e7b",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "4179a309-bad6-4b91-8a99-4aa31848d21a",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "7c5fc8cb-1c1d-4593-a949-a61f4a556fca",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 0.0,
+        "sku": "a37883c9-9926-401d-aa68-fd234a1ad973",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 0.0,
+        "sku": "dbfe2ca8-5a64-46a2-a5d9-606a545a0b0c",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "437bd6ba-1e06-4383-ab95-fc8d291beede",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 0.0,
+        "sku": "d8291381-bd67-4cc5-98dd-205b0904a920",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.0,
+        "sku": "79733f30-2443-4c6c-a14d-e914f9f5f011",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 0.0,
+        "sku": "e5414835-96ea-4d1f-bc68-1055f65f96a3",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.0,
+        "sku": "65d0e3d5-9a68-4cc3-a1e9-09899d5dcdf6",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.0,
+        "sku": "3854ad8e-f6a9-4afd-81c6-89d7801ed689",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 0.0,
+        "sku": "b35055c9-eb20-476d-be12-9e58661b02d2",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 0.0,
+        "sku": "0a5037af-48c5-472a-881c-e61a7db817e3",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "5606bd49-d393-493a-9fe6-7e06985a4e42",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "bc68c3a7-835c-4b05-b049-599cc00cd2d5",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "793b0a4d-f6e5-4f84-aa93-658ce1db2214",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 0.0,
+        "sku": "a93d7b28-26b0-4a96-bbc5-1b59c6919c40",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.0,
+        "sku": "d092da71-7293-4e8b-8f7f-0596d71c13e0",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LINING",
+        "price": 0.0,
+        "sku": "b23895ca-27e2-439f-95ba-e66b4959b103",
+        "upsert": true
+    },
+    {
+        "itemName": "ANGORA",
+        "price": 0.0,
+        "sku": "ff288569-345f-4d86-9389-2bb41d483424",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 0.0,
+        "sku": "478a5c20-b22e-4998-ab9a-16021120fbd9",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "a521c144-22fe-4d0f-bbd9-af0a12fef71f",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "e3091bce-b286-4534-9580-7223bc7d52e1",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 0.0,
+        "sku": "b2a3279d-b750-4103-98df-053bd795db09",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "52a65fdd-5fc5-4022-9c08-af860a53c9be",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "8b0bf1cb-8f78-4c40-b9bf-4988c64c57ba",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "7a77cf9e-9b8d-4884-a0bb-fe3b9e77f72d",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 0.0,
+        "sku": "ab74e5f3-191f-41d8-bef4-a4d4d8d576a0",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 0.0,
+        "sku": "17ec7330-987e-4684-8726-50e9d4c944cf",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.0,
+        "sku": "15e02610-7fdd-4ad2-af73-09844b4594fc",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "bb157310-9409-4f26-894e-b17eb8a5a386",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "74320646-dfb3-40d8-8448-38906541adfc",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 0.0,
+        "sku": "68b4cd1d-c0d5-4be2-94b3-3180f6d9b92b",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.0,
+        "sku": "3f125cfd-e9ac-4062-bfc4-62246b3f870f",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 0.0,
+        "sku": "d1998e32-965f-4784-8bd9-ce78b31e0c2e",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "4b2004fa-7486-401a-beb2-c32fffd1cc46",
+        "upsert": true
+    },
+    {
+        "itemName": "NO CREASE",
+        "price": 0.0,
+        "sku": "1989ae27-912b-4782-8caa-67aabad8e9a6",
+        "upsert": true
+    },
+    {
+        "itemName": "STARCH",
+        "price": 0.0,
+        "sku": "ac693fea-45ec-412e-9e5f-2530a9b92498",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 0.0,
+        "sku": "3e57d7b2-7328-4273-87b7-7285eb54f30f",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.0,
+        "sku": "bcb65b75-bb63-471b-b0f4-92079f180a29",
+        "upsert": true
+    },
+    {
+        "itemName": "TUXEDO",
+        "price": 0.0,
+        "sku": "774e9b8d-e69f-4d56-a5fd-fed4f803749a",
+        "upsert": true
+    },
+    {
+        "itemName": "W/BELT",
+        "price": 0.0,
+        "sku": "86152600-3adb-48ea-8987-ec07689c0871",
+        "upsert": true
+    },
+    {
+        "itemName": "ANGORA",
+        "price": 0.0,
+        "sku": "e8629b79-55f3-4cf6-80cb-ea03e6df817a",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "e3b20aa0-d5a3-42b9-b49e-158aa8e50529",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "8c17269e-2729-4a07-b114-2f345d28c7ab",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 0.0,
+        "sku": "46c96611-240c-4620-8e6a-c342e7a335b2",
+        "upsert": true
+    },
+    {
+        "itemName": "FLARE",
+        "price": 0.0,
+        "sku": "33496b4e-9ff9-4c18-82ac-66bf61fe351c",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "e726cb71-cd57-4e62-a278-4760fd28be73",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "06cd05f1-ea2c-4324-a3de-39065bca9250",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "cc05e923-147c-4c8d-8927-b469aa5c7f27",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 0.0,
+        "sku": "80c2c18d-4e29-4160-903b-d6f8944648b7",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 0.0,
+        "sku": "85697e9c-40b7-4dc8-ba70-f313e78ff387",
+        "upsert": true
+    },
+    {
+        "itemName": "FLARE",
+        "price": 0.0,
+        "sku": "3dcd6b94-c86f-4d57-ae3a-24c51c9e0b1d",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 0.0,
+        "sku": "3b117251-d85e-4547-8305-435f79c36c61",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "28ddae6b-0681-4396-a75a-d5678f5394dd",
+        "upsert": true
+    },
+    {
+        "itemName": "NO CREASE",
+        "price": 0.0,
+        "sku": "1708783b-d825-4034-9f4e-6feecb45b329",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 0.0,
+        "sku": "6c73b5d6-7d33-4775-8b6a-3e27dd04280e",
+        "upsert": true
+    },
+    {
+        "itemName": "SKI",
+        "price": 0.0,
+        "sku": "776f5933-90b8-46e6-af92-ff7c0d6e9558",
+        "upsert": true
+    },
+    {
+        "itemName": "NO CREASE",
+        "price": 0.0,
+        "sku": "6dd73807-4996-4e93-b9fd-7a44680e03e7",
+        "upsert": true
+    },
+    {
+        "itemName": "NO CREASE",
+        "price": 0.0,
+        "sku": "ffeee727-c924-49a5-abc8-e8b546a6d50e",
+        "upsert": true
+    },
+    {
+        "itemName": "TUXEDO",
+        "price": 0.0,
+        "sku": "1ff9ac58-9985-43b8-ac82-0367224e74a4",
+        "upsert": true
+    },
+    {
+        "itemName": "W/BELT",
+        "price": 0.0,
+        "sku": "c86c6c53-2384-47b3-81e4-7a6f261bc606",
+        "upsert": true
+    },
+    {
+        "itemName": "NO CREASE",
+        "price": 0.0,
+        "sku": "23b91f75-f72d-4a6b-9ba7-457497d80270",
+        "upsert": true
+    },
+    {
+        "itemName": "ANGORA",
+        "price": 0.0,
+        "sku": "ef522304-c29f-4dae-9d12-e7c3c756bea9",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 0.0,
+        "sku": "899153a4-1015-4b13-ba5a-9cb97354a374",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "3a9cbb9a-f8c5-48e5-ba9f-b1577d56954c",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "ddbdd64e-568d-4b7d-a593-46f83de0ef75",
+        "upsert": true
+    },
+    {
+        "itemName": "FLARE",
+        "price": 0.0,
+        "sku": "f0a0c36d-1ea9-466c-83b5-1970a580caee",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 0.0,
+        "sku": "fedac3d7-e32c-41e0-adda-85e2635aaebc",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "13385871-291d-4c20-bf0f-4d01a545c93d",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.0,
+        "sku": "1703ade8-8e75-4be4-9969-be6687cfa976",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.0,
+        "sku": "c689a25f-b15c-4548-bb6e-78d57d81a837",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.0,
+        "sku": "08155d31-2cf6-4c3d-85a0-91e7db950d13",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "8588ba0e-5fdc-4aec-8058-19159826dc67",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "85e2f9c0-040f-479d-94a3-196957f2de9f",
+        "upsert": true
+    },
+    {
+        "itemName": "FLARE",
+        "price": 0.0,
+        "sku": "dddd6703-1b73-4b7f-8638-7aa84ab78b49",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 0.0,
+        "sku": "9ff08a0d-e213-4087-b0bc-8693d2ac250e",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 0.0,
+        "sku": "4654037d-1bc4-4fd7-bfca-938edff7fac6",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.0,
+        "sku": "cf4921d4-941e-4aa3-985f-13e17e81f594",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 0.0,
+        "sku": "fed56a46-54ce-4b9b-a1b1-5edd91d57067",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 0.0,
+        "sku": "9baa3044-95d1-496c-8c7b-5d4eb2bd1ce3",
+        "upsert": true
+    },
+    {
+        "itemName": "FLARE",
+        "price": 0.0,
+        "sku": "8264ba1b-cf80-4293-a176-ac1e8466d714",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 0.0,
+        "sku": "f4f4e232-a173-4e07-8ebc-c40f58421074",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 0.0,
+        "sku": "c59d6c1d-aa47-437b-aebd-bd2847564171",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.0,
+        "sku": "cbd2cfd9-3069-4fee-af2d-267eb55c2ec0",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 0.0,
+        "sku": "1975dd8b-39f2-4d3a-a480-09c7449cff34",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 0.0,
+        "sku": "6340e4fd-5ade-423e-a9f4-64197a4f5d22",
+        "upsert": true
+    },
+    {
+        "itemName": "W/BELT",
+        "price": 0.0,
+        "sku": "19841050-65fe-4bc0-bf1f-d4727a12bf45",
+        "upsert": true
+    },
+    {
+        "itemName": "W/HOOD",
+        "price": 0.0,
+        "sku": "7c611a2d-a2b9-4d81-9c34-c616416811c4",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "197f2560-f8dc-4329-9871-33f180eeda4e",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "90003058-b680-4872-b29b-dcd954021bde",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 0.0,
+        "sku": "a2da58b0-f450-4453-bc5b-12890c7803de",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 0.0,
+        "sku": "3b2078e1-0303-447f-8e19-697f5a4007d5",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "1466ed47-052d-4294-9add-2ba2c5e2a907",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 0.0,
+        "sku": "06b204b1-cb45-454b-919d-6fd2fd903eff",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.0,
+        "sku": "5540b93f-7cf9-4c74-8042-4c0b4de68a03",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 0.0,
+        "sku": "e73840bd-688a-4e41-bfde-3a684b9f3f23",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.0,
+        "sku": "6ba7659b-227c-47f5-9cf5-ef8cec7ae867",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.0,
+        "sku": "abacf7ac-40d9-43c2-ae50-efa3711f8dff",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 0.0,
+        "sku": "9418c66e-ed2a-4c9a-87fb-8453def1c1d3",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 0.0,
+        "sku": "89c9a1d4-f2ec-4141-a9ab-d0c2c559d3ef",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "abe590ab-5e92-4555-9a05-eefdef73456f",
+        "upsert": true
+    },
+    {
+        "itemName": "NO CREASE",
+        "price": 0.0,
+        "sku": "91d59fac-5c89-4d42-bf39-864aa0d974eb",
+        "upsert": true
+    },
+    {
+        "itemName": "STARCH",
+        "price": 0.0,
+        "sku": "7819225f-05d6-4579-9742-e32c281e5eb3",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": 0.0,
+        "sku": "888098eb-f85a-4074-a18d-2da082daf7b6",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "9330c1af-3c33-4948-ad92-63bc6b3afad2",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "1c5b97a7-58f5-4ad5-9d59-a954227be077",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 0.0,
+        "sku": "f9d89031-fd2d-415a-a442-ba09aae83198",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "b64b58fc-7ef8-4127-8e71-35351b10ae56",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "935b7102-3d98-4e8b-8f61-e260806d8707",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 0.0,
+        "sku": "9d2ecd2e-a0c5-437e-b3e0-1f8cbac4feb4",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 0.0,
+        "sku": "ce98bd33-0e81-4227-ad6d-fb4a4519c49f",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "310b8cc0-9786-4308-8a11-fdec270db89d",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "53d931bd-ca31-48c3-8061-79849c77fe8c",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 0.0,
+        "sku": "a3288b73-5e18-411e-881f-ce8e9c69509d",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 0.0,
+        "sku": "802361f1-9d18-4e6b-b8be-4380c8883bf3",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "fb93d2d6-c303-4ddb-8a10-471a59e7b4a9",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 0.0,
+        "sku": "10e80231-1bd5-43cb-a02d-3c7b22742911",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.0,
+        "sku": "ae506b9d-dedb-4755-9def-463da79cf753",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 0.0,
+        "sku": "d35ce6d6-4832-4eff-aea8-6b90e950ae44",
+        "upsert": true
+    },
+    {
+        "itemName": "W/HOOD",
+        "price": 0.0,
+        "sku": "351ed705-7a7d-416b-bd84-17a45df91098",
+        "upsert": true
+    },
+    {
+        "itemName": "ANGORA",
+        "price": 0.0,
+        "sku": "3f4d2fd4-43e7-42ca-bf66-e770b3b116ec",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 0.0,
+        "sku": "8c9981a3-fea5-436f-a632-2549c8c7108b",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "69b227ad-1574-4666-98ef-c04eefb8ba26",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "c14862e5-aed7-42ac-9fa9-ce64b40c22bc",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 0.0,
+        "sku": "b8d41056-3789-4866-b7d4-f1fac3c06e7a",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 0.0,
+        "sku": "7b758400-d321-4edb-9307-5bb42c10db41",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "65e14252-8625-40f4-bbfb-4d32f9c5ab43",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 0.0,
+        "sku": "e0b62fb4-c163-48c5-b3c1-47281d648a5a",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.0,
+        "sku": "5ea59efd-2256-4217-8685-94c4802a2775",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 0.0,
+        "sku": "d84ff453-9c69-46e0-a6bf-05fc057071b9",
+        "upsert": true
+    },
+    {
+        "itemName": "FLARE",
+        "price": 0.0,
+        "sku": "713019c3-f53f-4243-947e-ac060fb072a0",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 0.0,
+        "sku": "26d5b16c-5864-4261-9ef0-8b859cade45b",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 0.0,
+        "sku": "7d10c425-f6d6-4e2b-9187-ff939b502503",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.0,
+        "sku": "18cff59b-66cc-4ae6-a95d-c13ab1e50be6",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 0.0,
+        "sku": "493697ca-f80d-4ab2-bb90-872b08286478",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 0.0,
+        "sku": "89775054-9aae-45fb-af75-4020d2d91a71",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "d5a1431b-050c-4c0c-89ea-159838f9e836",
+        "upsert": true
+    },
+    {
+        "itemName": "NO CREASE",
+        "price": 0.0,
+        "sku": "392e46e2-bac9-4376-8805-11a44cd6dd55",
+        "upsert": true
+    },
+    {
+        "itemName": "STARCH",
+        "price": 0.0,
+        "sku": "5873f534-6e53-4d14-81d5-cf6e0f3d252d",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 0.0,
+        "sku": "d1ebec60-5479-498e-b62a-8b62e6d9f5ed",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "c97a74e1-6673-4f65-873e-8757a95db4fc",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "b232efd0-6090-4399-8a8b-7621d461d018",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "dc801453-44a2-40a0-b6a9-8911322a9f0b",
+        "upsert": true
+    },
+    {
+        "itemName": "NO CREASE",
+        "price": 0.0,
+        "sku": "86b200bb-b5ff-4310-85d8-ad8034073fc0",
+        "upsert": true
+    },
+    {
+        "itemName": "STARCH",
+        "price": 0.0,
+        "sku": "78ab5e55-b271-490d-b268-4e62bd54a304",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "5e8996f5-f2c9-4b19-8b5f-659af2a8d1ac",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "d2c69f1a-8c52-4c71-b617-b591b705d68d",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 0.0,
+        "sku": "d386bdb9-8b60-41ed-b74e-d78fa8a06d8d",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "7125a8a6-8ae1-4ccd-8700-2e669dd95b6d",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "dc6087f4-a7d8-4070-9411-a39a42df6b18",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 0.0,
+        "sku": "c503323d-2cad-467c-a5e9-ca44658b32f6",
+        "upsert": true
+    },
+    {
+        "itemName": "ANGORA",
+        "price": 0.0,
+        "sku": "978dfdbf-42b4-4df6-ac46-a507291e8a11",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 0.0,
+        "sku": "c3efb486-0c09-4d30-bfb2-a13698d813b0",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "88a64adc-268c-4bcc-b637-e2ede912bd40",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "fff62732-f2e3-448d-8b19-e2cc63e45e11",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 0.0,
+        "sku": "0028ed3e-cd21-45a7-99c1-4a74eadf4078",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "81c26fa3-f7b1-486d-a46e-722e27e69183",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "b3a2044f-1f71-458b-9c43-d557a3cda174",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "014576fa-6cdb-4162-9353-9733abdd70b3",
+        "upsert": true
+    },
+    {
+        "itemName": "PLEATED 2\"",
+        "price": 0.0,
+        "sku": "d7989ebd-1ac8-4c54-b509-5815eaf03986",
+        "upsert": true
+    },
+    {
+        "itemName": "PLEATED 1\"",
+        "price": 0.0,
+        "sku": "e36ba6b5-6e52-4690-82a2-54590affa29a",
+        "upsert": true
+    },
+    {
+        "itemName": "PLEATED 1/2\"",
+        "price": 0.0,
+        "sku": "bf1cfae2-4d28-46b9-a5a8-1d2e9a7cd4f2",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 0.0,
+        "sku": "706effdb-92ab-4d70-83a0-74cf936e172c",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.0,
+        "sku": "25cdda72-7eb3-4ec5-ace2-fc44a5d837b0",
+        "upsert": true
+    },
+    {
+        "itemName": "TUXEDO",
+        "price": 0.0,
+        "sku": "7f7c1ead-70c9-4060-8d5c-da93ea668998",
+        "upsert": true
+    },
+    {
+        "itemName": "FLARE",
+        "price": 0.0,
+        "sku": "20187e76-ca60-4df4-8436-7f79cc1393b0",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 0.0,
+        "sku": "4677723d-af18-4ce2-b6d7-a8e68c627111",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 0.0,
+        "sku": "5cbe4a73-2aac-4d67-ab82-2e3b1963813f",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.0,
+        "sku": "3515736a-5814-4cb1-bb10-65c0e58c36f1",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 0.0,
+        "sku": "87708cbe-ae36-4c75-8b72-fe7dbcef8ff2",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LINING",
+        "price": 0.0,
+        "sku": "a0ea1b9d-4a73-4ad9-90af-19da705c769c",
+        "upsert": true
+    },
+    {
+        "itemName": "ANGORA",
+        "price": 0.0,
+        "sku": "b53737e6-839e-4f3a-a49f-4ebd830fd094",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "04f98ed6-8cc4-432a-978c-79c05468996e",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 0.0,
+        "sku": "3a4fff03-ecc9-4e6c-b553-bbf85b3cc946",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 0.0,
+        "sku": "22df14e6-238a-4fa1-bc84-0c8676982698",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "02615972-5a58-4763-83c9-eec78e37c0d0",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "64edc513-9cc9-459f-8f85-c2ac0826ddf0",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 0.0,
+        "sku": "94740a6a-5eb3-4e80-8950-1f3b60076743",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 0.0,
+        "sku": "6cf25cf3-cc7c-4dab-944c-efdc595c0049",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "9c498ee9-b0a6-4c80-ad49-a5eb5e4200f7",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 0.0,
+        "sku": "a93ba7e2-5042-4830-b110-349b3db2ab37",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.0,
+        "sku": "0b8ce749-2de2-46ad-a4a8-cf725a45fe5e",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 0.0,
+        "sku": "08da181a-0b2f-4be7-8aae-1b3f614fd969",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.0,
+        "sku": "36dae950-fd94-4b71-8953-c962b97a0cea",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.0,
+        "sku": "2107339d-b727-4ad1-a186-cebbc39e02e1",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 0.0,
+        "sku": "123297ac-3962-4336-b247-51bffcafa5fc",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 0.0,
+        "sku": "c1d8fb19-106c-48c5-863a-6433f806156c",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "7560ea4f-84c9-4c3b-913a-2f0e414d3fb2",
+        "upsert": true
+    },
+    {
+        "itemName": "NO CREASE",
+        "price": 0.0,
+        "sku": "5da645fc-6992-46a9-afde-c3ee63033df9",
+        "upsert": true
+    },
+    {
+        "itemName": "STARCH",
+        "price": 0.0,
+        "sku": "44e5d162-1d4b-403b-b680-1d058b69c9fc",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": 0.0,
+        "sku": "856cb555-7e33-4a19-bd07-cf05d81c0db4",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "158554b0-af03-4aee-92af-07d1cfce541c",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "e1da0d37-19e1-4211-8a97-6f9224ad9cdb",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 0.0,
+        "sku": "b419d64b-8bce-477e-846a-d9a9b2fcd5b6",
+        "upsert": true
+    },
+    {
+        "itemName": "FLARE",
+        "price": 0.0,
+        "sku": "8f05ae41-2591-4904-918f-e0fcd44006d4",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 0.0,
+        "sku": "784c7584-c105-41c5-b976-4910c13b68da",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 0.0,
+        "sku": "1470efab-d180-41b8-a816-df9993c3ba11",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.0,
+        "sku": "47fce1ea-9d47-4971-a60b-b0f64047967f",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 0.0,
+        "sku": "aca53afa-da80-4228-b684-890dc1a5428a",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 0.0,
+        "sku": "946a0eba-ed04-4db9-a77a-5f720a1fa212",
+        "upsert": true
+    },
+    {
+        "itemName": "W/BELT",
+        "price": 0.0,
+        "sku": "cb3b4ed8-631d-4094-89ae-32b4de9afb70",
+        "upsert": true
+    },
+    {
+        "itemName": "W/HOOD",
+        "price": 0.0,
+        "sku": "e22b641c-bf1d-48fe-a544-64f25f480c1a",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "91cc12bc-cb3c-4be9-9c8a-c13c3c804b18",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "53a6823b-5c6e-43da-b34b-88965975d678",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 0.0,
+        "sku": "fdcaa48f-c4b0-4acf-a5e5-58835f59366c",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 0.0,
+        "sku": "8e4ece53-8aba-436c-a203-47af77aac211",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "57576f11-3efc-426c-ac0c-21df214a4076",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 0.0,
+        "sku": "b112c461-6f9a-4d75-b4cd-1c0a917b45f0",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.0,
+        "sku": "fd880fa6-9959-43b8-9dca-32e9bee40946",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 0.0,
+        "sku": "61c3e6eb-389c-4be9-b7e8-f0c22ccde3e4",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.0,
+        "sku": "e8d11e45-bbf7-4835-b33f-10298d1003aa",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.0,
+        "sku": "e60fe4a4-abf7-44c4-8e35-fc9f758f07b0",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 0.0,
+        "sku": "fa4b6864-2c86-462a-8d42-e63c720b6a1f",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "941129ef-c313-434c-8af8-18bc50df54f3",
+        "upsert": true
+    },
+    {
+        "itemName": "NO CREASE",
+        "price": 0.0,
+        "sku": "dea74086-be44-4a0f-af98-0e3d921ef3f5",
+        "upsert": true
+    },
+    {
+        "itemName": "STARCH",
+        "price": 0.0,
+        "sku": "ca782251-90c6-41bd-96a6-9ea09b4ce8ca",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": 0.0,
+        "sku": "9fcc23ff-c5cc-4c3f-b44c-d6726410d900",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "ae66d8cf-442e-47de-8d98-364bb9e2c003",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "d4e8a5c7-72a1-47eb-a55e-ae81021af268",
+        "upsert": true
+    },
+    {
+        "itemName": "FLARE",
+        "price": 0.0,
+        "sku": "626a51df-30fa-4243-ae10-6fb7431a8f61",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 0.0,
+        "sku": "88a0cba2-3973-44c4-bb21-286101932c63",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 0.0,
+        "sku": "dd92e00e-665e-41ae-941f-a435e2766a9d",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.0,
+        "sku": "cb9639de-a9e6-4b3c-8821-a35c2a60a3f6",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 0.0,
+        "sku": "50ef4cf3-b580-423a-88ec-4db9002b0601",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 0.0,
+        "sku": "2f9fe341-1392-402c-9ee3-828fc4c3ff8c",
+        "upsert": true
+    },
+    {
+        "itemName": "W/BELT",
+        "price": 0.0,
+        "sku": "9146c9a5-911a-43ab-9b8d-b8e3925341a2",
+        "upsert": true
+    },
+    {
+        "itemName": "W/HOOD",
+        "price": 0.0,
+        "sku": "b846e7d8-0005-4df0-97df-60526fb152f7",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "fbff33dc-009b-4db3-8ae6-a89927633fe2",
+        "upsert": true
+    },
+    {
+        "itemName": "NO CREASE",
+        "price": 0.0,
+        "sku": "b56db47b-2196-4b21-ad97-835f1a6fe7ff",
+        "upsert": true
+    },
+    {
+        "itemName": "STARCH",
+        "price": 0.0,
+        "sku": "83346379-8aa5-4869-96db-02aa59dbad85",
+        "upsert": true
+    },
+    {
+        "itemName": "W/HOOD",
+        "price": 0.0,
+        "sku": "1877cfaf-c70e-486b-b9d1-2bb03fbd4531",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "00dac4ba-d695-4751-a80a-fa4329eade4e",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "6af99960-d054-4c53-9d90-e7b72cba29e3",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 0.0,
+        "sku": "27b54039-fb75-44c3-93b1-66fe7d8f3cb5",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "4b0f92f4-5f94-48a2-9ad2-e3d07cf2af1b",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "1f0054cb-a649-448a-8a33-d076ffd83e72",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "9feff9ab-8dc3-4230-a1fc-8977e68c1006",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "fb2e425a-38f6-4ff4-b354-894758d5fd4d",
+        "upsert": true
+    },
+    {
+        "itemName": "NO CREASE",
+        "price": 0.0,
+        "sku": "4b9aea8c-be5a-4bfa-82d9-f58c5b5409c9",
+        "upsert": true
+    },
+    {
+        "itemName": "STARCH",
+        "price": 0.0,
+        "sku": "0f3aef10-7038-4d07-8de6-621425b0a7a0",
+        "upsert": true
+    },
+    {
+        "itemName": "TUXEDO",
+        "price": 0.0,
+        "sku": "bb904cd0-e2b4-4f4f-9126-304ed49a9417",
+        "upsert": true
+    },
+    {
+        "itemName": "W/BELT",
+        "price": 0.0,
+        "sku": "ae0d69e9-d3a2-4c47-bf8c-68e3db6887bf",
+        "upsert": true
+    },
+    {
+        "itemName": "ANGORA",
+        "price": 0.0,
+        "sku": "b8dc6b16-0f65-488d-a6a1-a6a3bfd239a8",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 0.0,
+        "sku": "aebb98ae-43e4-41d3-996e-525135fe7fc7",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "6b82ce5c-b47e-40e7-9f0f-4f7479040001",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "3a6444cb-4292-44f5-b8a1-0890642fbe9b",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 0.0,
+        "sku": "fd76aa1a-5d7b-4bb4-a974-bd4f2bc63ad6",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 0.0,
+        "sku": "41d54a7f-89a2-40e2-977d-615baa42b871",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "1f634fe5-a2c1-4e31-9ccf-4e7c00c31eb2",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 0.0,
+        "sku": "aa8731bb-fa4c-4958-9921-ab9fa2f2d6a0",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.0,
+        "sku": "d943891e-1863-49c4-a619-519529cd918f",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 0.0,
+        "sku": "a2e2d523-1277-48e6-941e-dba2861161fe",
+        "upsert": true
+    },
+    {
+        "itemName": "ANGORA",
+        "price": 0.0,
+        "sku": "347c66eb-a3c9-4411-9a19-f2358b3819cc",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 0.0,
+        "sku": "89ef26d5-3c14-4193-bd7c-50ceae82d4b8",
+        "upsert": true
+    },
+    {
+        "itemName": "TUXEDO",
+        "price": 0.0,
+        "sku": "7be67309-e7e2-409e-8f69-34a5da7818ea",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "a0b3bb20-43e2-4898-b87f-ce769ed789a7",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "ccece4b8-adb7-4eb2-bb80-76e422b2b21e",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 0.0,
+        "sku": "b77670e6-b500-4d19-af7e-85c186be1655",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "6779fc8a-3404-4103-98d0-966e45a603d0",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "27728d5c-bd6c-4225-9a00-b49d20283425",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.0,
+        "sku": "2d79ddf2-36f8-4712-8394-8ba7db08ec98",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 0.0,
+        "sku": "25607aee-edb0-4e33-9b60-e672e3a4a43a",
+        "upsert": true
+    },
+    {
+        "itemName": "FLARE",
+        "price": 0.0,
+        "sku": "9a6f82bf-edff-4ee6-af39-aad69f52839e",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 0.0,
+        "sku": "d3ead59e-11ff-48bf-ae7e-8399422f33b6",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 0.0,
+        "sku": "d6c367a2-e164-4890-ac47-4fdd4a44826f",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.0,
+        "sku": "a934c611-ab31-4425-9d7d-01148bd27cfc",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 0.0,
+        "sku": "a416e155-d0d8-441e-8ae3-d7c24bcd2ec3",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 0.0,
+        "sku": "4f06bc38-7771-4616-be82-d69669257f7e",
+        "upsert": true
+    },
+    {
+        "itemName": "SKI",
+        "price": 0.0,
+        "sku": "58901fa9-f63f-4aab-b000-1d56f54bbd2e",
+        "upsert": true
+    },
+    {
+        "itemName": "W/BELT",
+        "price": 0.0,
+        "sku": "b56b6e9c-e8dc-400e-9b80-f87e673895cb",
+        "upsert": true
+    },
+    {
+        "itemName": "ANGORA",
+        "price": 0.0,
+        "sku": "35e93d57-a863-4d60-a4fe-ef7cc872504a",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 0.0,
+        "sku": "cc37859e-03fb-4d45-a4e6-74b8da17abab",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "ef42d6ed-4c57-4db2-92da-7cb0423ff6b0",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "2575340b-6bcd-4807-affd-57bfd9e78b5d",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 0.0,
+        "sku": "a32eacd4-7586-403d-9329-70c6ca14768e",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 0.0,
+        "sku": "5e6d50fa-ea94-4fbc-b44e-e517014a68fc",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "ab1ed714-14cb-42cd-865e-d4511b3f1f1a",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 0.0,
+        "sku": "603c632c-22ba-4929-bab2-1206823fa0ff",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.0,
+        "sku": "6e6abb6d-2082-4b94-b8be-15a8fcfa4101",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 0.0,
+        "sku": "7ccec373-c34b-4e12-9d17-979e809b0600",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 0.0,
+        "sku": "f5362e73-87e2-422f-a08b-f79a9753c602",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 0.0,
+        "sku": "923beeb5-de7a-43cf-bb65-00b8b3eb4f5c",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "f2bbf803-251a-474c-b375-f67876c21b87",
+        "upsert": true
+    },
+    {
+        "itemName": "NO CREASE",
+        "price": 0.0,
+        "sku": "ae7f9509-c6ce-45f8-bbdb-070bfbacd111",
+        "upsert": true
+    },
+    {
+        "itemName": "STARCH",
+        "price": 0.0,
+        "sku": "5a23f7cf-df40-48b9-a6d1-a59948729e27",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": 0.0,
+        "sku": "8729c640-7b55-4a41-be38-d6a75fe84db1",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "7fa808df-a539-4ef4-a302-8c5ccaf2b367",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "7e6b5a34-5c7c-4e50-b654-d7f2eccea968",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 0.0,
+        "sku": "2b54eb4e-a3b1-4cde-80d4-9a1371848c5f",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 0.0,
+        "sku": "ff495ca9-b4ce-4f73-a17a-384c919c26ae",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 0.0,
+        "sku": "e7fa9ad1-3ff0-4486-b483-7cac6cb29931",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "a5daae78-3b2f-481e-aa05-c479c50ee6b1",
+        "upsert": true
+    },
+    {
+        "itemName": "NO CREASE",
+        "price": 0.0,
+        "sku": "6afc4d5d-003f-4705-b3e3-c20cf1a215c8",
+        "upsert": true
+    },
+    {
+        "itemName": "STARCH",
+        "price": 0.0,
+        "sku": "092d0a33-69d2-4abd-9824-e3dacaa03f93",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": 0.0,
+        "sku": "f8d80b9a-e842-4362-8ffa-e45f90d29ca2",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "36dee7d0-37a2-4804-81e7-e818d744579d",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "2541fbaf-5c93-485f-be88-7b16c81536b4",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 0.0,
+        "sku": "a515f4ed-a42d-473e-bc89-ea5e00220001",
+        "upsert": true
+    },
+    {
+        "itemName": "FLARE",
+        "price": 0.0,
+        "sku": "962c0b8c-5075-4b58-a8f4-571f602ac23a",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 0.0,
+        "sku": "14af3137-589a-42ae-bab5-9ebfb286cde7",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 0.0,
+        "sku": "27b1c086-acc1-4eb5-8ea6-0bfed763c60d",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.0,
+        "sku": "607c7d7f-a58d-404c-8ace-64a733bf2c36",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 0.0,
+        "sku": "b22e4f71-6c97-4bb1-9fe8-8559256cfd31",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 0.0,
+        "sku": "cc0493df-79d6-4819-b21d-1460743f4e1f",
+        "upsert": true
+    },
+    {
+        "itemName": "SKI",
+        "price": 0.0,
+        "sku": "b45efa5d-c662-49ad-b5ff-a979e8cca25f",
+        "upsert": true
+    },
+    {
+        "itemName": "W/BELT",
+        "price": 0.0,
+        "sku": "0ff5fd60-6cf4-4bcc-8363-3ac914c4fdaa",
+        "upsert": true
+    },
+    {
+        "itemName": "NO STARCH.",
+        "price": 0.0,
+        "sku": "ac49cc67-ae84-4059-ba97-82a4a3319de2",
+        "upsert": true
+    },
+    {
+        "itemName": "LIGHT STARCH.",
+        "price": 0.0,
+        "sku": "003c741f-cd00-43bb-9008-9547c1b557d7",
+        "upsert": true
+    },
+    {
+        "itemName": "MEDUM STARCH.",
+        "price": 0.0,
+        "sku": "fe719ada-4762-4206-8c1a-06c3d6af7842",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY STARCH.",
+        "price": 0.0,
+        "sku": "7f906ebf-005c-47ae-8b0a-527346e2fd74",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 0.0,
+        "sku": "e7d8e9ef-d346-4336-a2b3-a4f2e3e75513",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.0,
+        "sku": "07c48bcd-12de-420e-a3bf-e40aaeeb5447",
+        "upsert": true
+    },
+    {
+        "itemName": "FLARE",
+        "price": 0.0,
+        "sku": "f245dd8e-db84-46e8-a4d8-8a5c183549e8",
+        "upsert": true
+    },
+    {
+        "itemName": "FLAT",
+        "price": 0.0,
+        "sku": "613babd4-3fb7-41ba-a56f-d254815b6a4d",
+        "upsert": true
+    },
+    {
+        "itemName": "FLAT",
+        "price": 0.0,
+        "sku": "a6dfa7aa-b3fe-40bb-8dc5-07c762c495b8",
+        "upsert": true
+    },
+    {
+        "itemName": "FLAT",
+        "price": 0.0,
+        "sku": "1b37246d-f52e-4d11-9928-10227c1c3503",
+        "upsert": true
+    },
+    {
+        "itemName": "FLAT",
+        "price": 0.0,
+        "sku": "2fee3097-9859-4dfb-9ebf-3d52924d8d33",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "20f51e6c-76cd-4dca-818c-5baf339381c6",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.0,
+        "sku": "f6ed91ba-1857-4a24-8d7b-beafd57058a8",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.0,
+        "sku": "f1f00b58-bc20-4b31-9924-8e423dc396e8",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.0,
+        "sku": "b5bb1079-6dd9-4aba-a97a-460669c6f82d",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 0.0,
+        "sku": "59e09b23-6c7f-4694-8ee9-6021f5c52154",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "aefc4f1f-46e8-42f8-81be-d3c72b35ff32",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "eea45094-8da8-4070-be47-719a9b544f6a",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.0,
+        "sku": "c6d2a0b9-9930-4d85-973c-01bc7f70aed8",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.0,
+        "sku": "5ad24303-dd6e-4d44-9608-30a8273846f6",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.0,
+        "sku": "ad52e474-66ad-44b1-af58-bdf7b4ebecf2",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 0.0,
+        "sku": "b40194c1-26f5-4527-8ae7-69a8dce3bd17",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "aed894ab-2db0-4d7a-8053-19295afb4a8e",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "a0d83b30-93a0-4d50-ace0-05c1ac25f186",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.0,
+        "sku": "ef6f9bc1-5f63-40f0-bf12-baa4ddc309dc",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.0,
+        "sku": "13683718-11df-469f-bad0-34d3c8b3558e",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.0,
+        "sku": "d9af7ccf-cecd-40b1-aad9-891426f68c1a",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 0.0,
+        "sku": "3f884e69-3fbd-4886-bfbc-c8e9a2e66f3c",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "71e04a5b-621d-458f-82db-f1e2ba828ce4",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "d5c3f237-e1ab-43db-9c05-169f8231b856",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.0,
+        "sku": "03b5cdc4-56e8-4391-8591-6edcecdf7706",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.0,
+        "sku": "1ea6c45c-139e-46ed-bcc3-e39eebbed00a",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.0,
+        "sku": "fad58801-15b9-4c37-9350-4768d1e75e7d",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 0.0,
+        "sku": "85e92774-e98e-4643-bfa5-dae2b31cb4bd",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "7bfc3c5c-4661-4d5d-84cd-0a03bde9606a",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 6'L",
+        "price": 0.0,
+        "sku": "9451d07a-d775-4f99-a9f3-91eda33933fa",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 6'L",
+        "price": 0.0,
+        "sku": "3881a295-aaa6-4aa1-9db2-79f383e64ef5",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "9103a19c-cf44-4279-967a-9bdb6ed748c2",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.0,
+        "sku": "b2f09d72-7803-4874-8417-db337e1fbd30",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 6'L",
+        "price": 0.0,
+        "sku": "fe2b8450-cac2-4ba1-a186-0caf911670c6",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 6'L",
+        "price": 0.0,
+        "sku": "1fe5d92e-2a62-406d-b1af-00523378b696",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "0f9c7bb5-b859-44a7-bfee-c29517543b9e",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "194135d7-c207-4dd5-a1bf-c5071647b05e",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.0,
+        "sku": "d512f6d5-e4bf-4a40-ae88-ec8156d5ea7d",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "15208541-c92f-441d-961c-577a18400f3a",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "0ec505fe-1ff0-4cae-8999-37d594ba56cc",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.0,
+        "sku": "e3f30920-5041-430e-ad33-37fbee3112d3",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "b578e1c7-98a7-4906-8700-ae0f07aa0b44",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "6dd8decd-296b-475f-b0da-44a7e8847f9f",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.0,
+        "sku": "d1f50925-af1d-4524-9758-86980261f5b6",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "ac0d1341-21f9-4b39-b761-9deb3a7fee34",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "d75229a3-ce38-4af7-a47f-44eba55eac97",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "24cbccb8-ff1f-41d5-b5c3-d5031e187039",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.0,
+        "sku": "c266d82b-0b8d-46d1-8b33-73197da70af6",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.0,
+        "sku": "6a73be4e-ce3d-4d20-aecb-f83ab3602a9e",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "73da27d3-49ad-4f9e-869d-53bcc22370d0",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "10200b13-af1c-4097-a7a5-965aa195d60d",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.0,
+        "sku": "ad0108da-57b8-483e-b4ac-7edef8a982ec",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.0,
+        "sku": "e351c792-f2cd-46f7-b9e9-15259fd0dc64",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "db58519a-3f94-42f6-ac3a-ebfa74005bf5",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "c4290f8f-2aad-4fe5-b80f-13a5a40cf27c",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.0,
+        "sku": "11457860-d954-46af-832c-0e1f3bdf33c3",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.0,
+        "sku": "41843254-0659-4de2-b948-30d92348b166",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "5f1a3635-49f8-44f8-83f4-51173120a7cf",
+        "upsert": true
+    },
+    {
+        "itemName": "ROUND 5'DIA",
+        "price": 0.0,
+        "sku": "aedcceff-fa4a-407c-ba25-8fc90b03fb33",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 6'L",
+        "price": 0.0,
+        "sku": "ed5af9bf-8cf6-4c5c-a784-8ddbbeeabc6c",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 6'L",
+        "price": 0.0,
+        "sku": "a1b5f03f-a978-4c15-93f1-e5c2439b29b9",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 6'L",
+        "price": 0.0,
+        "sku": "1068831b-b7af-4f27-bd48-270924cb6eec",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 6'L",
+        "price": 0.0,
+        "sku": "b91f755f-8f87-4992-8350-0da2b3a4388e",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 6'L",
+        "price": 0.0,
+        "sku": "eabac621-da0c-492c-bff4-29aa3d29cbce",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 6'L",
+        "price": 0.0,
+        "sku": "a7ebb80d-5fd8-4f6e-a654-c7267007267c",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.0,
+        "sku": "f6f74042-7e2f-4200-93e4-c215a89a3afe",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.0,
+        "sku": "e714f06d-3bc0-4ab2-a275-4f2f0401dae2",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 0.0,
+        "sku": "ab7d5d07-e430-401d-9572-ed75a9fdfe25",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "a7d0f06c-1ae2-460c-9338-53eab62a4747",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.0,
+        "sku": "52bb5521-3f40-47ee-8f13-a3a5cd76293b",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.0,
+        "sku": "30923715-93a2-4078-9f5b-867a5f945cdd",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 0.0,
+        "sku": "5557b477-ad5b-4e3e-9892-cf48b168065a",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "63dac0c3-2088-4b19-8fee-4b24e3d3df22",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "bfdf73f4-4082-47e1-805d-bc2191d30aa8",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "b333b7ab-b1de-40a8-8bed-5c4f63724216",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "5705115b-d365-49f1-b423-3836348d0cf1",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "29f9a355-6470-4165-8617-b1df1001e5be",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.0,
+        "sku": "e57c22e3-c29a-4a21-ac50-a4c0ff9e13c1",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.0,
+        "sku": "fa99aacb-0844-4042-9c20-f0c22e817efa",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 0.0,
+        "sku": "52e62a2d-28e8-4dca-91e4-344f531323dc",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "190fdc40-072f-4139-b7f0-76734efc2687",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "0bb7b4c7-6c83-48a6-942d-398e89db1ab4",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "81178de4-8fd7-433d-b282-daaf84b27a7b",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "de31dc3e-f04f-4585-a014-a26d87c3b729",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "8a3976c5-25e2-4123-8c3c-c585b07e57ca",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 0.0,
+        "sku": "3b78b005-b6da-4730-a895-687bc83f13f6",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.0,
+        "sku": "47c9a6a2-2e66-46ea-ba3b-a0eb43360e26",
+        "upsert": true
+    },
+    {
+        "itemName": "SKI",
+        "price": 0.0,
+        "sku": "48c306c3-0a30-413a-91b7-5e2be5ce0cb3",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 0.0,
+        "sku": "b5c26c5f-00ee-4b36-bc1e-bc1b984a9cff",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "de0505ba-2823-4f8f-8213-31f345e7cc9b",
+        "upsert": true
+    },
+    {
+        "itemName": "FOLD",
+        "price": 0.0,
+        "sku": "036ae65f-0789-40d4-9e58-87765958700d",
+        "upsert": true
+    },
+    {
+        "itemName": "HANG",
+        "price": 0.0,
+        "sku": "1998f8e0-b2d3-434d-bf0e-289e5313e392",
+        "upsert": true
+    },
+    {
+        "itemName": "FLARE",
+        "price": 0.0,
+        "sku": "555a45d5-ad50-4afd-b8b2-6fcb25c4bd6f",
+        "upsert": true
+    },
+    {
+        "itemName": "FLARE",
+        "price": 0.0,
+        "sku": "568992fd-2968-4835-afba-b722be1ee9fb",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 0.0,
+        "sku": "c19ea6d3-802d-48ff-8f86-c25e24cb6d95",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.0,
+        "sku": "734e6f11-4138-4e6e-8b34-4f1ce2d59b1c",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "2b3eed8c-42e4-452d-9d54-4f8fe15baad9",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "e760ee35-bfc9-4219-9aae-8ab1ec40e2aa",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 0.0,
+        "sku": "63825e21-9b00-4c61-927d-b4b01e7d6280",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 0.0,
+        "sku": "34ab4ea3-6a9c-4da2-930b-fc120f72df22",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "3e61568a-9975-444a-bac3-2eb22c5e2d22",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 0.0,
+        "sku": "bae71899-a8e2-450b-9e3e-70429d47139f",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.0,
+        "sku": "32dd61e7-8087-482f-9c8b-e48f0bf622d6",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 0.0,
+        "sku": "3870733d-1d08-4803-9392-44e5aa174a49",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "775ccb02-e959-4ba8-a9ba-28e5bb61a1df",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "ca90b031-f962-489b-9691-f889dc3ecd9b",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 0.0,
+        "sku": "d54019f5-d2a8-4ae9-bac8-221f65f7dcf3",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "002b0a41-3623-48f9-b65b-8783342455ed",
+        "upsert": true
+    },
+    {
+        "itemName": "FOLD",
+        "price": 0.0,
+        "sku": "5fed9637-64a1-40c6-a253-7cb1d2a41a04",
+        "upsert": true
+    },
+    {
+        "itemName": "HANG",
+        "price": 0.0,
+        "sku": "0f2ab92f-51cd-4597-8f3d-4517c2331c01",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "bccb0a37-2805-4655-bb41-ba316fa24aa3",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "5dd11074-80f5-4a31-bf92-d529a2520d97",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 0.0,
+        "sku": "05a1dca0-f120-4045-b6b2-9c8e5cfb9ffe",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 0.0,
+        "sku": "02d32d12-1a3c-4f5d-8270-2603f83274e4",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "f8af2b70-e713-414f-95f6-cfd8254c7505",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 0.0,
+        "sku": "ff049b83-386f-45f5-99fe-965dc65bf22e",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.0,
+        "sku": "3988ddaa-72b6-4642-98af-13dff2b38b43",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 0.0,
+        "sku": "5794aa27-13d6-47a0-afb2-e26b7235348d",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "ef059784-b921-4151-822f-767f3e523608",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "30b6346b-d886-4670-afe7-4ef737165f01",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 0.0,
+        "sku": "d79e276c-58f9-47f4-a3fb-7d26801b6ada",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "4159e85e-9d6f-4709-9148-dd07e4ffb9d9",
+        "upsert": true
+    },
+    {
+        "itemName": "FOLD",
+        "price": 0.0,
+        "sku": "6d447958-8ea7-4e72-8886-edba0393f4a1",
+        "upsert": true
+    },
+    {
+        "itemName": "HANG",
+        "price": 0.0,
+        "sku": "d58b0033-3ad2-43ee-b3c1-f78d63248bd1",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 0.0,
+        "sku": "3d44567b-8ab3-45f2-a958-36069fa5bf53",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.0,
+        "sku": "8389a0ba-55d6-49fc-ae18-fbb43816816b",
+        "upsert": true
+    },
+    {
+        "itemName": "SKI",
+        "price": 0.0,
+        "sku": "21042476-1ea2-442b-a93d-6043ddbb2721",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "50a43fec-cb1e-4a96-bc79-4a025d8f9157",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "44d2d04b-56de-4cb6-ba69-758998189937",
+        "upsert": true
+    },
+    {
+        "itemName": "PLEATED 2\"",
+        "price": 0.0,
+        "sku": "c029477c-a729-4b0f-ab68-ffd53c5730d4",
+        "upsert": true
+    },
+    {
+        "itemName": "PLEATED 1\"",
+        "price": 0.0,
+        "sku": "45b4fdc3-1af5-4ec5-93de-52c33c1270d7",
+        "upsert": true
+    },
+    {
+        "itemName": "PLEATED 1/2\"",
+        "price": 0.0,
+        "sku": "109b0337-d706-4885-a784-d024f41349b9",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 0.0,
+        "sku": "ea002920-e6e8-4d05-9ade-8a5e1579d7c9",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.0,
+        "sku": "b6c39063-4515-4502-aba8-03eaf515ab28",
+        "upsert": true
+    },
+    {
+        "itemName": "TUXEDO",
+        "price": 0.0,
+        "sku": "f5033603-7892-4ac9-837b-43e5339e6f74",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "d207e757-b16b-4b38-abd9-9a3d013748db",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "b28b62f4-0160-4cd4-bd79-42b5c4896645",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 0.0,
+        "sku": "b81d544a-447b-43eb-bdbd-4f7fc65b21db",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "766da2d9-4b33-4b3b-8059-4ead94d55a98",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "ad1824d4-c22d-4753-82e5-ae1101e0b45c",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 0.0,
+        "sku": "41972b49-ea0a-41c0-bd5f-263803f1ce49",
+        "upsert": true
+    },
+    {
+        "itemName": "ANGORA",
+        "price": 0.0,
+        "sku": "60791d72-df51-4997-9d8f-3e95c1dc3b9b",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "8ba99e53-ec1b-4ce4-82ce-f33ab5b0eb22",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 0.0,
+        "sku": "f6130478-5ce2-4747-9291-7be068fa7f4f",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "8d71fe61-eeb4-4e98-b114-a4608d5ffae6",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "db59d389-d3b6-49d7-841a-bfd3693ea2eb",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "083e4176-a78d-4482-a051-e06e7118e952",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "79d647ca-4dd7-4895-a8ba-19b2abad36ad",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 0.0,
+        "sku": "fb301223-5974-4a3a-9b96-da5dec1e94c9",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.0,
+        "sku": "6685e614-85b6-4d78-9d48-7d53eb0668d3",
+        "upsert": true
+    },
+    {
+        "itemName": "ANGORA",
+        "price": 0.0,
+        "sku": "c4560caa-fbb0-454b-adb5-94256b387325",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "ecb27168-ec1e-484e-843e-44f4432d3af7",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 0.0,
+        "sku": "079ba6c7-9df8-4ed5-9906-27c3d22f2648",
+        "upsert": true
+    },
+    {
+        "itemName": "PLEATED 2\"",
+        "price": 0.0,
+        "sku": "123ff0aa-6fce-4bcd-8f3d-555de5f13ad0",
+        "upsert": true
+    },
+    {
+        "itemName": "PLEATED 1\"",
+        "price": 0.0,
+        "sku": "f5fc57b5-8c57-4879-a14d-ecb8339ccfac",
+        "upsert": true
+    },
+    {
+        "itemName": "PLEATED 1/2\"",
+        "price": 0.0,
+        "sku": "82555247-a1d9-46ca-8c36-1d15c084abbf",
+        "upsert": true
+    },
+    {
+        "itemName": "TUXEDO",
+        "price": 0.0,
+        "sku": "cb242f55-70be-482c-ac9d-17a93f583ec3",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "ae1e6eaa-e718-4558-b411-e924ca7b6b14",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "1ef2dafd-3c73-422f-8ff7-b0e73773a417",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 0.0,
+        "sku": "dfcb7e51-3fe7-4c9b-ae81-9d2d9bd63b62",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 0.0,
+        "sku": "ee6044ae-cb84-4311-82e3-d8467219ec07",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "91f7438c-2b90-4ed7-971e-90fa1a105997",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 0.0,
+        "sku": "eac67ec9-1777-4ace-8d82-db7393fc29f9",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.0,
+        "sku": "6350a7d4-ae0d-4a1e-8b2a-18b64bef71a3",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 0.0,
+        "sku": "a67330bf-7685-4802-bbee-1ea0de44b183",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "6af8a214-c55c-43c2-94ed-a9dbd6fc8ca9",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "ffb27b01-e7d1-4d54-97c7-d1ee44bcfdf7",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 0.0,
+        "sku": "afe08a94-d38d-4cdc-9ced-2e18f8dcfd7f",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 0.0,
+        "sku": "a27a17e2-c6ce-4178-ac47-6be22eacb543",
+        "upsert": true
+    },
+    {
+        "itemName": "FLARE",
+        "price": 0.0,
+        "sku": "35baa793-e750-4451-8eb3-83e19942f27c",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 0.0,
+        "sku": "ca016938-9c25-400c-922a-1c5611fdc96b",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 0.0,
+        "sku": "886e5ab0-2d96-4d34-af4b-7d707a005759",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.0,
+        "sku": "5855535c-b5f7-423f-8823-d7c17e3df1ab",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 0.0,
+        "sku": "66b71cd3-033f-49ae-8ad6-1e090abce8bc",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 0.0,
+        "sku": "53621015-40c2-4ff1-8fc2-547b508cb93d",
+        "upsert": true
+    },
+    {
+        "itemName": "TUXEDO",
+        "price": 0.0,
+        "sku": "f22f7ee7-3ede-471f-b6b2-5ffe2cedb6d6",
+        "upsert": true
+    },
+    {
+        "itemName": "ANGORA",
+        "price": 0.0,
+        "sku": "5d1225ca-101b-428b-8df1-e22d99ff197f",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 0.0,
+        "sku": "4fcd7f45-0d02-4e83-9935-b47ddb2b73f9",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "c2fe75d6-4a88-4a9e-803a-5d806e9d6f9a",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "096b372b-29a2-4cc8-ba60-44c0b41bc3e9",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 0.0,
+        "sku": "a8e05c0c-849a-4178-87b2-f8d1bf8bcd7d",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 0.0,
+        "sku": "5f089272-6e95-4092-8e27-24b26c43c472",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "537fe1bc-42ce-4a8d-ac0f-e42cf0ef817c",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 0.0,
+        "sku": "67b79b26-32f0-478e-93b1-76e53ce91062",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.0,
+        "sku": "119030eb-fb3f-44b4-9926-6180042af648",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 0.0,
+        "sku": "17096bfd-51a3-487a-a155-7607b54962e0",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.0,
+        "sku": "fce3ec7c-6181-4ca8-a00d-483183538110",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.0,
+        "sku": "c9c4fbea-9bb3-4bac-a5a6-72701f299932",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 0.0,
+        "sku": "06c0b8db-2945-42c9-9365-fadea3a98efa",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 0.0,
+        "sku": "0b8afaee-a6fb-4e96-be97-7a83b08010a3",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "b8a30354-96cc-48e5-81a4-1f6a5a51bce4",
+        "upsert": true
+    },
+    {
+        "itemName": "NO CREASE",
+        "price": 0.0,
+        "sku": "825ab636-ccf4-4ae2-ac5d-342b6d9d7c78",
+        "upsert": true
+    },
+    {
+        "itemName": "STARCH",
+        "price": 0.0,
+        "sku": "53188ea0-931b-4cf6-9160-41ac2b750b63",
+        "upsert": true
+    },
+    {
+        "itemName": "CHILD'S",
+        "price": 0.0,
+        "sku": "93477770-658f-4a90-98ea-08e77e92ed84",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "053773be-f0d3-48fc-9821-54e271d20e76",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "e9cd4725-f49b-4214-8ea8-5dd89f125842",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 0.0,
+        "sku": "c258e72e-be93-4288-9e13-50c811e29c86",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 0.0,
+        "sku": "ac465704-97f0-4f73-b498-3780023cc67c",
+        "upsert": true
+    },
+    {
+        "itemName": "FLARE",
+        "price": 0.0,
+        "sku": "b284bcdd-c329-43e4-a242-3b3892fdc1cf",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 0.0,
+        "sku": "8eb541cf-14cb-4216-8cd1-b5157ebc4ec9",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 0.0,
+        "sku": "f9bff824-9c8e-434b-8e06-5387271170c7",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.0,
+        "sku": "f596fda3-46a1-4eff-9633-e1d7780ebb66",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 0.0,
+        "sku": "f95cb2f4-d81d-48b1-ae6b-655068155043",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 0.0,
+        "sku": "f40545c6-268d-413a-a41b-c174bd0d2292",
+        "upsert": true
+    },
+    {
+        "itemName": "TUXEDO",
+        "price": 0.0,
+        "sku": "9faa133f-d92d-472e-8f8a-a8931cf9e97b",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "2d569bab-b77f-4f64-aea3-b1b2bf18b061",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "a7d4d321-2a72-4043-8dee-09332031a497",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 0.0,
+        "sku": "04cd0420-ae91-466b-b2f8-f5c5fc7c982c",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 0.0,
+        "sku": "f5070255-fc96-479a-87df-b37b07349d21",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "37522fbf-033a-45a8-9c78-612764cf01ab",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 0.0,
+        "sku": "6ecebafa-1dc0-4100-84e1-05a03b3e863f",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.0,
+        "sku": "d4634147-378d-42c3-8ed6-47a22f2b73cb",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 0.0,
+        "sku": "6e1b5f7b-0447-45c0-8747-0189aa9ad2e9",
+        "upsert": true
+    },
+    {
+        "itemName": "SKI",
+        "price": 0.0,
+        "sku": "29ca49ad-470f-46c0-bfc0-53bbfc9ce17a",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 0.0,
+        "sku": "b93936d6-68a3-4744-834f-befe78561a7c",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "d524e63c-5d3a-4a51-b69b-cfb7fb71ae66",
+        "upsert": true
+    },
+    {
+        "itemName": "FOLD",
+        "price": 0.0,
+        "sku": "4bf48536-c853-42cd-bab5-f758849e194a",
+        "upsert": true
+    },
+    {
+        "itemName": "HANG",
+        "price": 0.0,
+        "sku": "df93cc21-d5d7-4b6d-8605-4f0066352d17",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 0.0,
+        "sku": "eabe8d72-1f5f-4abc-9300-acc2cf16c673",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "86f64a2e-0c69-4f6a-ba24-97ba0b819d03",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "ad1c17ff-ef96-489a-ba4f-aca03f5286f4",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 0.0,
+        "sku": "537013f4-1d98-4451-988f-ce5b37fcf83c",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 0.0,
+        "sku": "1ac15531-cb4a-4c21-8929-c9da3169953e",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "91f67d89-d157-44a3-8ec9-7567d8c54145",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 0.0,
+        "sku": "c7ff1fd6-5dc5-4fe2-b57d-950ffc21a053",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.0,
+        "sku": "f0639ecf-bbff-45e3-b8ab-aefade9e7937",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 0.0,
+        "sku": "5457c6a4-0ecf-43c9-8346-04e327f6a6c9",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.0,
+        "sku": "12b40836-8ad1-4cfa-ac6c-d8961183b373",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.0,
+        "sku": "1cc649b1-c1fe-4edd-9f05-4adc3d636ddb",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 0.0,
+        "sku": "c7f284af-f600-48cf-8c99-b0bdf9e76543",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 0.0,
+        "sku": "b9b4f192-dd33-4ba1-983b-69e08b8eb6b8",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "ebfd581c-96ff-4661-a146-b9a6b741c149",
+        "upsert": true
+    },
+    {
+        "itemName": "NO CREASE",
+        "price": 0.0,
+        "sku": "4dc5bb8b-df33-4295-a8d2-420eec647cc6",
+        "upsert": true
+    },
+    {
+        "itemName": "STARCH",
+        "price": 0.0,
+        "sku": "ffd86270-4ab6-42fa-8b75-e8d6f0d65a7f",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "d6e753f4-a6dc-49a6-9dff-6d1d4d6d240c",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "ca73f748-a212-412a-baf3-d7d7aa434b82",
+        "upsert": true
+    },
+    {
+        "itemName": "FLARE",
+        "price": 0.0,
+        "sku": "f6332dd0-5244-4ec4-9120-63ac40bcfe2c",
+        "upsert": true
+    },
+    {
+        "itemName": "FLARE",
+        "price": 0.0,
+        "sku": "2b82aae2-7180-4b62-a22a-253aaeba5934",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "fa62bdca-3003-4289-bf52-6de3dec33976",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "a1e355d8-39ed-4df8-b442-e0ff4f3ac25b",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 0.0,
+        "sku": "1374e6cb-b521-4607-ab5a-408ee4c4eb74",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 0.0,
+        "sku": "cb9ecb38-5aed-4155-8d8c-876c9fd95079",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "07b488b6-c428-453e-b765-b89a78a878da",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 0.0,
+        "sku": "b7a85a03-810f-4a89-b38a-cfbb76ede8fa",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.0,
+        "sku": "157c54e0-c048-4aae-a144-fd9dd0c8b116",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 0.0,
+        "sku": "80f49473-d595-4f34-a80a-b743611d40f5",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.0,
+        "sku": "e879c341-0da3-4a3c-ba16-3612f5c18f76",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.0,
+        "sku": "f7c20fa3-e618-41e0-a12d-1957f306e96c",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 0.0,
+        "sku": "007b4593-1c61-4b1f-80cb-6e34ce85761d",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 0.0,
+        "sku": "5cb44329-2366-43d0-81d3-b37bc00b6444",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "a7a065b0-d1a3-4a6a-924b-f340045f6ad7",
+        "upsert": true
+    },
+    {
+        "itemName": "NO CREASE",
+        "price": 0.0,
+        "sku": "7137e743-20a7-479b-839f-f4a85b54b1be",
+        "upsert": true
+    },
+    {
+        "itemName": "STARCH",
+        "price": 0.0,
+        "sku": "e9107fae-6037-4026-ac0c-52f9c68fd1a4",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "ac9af591-79cd-41b9-b661-594aaabd6083",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "68cff31c-7353-4d92-8d25-74f3f55639b4",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 0.0,
+        "sku": "864c929f-f3eb-4fa3-a61f-f1716df4e09e",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 0.0,
+        "sku": "92be9fc0-076e-49cb-83d4-db6878a63633",
+        "upsert": true
+    },
+    {
+        "itemName": "FLARE",
+        "price": 0.0,
+        "sku": "2ef32be2-c2f2-421e-ad6a-fc3c33625972",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 0.0,
+        "sku": "46ac4c2a-4dc1-4667-9a51-15b430fb138d",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 0.0,
+        "sku": "599c8edf-c200-444a-aa5a-e7a4a2f2c537",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.0,
+        "sku": "47bfc51a-a8b1-4732-91ab-1138f2fa7776",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 0.0,
+        "sku": "cccdea78-8de0-4186-9359-0413403a6a6d",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 0.0,
+        "sku": "7d8bbafa-43b3-4772-99da-baaad119ddbf",
+        "upsert": true
+    },
+    {
+        "itemName": "TUXEDO",
+        "price": 0.0,
+        "sku": "cf3f24db-811e-412c-b46e-25a6008558ec",
+        "upsert": true
+    },
+    {
+        "itemName": "ANGORA",
+        "price": 0.0,
+        "sku": "7bf3c1f9-10ce-4fa6-8b99-8a495abdc985",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 0.0,
+        "sku": "fd4d6137-adeb-40f3-907f-4780c0a4f1c4",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "f33c2d14-6590-444a-8a69-6ad9f592cb98",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "b72a66c5-0c48-40c8-beb6-695f98999f23",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 0.0,
+        "sku": "5b160504-6024-4cb3-a94d-36d14069d9ff",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 0.0,
+        "sku": "a7debf37-d971-4f67-a5f2-757897ebaff0",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "f635d939-2fd3-44c5-b16a-b081576e1567",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 0.0,
+        "sku": "c7382750-b036-4a0c-8b56-0a8ee10edd3b",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.0,
+        "sku": "00088011-27d5-4d97-b976-7a9c3becf278",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 0.0,
+        "sku": "9b11cd0c-d9d2-4dd5-8260-bc1001b48143",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.0,
+        "sku": "202fe629-b41b-4da5-a4ad-7eeba5ac66c6",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.0,
+        "sku": "44f13291-88f7-4f2b-855c-a3588080851f",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 0.0,
+        "sku": "26761fdd-3765-4e5d-bf8f-8d7775c3da71",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 0.0,
+        "sku": "77464cd1-8005-4551-8cde-0cd1e585ae4b",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "81a65613-d7f2-418b-a3d9-d4d4d66c4e6f",
+        "upsert": true
+    },
+    {
+        "itemName": "NO CREASE",
+        "price": 0.0,
+        "sku": "a1c2c867-fb25-4a05-b424-7d3f7f957207",
+        "upsert": true
+    },
+    {
+        "itemName": "STARCH",
+        "price": 0.0,
+        "sku": "dc1821a2-18dd-43c2-9c41-d5968223d473",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "382fd2d6-1a1e-47f8-875d-113458ff1e2c",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "f2a7db8d-1a4a-4616-9430-49facbb1ea13",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 0.0,
+        "sku": "63d9de6d-29ac-4914-8f97-5805f5db5fe1",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 0.0,
+        "sku": "3b115ae5-f150-4c7a-995c-af5bf703f2b2",
+        "upsert": true
+    },
+    {
+        "itemName": "FLARE",
+        "price": 0.0,
+        "sku": "5bd8293c-e5b6-4bc0-86df-8b387b345761",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 0.0,
+        "sku": "e5dbf61e-477a-4b00-a0bd-72b0b38d9ebd",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 0.0,
+        "sku": "5f3e3c2d-0b5a-4ff3-bb0a-c1766eadde3e",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.0,
+        "sku": "bc398121-3489-4a86-8e53-ea263314dca2",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 0.0,
+        "sku": "02ec609e-92ef-4dd1-88ca-1f861edc1140",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.0,
+        "sku": "f0bde96b-c2a0-4a41-89bf-cb9c41165369",
+        "upsert": true
+    },
+    {
+        "itemName": "SKI",
+        "price": 0.0,
+        "sku": "118f72d9-39ef-43a2-847f-112549394f8b",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 0.0,
+        "sku": "d8e932b1-842b-4b77-84e6-7efa8488e8f0",
+        "upsert": true
+    },
+    {
+        "itemName": "TUXEDO",
+        "price": 0.0,
+        "sku": "e0307315-5d70-4032-a470-d1ac49ae94e6",
+        "upsert": true
+    },
+    {
+        "itemName": "WOMEN'S",
+        "price": 0.0,
+        "sku": "3f2da6e1-85a8-451a-a0c9-be14daf2f333",
+        "upsert": true
+    },
+    {
+        "itemName": "UNIFORM",
+        "price": 0.0,
+        "sku": "8a5e2490-b21d-4484-93d9-5cfc161d199b",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 0.0,
+        "sku": "634795fb-9059-44fe-a929-e5d20c228888",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 0.0,
+        "sku": "5891a524-b0b7-4e80-a9b7-727e03f1e3db",
+        "upsert": true
+    },
+    {
+        "itemName": "FLARE",
+        "price": 0.0,
+        "sku": "102e179d-0d54-4137-9e87-2be0c9c87589",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 0.0,
+        "sku": "a689737b-2305-4d54-bc46-f8433b3a3677",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 0.0,
+        "sku": "a4b2ebc3-ebe9-4be9-9436-2120a5cb2d09",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.0,
+        "sku": "0159bb75-474e-4429-a5e0-65b1c8aaec58",
+        "upsert": true
+    },
+    {
+        "itemName": "CORDUROY",
+        "price": 0.0,
+        "sku": "dff4ceda-feec-4cd2-acb0-7ca7fbcd1ea7",
+        "upsert": true
+    },
+    {
+        "itemName": "COTTON",
+        "price": 0.0,
+        "sku": "be5de277-5186-4dd9-a6b8-e14b43888404",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 0.0,
+        "sku": "4e64e0b4-7706-4713-87e1-0c7f1227f25f",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 0.0,
+        "sku": "e34efe20-c119-4b73-8551-a8a2bdb51b01",
+        "upsert": true
+    },
+    {
+        "itemName": "KNIT",
+        "price": 0.0,
+        "sku": "f28ff633-2be8-48fd-a7bb-c253dc6c1139",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 0.0,
+        "sku": "60cf5ee7-d794-4228-8b61-f5f2231c15c5",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.0,
+        "sku": "6d139dbb-0141-4afe-835f-19b54bdc16f7",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 0.0,
+        "sku": "72ca5eb8-1a89-49c0-a675-31d58ea358fa",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.0,
+        "sku": "70fc1f0a-964a-4981-ad08-2e0918300ddc",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.0,
+        "sku": "6ce79715-5cb1-4865-b38e-2e2d1c68d6fa",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 0.0,
+        "sku": "82b12c82-b33b-4df0-825e-8f6babf5a00e",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 0.0,
+        "sku": "cd391d84-4472-4a1c-b32a-2169e2b605d6",
+        "upsert": true
+    },
+    {
+        "itemName": "WOOL",
+        "price": 0.0,
+        "sku": "cb99a247-56ef-44ff-b549-f402039923f2",
+        "upsert": true
+    },
+    {
+        "itemName": "NO CREASE",
+        "price": 0.0,
+        "sku": "2283ee6f-c03d-4243-bd65-3a20afd11823",
+        "upsert": true
+    },
+    {
+        "itemName": "STARCH",
+        "price": 0.0,
+        "sku": "44d3d8ef-223f-4fea-bc9d-3ab250f3e53e",
+        "upsert": true
+    },
+    {
+        "itemName": "ROUND 7'DIA",
+        "price": 0.0,
+        "sku": "abc25478-3021-44f4-9e58-3a53730486a9",
+        "upsert": true
+    },
+    {
+        "itemName": "ROUND 10'DIA",
+        "price": 0.0,
+        "sku": "c844d5fd-7f36-457f-b49e-5cb9f1bc1328",
+        "upsert": true
+    },
+    {
+        "itemName": "ROUND 8'DIA",
+        "price": 0.0,
+        "sku": "b9f566af-bf7b-46a1-aeea-b00a84b23d2a",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY STARCH",
+        "price": 0.0,
+        "sku": "1a5763c0-6240-4041-8480-562816e680be",
+        "upsert": true
+    },
+    {
+        "itemName": "MEDIUM STARCH",
+        "price": 0.0,
+        "sku": "04ca77e5-8538-4c51-9a30-2d6aceadeb10",
+        "upsert": true
+    },
+    {
+        "itemName": "LIGHT STARCH",
+        "price": 0.0,
+        "sku": "b7426d0c-b7ac-4bc3-be86-4e996aa9ebd4",
+        "upsert": true
+    },
+    {
+        "itemName": "NO STARCH",
+        "price": 0.0,
+        "sku": "d2ffba06-e651-4241-8daf-d38cf5bb0e7e",
+        "upsert": true
+    },
+    {
+        "itemName": "CREASE",
+        "price": 0.0,
+        "sku": "ad83499a-10b3-40ec-ae7c-81e544902291",
+        "upsert": true
+    },
+    {
+        "itemName": "NO CREASE",
+        "price": 0.0,
+        "sku": "afd783d0-435f-4206-97e9-9077a5a8bff5",
+        "upsert": true
+    },
+    {
+        "itemName": "CREASE",
+        "price": 0.0,
+        "sku": "acf53fed-b939-4e0f-b5a3-2f7a12ab9e5a",
+        "upsert": true
+    },
+    {
+        "itemName": "NO CREASE",
+        "price": 0.0,
+        "sku": "c33bc18f-169a-4cd0-bfde-e1f8ee1b5b40",
+        "upsert": true
+    },
+    {
+        "itemName": "NO STARCH",
+        "price": 0.0,
+        "sku": "b7f04de4-da60-453b-a1ee-b7800538c95c",
+        "upsert": true
+    },
+    {
+        "itemName": "LIGHT STARCH",
+        "price": 0.0,
+        "sku": "cc6a94f5-c71f-49a1-928c-a7251d0ae14e",
+        "upsert": true
+    },
+    {
+        "itemName": "MEDIUM STARCH",
+        "price": 0.0,
+        "sku": "da3b3123-45d4-45ba-8bc4-44736e28d119",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY STARCH",
+        "price": 0.0,
+        "sku": "cdddfa76-0cca-43ea-a5fb-0a81016e7a05",
+        "upsert": true
+    },
+    {
+        "itemName": "CREASE",
+        "price": 0.0,
+        "sku": "0128d1ec-be65-4b33-845a-e3f1c65f8b69",
+        "upsert": true
+    },
+    {
+        "itemName": "NO CREASE",
+        "price": 0.0,
+        "sku": "2d1ce38a-a2d4-46d7-823e-e51d7f19efaf",
+        "upsert": true
+    },
+    {
+        "itemName": "NO STARCH ",
+        "price": 0.0,
+        "sku": "f81be785-f3f6-42db-89c9-5ed8b7f8c174",
+        "upsert": true
+    },
+    {
+        "itemName": "LIGHT STARCH",
+        "price": 0.0,
+        "sku": "6ca76598-c32d-44fa-8ee4-e3490bfcc43c",
+        "upsert": true
+    },
+    {
+        "itemName": "MEDIUM STARCH",
+        "price": 0.0,
+        "sku": "0968371a-cb75-4003-8375-e0e60c2f2ad3",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY STARCH",
+        "price": 0.0,
+        "sku": "9f578590-d65b-4b23-aab7-ab986b369904",
+        "upsert": true
+    },
+    {
+        "itemName": "LIGHT STARCH ",
+        "price": 0.0,
+        "sku": "90ffef41-37eb-4f21-8734-d541688b9002",
+        "upsert": true
+    },
+    {
+        "itemName": "MEDIUM STARCH",
+        "price": 0.0,
+        "sku": "8f7786d7-b4ba-4cdd-a0af-61e375fa1413",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY STARCH",
+        "price": 0.0,
+        "sku": "3502b0ef-1fec-4539-a80b-c8806b1a3c7e",
+        "upsert": true
+    },
+    {
+        "itemName": "NO STARCH",
+        "price": 0.0,
+        "sku": "d35e3a51-e2d8-4e95-8ff7-6d0444c38a07",
+        "upsert": true
+    },
+    {
+        "itemName": "NO STARCH",
+        "price": 0.0,
+        "sku": "6f24f601-5963-4a7e-bba3-3f5d0e6e600e",
+        "upsert": true
+    },
+    {
+        "itemName": "LIGHT STARCH",
+        "price": 0.0,
+        "sku": "632fd4f6-9cc8-4eae-9706-f476a564b577",
+        "upsert": true
+    },
+    {
+        "itemName": "MEDIUM STARCH",
+        "price": 0.0,
+        "sku": "e576c9b4-4ed9-464c-ba72-84fe17cfbbab",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY STARCH",
+        "price": 0.0,
+        "sku": "475a994a-edef-446e-a765-c8c1ef62d2d1",
+        "upsert": true
+    },
+    {
+        "itemName": "NO STARCH",
+        "price": 0.0,
+        "sku": "398856bc-ba0f-41f6-b5c3-e1b25a1e0d45",
+        "upsert": true
+    },
+    {
+        "itemName": "LIGHT STARCH",
+        "price": 0.0,
+        "sku": "911cfb2e-d151-4a3f-b932-d510c6be7100",
+        "upsert": true
+    },
+    {
+        "itemName": "MEDIUM STARCH",
+        "price": 0.0,
+        "sku": "ff56eebb-4993-48b2-b421-196c3823aef6",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY STARCH",
+        "price": 0.0,
+        "sku": "3b0205d1-be50-4f9c-bb9d-42080a4fc644",
+        "upsert": true
+    },
+    {
+        "itemName": "LIGHT STARCH",
+        "price": 0.0,
+        "sku": "50406751-9a51-4c15-aa62-f864808e973f",
+        "upsert": true
+    },
+    {
+        "itemName": "MEDIUM STARCH",
+        "price": 0.0,
+        "sku": "a2a086ad-7460-48a3-b535-1dfd76440355",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY STARCH",
+        "price": 0.0,
+        "sku": "7f40d812-b9db-4499-83ac-b10f0cfd0116",
+        "upsert": true
+    },
+    {
+        "itemName": "NO STARCH",
+        "price": 0.0,
+        "sku": "70735679-34e0-4336-8cf8-be5b605ccb68",
+        "upsert": true
+    },
+    {
+        "itemName": "NO STARCH",
+        "price": 0.0,
+        "sku": "84f90703-fbe7-4abe-abd0-05d0f73f1a33",
+        "upsert": true
+    },
+    {
+        "itemName": "LIGHT STARCH",
+        "price": 0.0,
+        "sku": "434013a6-c1dc-44f3-a753-2165c6fae72f",
+        "upsert": true
+    },
+    {
+        "itemName": "MEDIUM STARCH",
+        "price": 0.0,
+        "sku": "3a21e3a3-1cf1-4635-8d35-0d2e1befd156",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY STARCH",
+        "price": 0.0,
+        "sku": "c3ab903c-a47c-4563-98df-ffdc0544d512",
+        "upsert": true
+    },
+    {
+        "itemName": "CREASE",
+        "price": 0.0,
+        "sku": "efe7882f-5b15-48c6-8b46-1361dc455553",
+        "upsert": true
+    },
+    {
+        "itemName": "NO CREASE",
+        "price": 0.0,
+        "sku": "58b9a967-31fb-4362-ad50-d84b431251e3",
+        "upsert": true
+    },
+    {
+        "itemName": "CREASE",
+        "price": 0.0,
+        "sku": "3647e1a9-0f5a-4a7e-a9d9-3e993c3a8999",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY STARCH",
+        "price": 0.0,
+        "sku": "3f22d1de-f07a-4286-aa17-61373abb2759",
+        "upsert": true
+    },
+    {
+        "itemName": "MEDIUM STARCH",
+        "price": 0.0,
+        "sku": "634ddf43-e13b-4f78-8c6b-e09ebcc84905",
+        "upsert": true
+    },
+    {
+        "itemName": "LIGHT STARCH",
+        "price": 0.0,
+        "sku": "36659ea4-de52-4a6e-85d9-adf657a3a28a",
+        "upsert": true
+    },
+    {
+        "itemName": "NO STARCH",
+        "price": 0.0,
+        "sku": "93aba1cd-5a83-4d1c-b520-c8775e1d158b",
+        "upsert": true
+    },
+    {
+        "itemName": "CREASE",
+        "price": 0.0,
+        "sku": "8dfb2d3f-cfc6-47d8-a610-e66e4d84ec3d",
+        "upsert": true
+    },
+    {
+        "itemName": "CRAEASE SLEEVES",
+        "price": 0.0,
+        "sku": "cefd6212-cd25-42f6-afc0-c0c98a85980f",
+        "upsert": true
+    },
+    {
+        "itemName": "NO CREASE",
+        "price": 0.0,
+        "sku": "7ad92266-097e-4648-a580-4cf9f1eee455",
+        "upsert": true
+    },
+    {
+        "itemName": "CREASE",
+        "price": 0.0,
+        "sku": "42da76a0-2de4-48e5-bf53-5c50522db027",
+        "upsert": true
+    },
+    {
+        "itemName": "FOLD",
+        "price": 0.1,
+        "sku": "31ba1e6f-bb3e-4a19-a983-c889f07c8643",
+        "upsert": true
+    },
+    {
+        "itemName": "CREASE",
+        "price": 0.1,
+        "sku": "ee2a66bd-7049-4981-8603-37841581eb65",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.25,
+        "sku": "947566df-a6ee-41df-bd19-a547f6b511b5",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.25,
+        "sku": "a0ae9bf8-ac76-4a58-9f42-8591863d2c20",
+        "upsert": true
+    },
+    {
+        "itemName": "W/BELT",
+        "price": 0.25,
+        "sku": "ebfb90cd-1df9-42db-bf60-fec4970cc19f",
+        "upsert": true
+    },
+    {
+        "itemName": "W/BELT",
+        "price": 0.25,
+        "sku": "82789779-4efb-4d24-b3b2-e55c29449465",
+        "upsert": true
+    },
+    {
+        "itemName": "W/BELT",
+        "price": 0.25,
+        "sku": "08863e8f-1862-469a-9608-0ecb3b5b11ed",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.25,
+        "sku": "2709cff7-b818-419a-a668-336496619840",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 0.25,
+        "sku": "3635442d-18b5-4e50-aa59-d07d48d58a8b",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.25,
+        "sku": "4b151842-cf63-4937-8f07-f167f1507da7",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 0.25,
+        "sku": "5c828b71-2b78-4407-bd60-3a0464b0c85c",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.25,
+        "sku": "cc89ff26-5e62-43c7-b044-eaa507190092",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 0.25,
+        "sku": "20bce517-2572-4a5f-84ba-0a9e204d680e",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.25,
+        "sku": "5f0efadd-1899-47cc-ae5e-0eab0381bcf5",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LACE",
+        "price": 0.5,
+        "sku": "a6baf63c-8af5-4988-a7d1-94ba51a9995a",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.5,
+        "sku": "107b6e9f-9ce8-482e-a4d2-e5e02363e267",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 0.5,
+        "sku": "5c76d04b-a7bf-47ca-89d1-4d2005a1c944",
+        "upsert": true
+    },
+    {
+        "itemName": "FITTED",
+        "price": 0.5,
+        "sku": "6a20eb30-9cd3-4931-8241-22ed3c2153aa",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.5,
+        "sku": "50325c73-b928-40b7-b620-515b6078ade1",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.5,
+        "sku": "6b52ec47-bf91-40cd-9290-6117271f60fb",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 0.5,
+        "sku": "75bb6e44-d637-40b0-912e-673c5c182ea7",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 0.5,
+        "sku": "0abe23d5-b114-4ba9-b406-f27d2175a2d5",
+        "upsert": true
+    },
+    {
+        "itemName": "W/BELT",
+        "price": 0.5,
+        "sku": "c1540c99-24b9-46a5-92b6-233850c0f38b",
+        "upsert": true
+    },
+    {
+        "itemName": "W/BELT",
+        "price": 0.5,
+        "sku": "0c7a9dbe-40bc-469b-8749-f66baf688169",
+        "upsert": true
+    },
+    {
+        "itemName": "ANGORA",
+        "price": 0.5,
+        "sku": "8aa62336-1757-4e30-9dd8-b6916bd57aa7",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 0.5,
+        "sku": "313a8cbe-ad89-40f1-ac97-1d89295e4dd6",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.5,
+        "sku": "a9283d52-5af8-46a8-8e0f-bc20b433568a",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.5,
+        "sku": "2486e18d-4400-492b-aaef-9919c4d92ce4",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.5,
+        "sku": "1545c3c5-3cc7-48f9-baf3-0bcfa4fde1c4",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.5,
+        "sku": "a1bd8ea9-b862-4e1e-92c1-fa96cce1e858",
+        "upsert": true
+    },
+    {
+        "itemName": "W/BELT",
+        "price": 0.5,
+        "sku": "ce4611c8-451d-421c-9593-ba59abda8d0f",
+        "upsert": true
+    },
+    {
+        "itemName": "RUSH",
+        "price": 0.5,
+        "sku": "1e4705af-673c-4d5e-85d6-4cb676424f23",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 0.5,
+        "sku": "70985a03-568d-4bd5-a6b1-061e365298f7",
+        "upsert": true
+    },
+    {
+        "itemName": "W/BELT",
+        "price": 0.5,
+        "sku": "b7916f39-f01a-4726-9bad-48e612f9a9ee",
+        "upsert": true
+    },
+    {
+        "itemName": "W/BELT",
+        "price": 0.5,
+        "sku": "92c193e1-2191-485b-b9ec-769142afa9dc",
+        "upsert": true
+    },
+    {
+        "itemName": "ANGORA",
+        "price": 0.5,
+        "sku": "03022f8e-6228-43c7-ae0d-899e3cd6d579",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 0.5,
+        "sku": "975c0eec-0d41-441d-95e7-6e18f89525d1",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.5,
+        "sku": "84546159-5274-4046-a58f-185f43d1bfba",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.5,
+        "sku": "8316b8e5-d636-4f81-be85-173da53963d1",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.5,
+        "sku": "7d55af5f-a623-4e54-809a-6722c7a8fab1",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.5,
+        "sku": "a036252c-7a78-4472-a643-1bc99bb9738e",
+        "upsert": true
+    },
+    {
+        "itemName": "W/BELT",
+        "price": 0.5,
+        "sku": "33fbb6ee-948d-4ae8-a01d-ab427949e15b",
+        "upsert": true
+    },
+    {
+        "itemName": "ANGORA",
+        "price": 0.5,
+        "sku": "0b230477-37bd-4d06-a032-13df0a4d3aee",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 0.5,
+        "sku": "48d9b582-029a-4739-949b-24869fae41b6",
+        "upsert": true
+    },
+    {
+        "itemName": "ANGORA",
+        "price": 0.5,
+        "sku": "e90762f3-2cbe-47e9-b065-06f661dea966",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 0.5,
+        "sku": "9973f99d-4650-49e6-911f-597e7634c02c",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 0.5,
+        "sku": "e28ab76e-8b81-4330-b04d-3973cae73e2d",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.5,
+        "sku": "ef6811fe-f510-40d9-b821-fa182bb2c7b5",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.5,
+        "sku": "7ac73555-dce0-4fa9-b857-252008fad8b4",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.5,
+        "sku": "d024a02f-d767-4d07-9940-6075eecf05c0",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.5,
+        "sku": "e8a49d27-b3cb-4750-bd41-92fb0e0a2854",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 0.5,
+        "sku": "7dbb4d21-00b4-4b1a-a8b1-42292ab68449",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 0.5,
+        "sku": "99ead69b-194d-46c5-acf4-dcf302e74c1d",
+        "upsert": true
+    },
+    {
+        "itemName": "W/BELT",
+        "price": 0.5,
+        "sku": "2be451dc-eaaf-448e-a9d0-437f24970c5b",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 0.5,
+        "sku": "fe4bc405-93ec-4f21-b21c-9cf77c7cc1c3",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 0.5,
+        "sku": "6138511f-7662-4f78-b528-842dc8285dd3",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.5,
+        "sku": "6320a8fb-007f-4574-9d46-106ac8662ff6",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.5,
+        "sku": "c7d1ab93-9aad-4e91-9d9d-e7254b1fa5ae",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.5,
+        "sku": "dfc54522-12dc-4611-ab72-d86ad9007a2d",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 0.5,
+        "sku": "87c62413-c0c9-483d-b8fb-27f54080b41a",
+        "upsert": true
+    },
+    {
+        "itemName": "PLEATED 2\"",
+        "price": 0.5,
+        "sku": "88fb4f01-1b0d-41eb-8580-284ec018a7ff",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 0.5,
+        "sku": "d0157494-32c2-4028-8e88-8935f1e61b0e",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 0.5,
+        "sku": "d8ab4e0b-1fde-4285-9b9a-71783b8a01ce",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 0.5,
+        "sku": "99036719-e271-400a-aec5-9815f2d42375",
+        "upsert": true
+    },
+    {
+        "itemName": "W/BELT",
+        "price": 0.5,
+        "sku": "595fed2b-65c3-4c36-b8bc-060344e3c97f",
+        "upsert": true
+    },
+    {
+        "itemName": "W/BELT",
+        "price": 0.5,
+        "sku": "b641590c-7eaf-4e54-9ccf-7cd75122bb8e",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.5,
+        "sku": "690fa7ec-a8d2-44c1-8653-42bad76cc05b",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.5,
+        "sku": "bd9c9c26-2971-49f0-bec2-c0458cfc16a3",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.5,
+        "sku": "0a8228c5-c6e8-4f40-bdfd-978afa14ce20",
+        "upsert": true
+    },
+    {
+        "itemName": "RUSH",
+        "price": 0.5,
+        "sku": "f9f6d244-4a25-4ba6-b292-c55ba98225a2",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 0.5,
+        "sku": "9911e1ae-4228-47a6-8e61-15b51ffc57a2",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 0.5,
+        "sku": "412abce1-1283-4f8a-bf1c-d7cc7f08913b",
+        "upsert": true
+    },
+    {
+        "itemName": "ANGORA",
+        "price": 0.5,
+        "sku": "0fc89946-ef22-4925-8ba8-18c5e5743abb",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 0.5,
+        "sku": "fe9afefa-c8d7-4756-b9ae-ac3e920e23c3",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.5,
+        "sku": "4d44c8e8-0ef6-4250-8fac-e985678858e8",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 0.5,
+        "sku": "e7930d10-49b5-4aaf-9a67-bb306c3e944a",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.5,
+        "sku": "de434ed0-69da-419e-9554-876c1ba6acba",
+        "upsert": true
+    },
+    {
+        "itemName": "W/BELT",
+        "price": 0.5,
+        "sku": "5a3206f2-65f8-4f23-a2e7-f221a5167a6a",
+        "upsert": true
+    },
+    {
+        "itemName": "W/BELT",
+        "price": 0.5,
+        "sku": "02d91afd-997e-41d1-8c8d-d08193c071ef",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.5,
+        "sku": "7b9e3ca4-5102-4347-be6f-9cce61564499",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 0.5,
+        "sku": "a2b5d4b9-76aa-4f6d-bb62-e5c296396d70",
+        "upsert": true
+    },
+    {
+        "itemName": "W/BELT",
+        "price": 0.5,
+        "sku": "5ab4938d-f9e3-4191-9deb-d999523e05b1",
+        "upsert": true
+    },
+    {
+        "itemName": "PLEATED 2\"",
+        "price": 0.75,
+        "sku": "6a5a001d-1214-464a-bd27-bac640a23425",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.75,
+        "sku": "701ae24a-7284-4f16-97c3-737853f7d74c",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.75,
+        "sku": "b2fda1d4-12ea-4fc1-a73d-a70a5dd2b936",
+        "upsert": true
+    },
+    {
+        "itemName": "RUSH",
+        "price": 0.75,
+        "sku": "b047ff46-baac-48a4-b3af-ea015629baac",
+        "upsert": true
+    },
+    {
+        "itemName": "RUSH",
+        "price": 0.75,
+        "sku": "ba1022c8-4cb8-4e2e-8579-9b1f94ad1f4b",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.75,
+        "sku": "82545144-02f3-4aac-8d00-aecf8fbfd63e",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 0.75,
+        "sku": "a6efa69a-005a-4ddc-af78-a5e9f7ec5208",
+        "upsert": true
+    },
+    {
+        "itemName": "RUSH",
+        "price": 0.75,
+        "sku": "306e0dc7-4d71-4102-94b5-3f6064d14936",
+        "upsert": true
+    },
+    {
+        "itemName": "FLARE",
+        "price": 0.75,
+        "sku": "7841b53f-18c0-499b-8362-5c9a87487640",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 0.75,
+        "sku": "08b25fbe-8fd0-476b-a0e1-732f1ae25624",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 0.75,
+        "sku": "209a1905-5eb4-4065-83f5-7bb34cf9d6c6",
+        "upsert": true
+    },
+    {
+        "itemName": "W/HOOD",
+        "price": 0.75,
+        "sku": "8e9e8f1e-029d-44a8-ad59-c45dcdf41e89",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.75,
+        "sku": "5e8dc1e7-a42c-4825-b4d5-ee087106a8dd",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 0.75,
+        "sku": "40241cd7-e9fb-4168-ad10-2be5ecbefc29",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 0.75,
+        "sku": "08e3855e-4d53-4da6-bbf8-26ae10bb3438",
+        "upsert": true
+    },
+    {
+        "itemName": "RUSH",
+        "price": 0.75,
+        "sku": "c806fdee-283b-4157-8bfd-30a2da2e514c",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 0.75,
+        "sku": "e3b0f39c-10d4-4aa6-96e5-424173f195c4",
+        "upsert": true
+    },
+    {
+        "itemName": "RUSH",
+        "price": 0.75,
+        "sku": "485112fa-8b1b-494c-b6bd-9e351637c77e",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.75,
+        "sku": "f0911b1e-0620-4077-a4c3-85478d38b35f",
+        "upsert": true
+    },
+    {
+        "itemName": "RUSH",
+        "price": 0.75,
+        "sku": "0fedf6da-5bc5-47b9-a07d-890451401df0",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 0.75,
+        "sku": "e0d240de-f46f-4cd7-b422-a257c7a7b7c0",
+        "upsert": true
+    },
+    {
+        "itemName": "RUSH",
+        "price": 0.75,
+        "sku": "23ae21fc-5433-4cd9-a506-9a476cc721c7",
+        "upsert": true
+    },
+    {
+        "itemName": "LONG",
+        "price": 1.0,
+        "sku": "f115721b-529c-4c8d-8e8c-19bf5c68c913",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 1.0,
+        "sku": "8a96cc96-5394-44d6-bf66-8c4f55224516",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 1.0,
+        "sku": "2d997825-4181-40a9-b433-0668747bb270",
+        "upsert": true
+    },
+    {
+        "itemName": "FITTED",
+        "price": 1.0,
+        "sku": "9fceac2b-8507-4173-8b74-311491761a68",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 1.0,
+        "sku": "935dd7ba-fe7a-4c26-867e-643066653ddb",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LACE",
+        "price": 1.0,
+        "sku": "20aa2934-ec02-4799-bd16-afe286515fe1",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 1.0,
+        "sku": "fbd0f5de-0a03-4bd7-b63f-456d6c08bd60",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 1.0,
+        "sku": "14dec2f4-2f35-44b1-b2ce-094cf6c9668e",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 1.0,
+        "sku": "8fd95549-fcae-4e5c-8a05-b6e8c4f354ba",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 1.0,
+        "sku": "4e182aa8-a633-4fdd-a901-4c7bf574465f",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 1.0,
+        "sku": "3506e652-01c5-4463-9cdd-d87010e5c416",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 1.0,
+        "sku": "cbc4a6b3-fba1-411b-b8af-bed05cad73fe",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 1.0,
+        "sku": "5ddeb74a-0189-44bd-88e1-de9f0b64ecab",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 1.0,
+        "sku": "40f80efd-8846-44e5-8ceb-9588687d1b6a",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 1.0,
+        "sku": "0dc14941-c43d-4977-99ae-ec91da1b1106",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 1.0,
+        "sku": "8aa5e70c-3d2d-4dae-aa27-780aa59aa9e0",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 1.0,
+        "sku": "827e10e0-4a75-4b91-9878-2131869559f6",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 1.0,
+        "sku": "519c1679-ec8d-4278-ac82-e7ed64977910",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 1.0,
+        "sku": "17f2ebb6-9087-4290-8908-a29f647c5198",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 1.0,
+        "sku": "87f8b9f5-f870-4378-9d30-5a7b5d0bc5f5",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 1.0,
+        "sku": "1795f9d3-5a37-43d4-ad11-a961eb9725d5",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 1.0,
+        "sku": "1306fdf1-3a8b-4274-9e1b-ac5cf4fb7ec4",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 1.0,
+        "sku": "f6e49a1b-fd2c-4dfa-8aa3-4f45bf5ab378",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 1.0,
+        "sku": "41aba450-9478-433f-8d2a-ca45a0cb30e5",
+        "upsert": true
+    },
+    {
+        "itemName": "RAYON",
+        "price": 1.0,
+        "sku": "6dc7d29f-5006-467d-bfa3-b2916d2af9fc",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 1.0,
+        "sku": "7274f32f-59e6-4142-80a7-034c1534bfc6",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 1.0,
+        "sku": "0d365448-9be7-4a18-b427-3feb67c2cabb",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 1.0,
+        "sku": "45e449c1-84d6-44de-89f8-fdcea9cd61c5",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 1.0,
+        "sku": "9d9baf15-2ea9-4d9b-b0e8-b1c6b49a2add",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 1.0,
+        "sku": "f5f04bc5-73d0-437e-be02-6a9590e66c89",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 1.0,
+        "sku": "9f617410-3961-4987-8248-ccd16a58ecb7",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 1.0,
+        "sku": "10fc4f6b-273d-4a9a-ab01-a15eaf8641c2",
+        "upsert": true
+    },
+    {
+        "itemName": "ANGORA",
+        "price": 1.0,
+        "sku": "5a773bb6-9e60-414a-b31e-5f6dbe688dce",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 1.0,
+        "sku": "6d8ee971-57c2-4968-a031-704cfe416d22",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 1.25,
+        "sku": "efd1162b-bf9b-4f74-8a14-edcefc008e99",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 1.25,
+        "sku": "fc33d9fd-3ffb-4f02-9264-b7d6f59127f5",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 1.25,
+        "sku": "708547b5-f9f1-4a89-adc5-d65ae5668a0d",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 1.25,
+        "sku": "3b633c33-dd79-4a4a-bf80-579deb8982be",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 1.25,
+        "sku": "bf666d48-8def-45fb-849d-883cb760000b",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 1.25,
+        "sku": "9f0185a8-e02d-414d-b1d9-088d985e9f01",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 1.25,
+        "sku": "0eef5299-f2cc-4044-89f6-1c6152950f92",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 1.25,
+        "sku": "72643f07-0d63-41ae-b241-b80c2e6d56bd",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 1.25,
+        "sku": "550734ea-73ee-4542-814a-8cddc477e87f",
+        "upsert": true
+    },
+    {
+        "itemName": "W/BELT",
+        "price": 1.25,
+        "sku": "1ccdfcc6-6460-4a9b-982c-73443b924cc4",
+        "upsert": true
+    },
+    {
+        "itemName": "CASHMERE",
+        "price": 1.25,
+        "sku": "32fbf181-02e8-43e9-b7db-5b8080d3a7d2",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 1.5,
+        "sku": "1e51197c-d23a-4432-8bf3-cd5b30c5aa03",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 1.5,
+        "sku": "e3830ef4-aabf-4ba9-a6f2-093dc766e556",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 1.5,
+        "sku": "b4c23e2f-166f-44c9-9219-5b9f6690cf47",
+        "upsert": true
+    },
+    {
+        "itemName": "FITTED",
+        "price": 1.5,
+        "sku": "f69698b5-52e9-401b-9939-4a09453d49d1",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 1.5,
+        "sku": "68554671-e973-470e-bb83-abe4a991d4cc",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 1.5,
+        "sku": "58f71ce7-789c-4aea-8a9d-85d32e817b6f",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 1.5,
+        "sku": "ec5660b4-051f-47e5-bd51-abd2f03ef237",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 1.5,
+        "sku": "8ed70b70-ff24-412f-b205-4d515d50ec01",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 1.5,
+        "sku": "a1d87132-a2ab-4d56-a180-24c6ad7223b8",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 1.5,
+        "sku": "8b2a79e0-48e4-4d90-a007-ec84031f261d",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 1.5,
+        "sku": "015fe965-e045-4cd3-a009-83437f6b47f7",
+        "upsert": true
+    },
+    {
+        "itemName": "FLARE",
+        "price": 1.5,
+        "sku": "15a0d35b-8c77-4661-8151-56a98f235b10",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 1.5,
+        "sku": "aaea93e1-b5e7-4883-b149-10368de1f58c",
+        "upsert": true
+    },
+    {
+        "itemName": "LINEN",
+        "price": 1.5,
+        "sku": "0b384838-2217-4f48-bffd-acb7eb23a133",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 1.5,
+        "sku": "5b83cd49-0462-4fec-917e-645c1dbc24e3",
+        "upsert": true
+    },
+    {
+        "itemName": "FLARE",
+        "price": 1.5,
+        "sku": "e8a8ec05-c5fc-477b-9856-0864ab79cb77",
+        "upsert": true
+    },
+    {
+        "itemName": "FLARE",
+        "price": 1.5,
+        "sku": "45ce1e4f-94b3-47b3-9e3c-191c5403d6ef",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 1.75,
+        "sku": "1852ef03-605d-4f80-aee2-f6e4b2bc0362",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 1.75,
+        "sku": "058c6d68-656b-4330-b6da-eb8cfa1ba636",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 1.75,
+        "sku": "90b4ee5e-471a-487d-8bdd-f7773a1aad48",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 1.75,
+        "sku": "f6dc05d0-59b4-4790-ab03-251ef0117175",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 1.75,
+        "sku": "3cd64c4e-d460-4dbc-9ebd-383597a8c591",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 1.75,
+        "sku": "2a676dd6-78f5-4282-975b-cd9468b3a013",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 1.75,
+        "sku": "c3144702-8a59-4bc1-be3d-4e987afef411",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 1.75,
+        "sku": "9afee682-aeb0-414a-8284-57c52b8b2beb",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 1.75,
+        "sku": "132f96a8-f569-4bf5-869f-d6936631c753",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 1.99,
+        "sku": "84ae27f8-9299-45ad-bc49-e01fa2e0828d",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 2.0,
+        "sku": "8507241e-d56a-44da-9266-7133154e55ff",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 2.0,
+        "sku": "98167a0b-6327-4fee-9ef7-59239b2f126a",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 2.0,
+        "sku": "b9fd8eb4-b8c0-4354-b8b6-163095668e20",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 2.0,
+        "sku": "ec80e0d3-4e20-49e0-a28f-b0a0d3bfd73c",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 2.0,
+        "sku": "cc393a5f-6b36-431c-accd-9dabb8d59056",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 2.0,
+        "sku": "7be87416-7141-429e-ac6b-583e42f1d594",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 2.0,
+        "sku": "75865d91-38ea-4056-bdb7-d5ec338bcecc",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 2.0,
+        "sku": "2c3882fd-8dad-45c0-9b37-5e0035c6de79",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 2.0,
+        "sku": "0830bee6-f178-4ad1-99b5-22f7a84690d5",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 2.0,
+        "sku": "454e30d0-0d8f-4068-a559-9ef2b4db924e",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 2.0,
+        "sku": "7b65e0a7-4a28-46b1-89e3-4d9df899ed00",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 2.0,
+        "sku": "129dd634-fedc-4999-b555-8c23589a8d0b",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 2.0,
+        "sku": "76f5506f-ac61-44e5-b194-abaf828940b8",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 2.0,
+        "sku": "b2bc8c0d-4e74-4fe1-acba-8ad8cc42380a",
+        "upsert": true
+    },
+    {
+        "itemName": "LINED",
+        "price": 2.0,
+        "sku": "896d58de-4410-4bf0-9ad2-8c73484acb32",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 2.0,
+        "sku": "6045ac9d-0fd8-4ec4-9e1e-cc1f11f56a59",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 2.0,
+        "sku": "1037dbda-75d6-4341-a093-8392c6fd85dd",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 2.0,
+        "sku": "4c2676b7-1981-45e5-9cca-861aba84c4c3",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 2.0,
+        "sku": "d3c3c3af-9537-4b42-8647-238609f52c0f",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 2.0,
+        "sku": "c1633690-4fef-4a3b-827c-3cfa18b91623",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 2.0,
+        "sku": "50aa39c5-afe1-4bd6-a451-809555f95362",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 2.0,
+        "sku": "cf7be7de-413e-4c92-9675-cb6c94777ef8",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 2.0,
+        "sku": "81536531-712f-437d-92ba-3681651c7401",
+        "upsert": true
+    },
+    {
+        "itemName": "SILK",
+        "price": 2.0,
+        "sku": "549ac112-6ad0-4f8a-a1f3-91d6e8a66aec",
+        "upsert": true
+    },
+    {
+        "itemName": "VELVET",
+        "price": 2.0,
+        "sku": "8072dabb-4f79-40f0-b54d-f5e1919bc720",
+        "upsert": true
+    },
+    {
+        "itemName": "FITTED",
+        "price": 2.0,
+        "sku": "5eb1317e-b165-41de-b092-cc63628a3121",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LACE",
+        "price": 2.0,
+        "sku": "067c5722-1caf-4006-95c0-f0b5746e3156",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 2.0,
+        "sku": "d9ec3942-69ac-4c6c-b757-4d2f6594968c",
+        "upsert": true
+    },
+    {
+        "itemName": "ELECTRIC",
+        "price": 2.0,
+        "sku": "c3a87e08-ae92-4fe8-b148-e1426a45ed47",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 2.0,
+        "sku": "216e4518-0083-4de5-bf87-e2294379be46",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LACE",
+        "price": 2.0,
+        "sku": "f92c09e5-f617-4fad-ad71-fc9d798e049e",
+        "upsert": true
+    },
+    {
+        "itemName": "W/BELT",
+        "price": 2.0,
+        "sku": "c3aeb1d0-919c-4d33-ada7-e5827ef68bc0",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 2.0,
+        "sku": "b238987f-4cc2-4647-bffb-df32e5268ff8",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 2.25,
+        "sku": "ca8b7cd5-0a22-4ceb-a603-e51c5aea0777",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 2.25,
+        "sku": "205c2bb1-79f8-4a2c-b157-72043f4a8632",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 2.25,
+        "sku": "c7fb6e48-a6fe-4794-8103-60283f741db1",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 2.25,
+        "sku": "d06d1b6d-ba8d-4a26-bce3-2f98a29849cb",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 2.25,
+        "sku": "ab9a79aa-396d-4136-9acb-420d7b4e2ba4",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 2.5,
+        "sku": "11f5a7ce-bcc7-4c41-9d01-e129b99b474b",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 2.5,
+        "sku": "756b73df-38b5-440f-9a37-1dc7fd911a89",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 2.5,
+        "sku": "98f779b6-c618-4d29-b479-443002fff05d",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 2.5,
+        "sku": "cdcc8bd0-46eb-4511-a0d4-63e01ac0329b",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 2.5,
+        "sku": "2121e80b-4083-4532-8659-4ee44cbae041",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 2.5,
+        "sku": "2afddefb-3878-4947-9cc0-0f5ff5e80fd8",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LACE",
+        "price": 2.5,
+        "sku": "4586636c-4231-4a20-b1ca-31838a8fcc5c",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 2.5,
+        "sku": "a80a8950-e44d-4634-8cb3-43606dabd67c",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 2.5,
+        "sku": "988a442c-a946-42b1-bbbe-507c08b4aca9",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 2.5,
+        "sku": "1503bba2-3528-479b-a611-0be581bc9cdd",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 2.5,
+        "sku": "fe45c7a1-4467-4a8d-8f10-291a7d45a5ec",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 2.5,
+        "sku": "9ec61adc-5605-4500-8f8d-507d5ccab6fc",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 2.5,
+        "sku": "f6887db3-80d7-458c-9f60-8286d85c1f15",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 2.5,
+        "sku": "b8461694-4f95-4747-9507-6b0fe9f15b28",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 2.5,
+        "sku": "db819328-da8d-4bbd-81b1-b7c919be38fc",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 2.5,
+        "sku": "952a58e7-1f05-49d4-b4b4-03b32f505271",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 2.5,
+        "sku": "9c20c828-0c97-48a0-89ea-06e8fb15da30",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 2.5,
+        "sku": "d8569a82-bc14-4a5b-b732-999344aeacee",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 2.5,
+        "sku": "d0fbc5df-c5ec-4046-8853-11607d53dd12",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 2.5,
+        "sku": "0d355e75-efdc-49e5-a922-2cf7f75274ef",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 2.5,
+        "sku": "a5f82c92-8cdc-481d-856b-75b381888c47",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 2.5,
+        "sku": "3f4ae431-9655-434c-ad86-5594cdd09db7",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 2.75,
+        "sku": "4ed19f5c-3717-4c6b-90d3-de612a99046c",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 2.75,
+        "sku": "e623831f-8f10-40c4-9110-12b80adb0e45",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 2.75,
+        "sku": "4dc608b6-8006-406b-a3a5-d76a3e390ca6",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 2.75,
+        "sku": "25eb9083-6560-498b-bdc3-6781839ef5be",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 2.75,
+        "sku": "58a07b7d-e377-49e7-bce3-efb9de13e656",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 2.75,
+        "sku": "0e98cfa9-ca98-4d9a-bddd-ebe52b89166f",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 3.0,
+        "sku": "be39faa7-3027-41e5-a887-141a9a9f8e99",
+        "upsert": true
+    },
+    {
+        "itemName": "PLEATED 1\"",
+        "price": 3.0,
+        "sku": "4a36e564-e87f-4de8-91fa-4ca76a3c4e89",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 3.0,
+        "sku": "7630f747-8b27-4213-967d-96c2187e7fdf",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LACE",
+        "price": 3.0,
+        "sku": "06e7f78e-7f7a-4851-a998-4c71fec67783",
+        "upsert": true
+    },
+    {
+        "itemName": "ELECTRIC",
+        "price": 3.0,
+        "sku": "123e74b8-394d-4225-bda7-ceb9c2b9a3c6",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 3.0,
+        "sku": "f9626374-9f75-45fb-bb49-1cfbd6c2c60b",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LACE",
+        "price": 3.0,
+        "sku": "aacd1f0e-4626-4cb5-a856-cc2da79827cf",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 3.0,
+        "sku": "717d4ec8-04ce-4461-85c5-8dc9b2367d07",
+        "upsert": true
+    },
+    {
+        "itemName": "SEPARATION",
+        "price": 3.0,
+        "sku": "ea79c5f5-ad46-41f4-b0e3-8d50b3aa73fe",
+        "upsert": true
+    },
+    {
+        "itemName": "SEPARATION",
+        "price": 3.0,
+        "sku": "7b3f7379-3ad8-451c-a67c-a705d3befeed",
+        "upsert": true
+    },
+    {
+        "itemName": "SEPARATION",
+        "price": 3.0,
+        "sku": "451313c5-0b8b-4721-bccd-86a377eda042",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 3.25,
+        "sku": "78e3edaf-8c87-4052-8105-f2aca10f4222",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 3.5,
+        "sku": "f97d7e42-497a-4e86-a7f2-da25bea4ddff",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 3.5,
+        "sku": "2cafeeb4-153f-4272-890f-08df6fce6bd0",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 3.5,
+        "sku": "d0dc18b8-8e38-4798-b23a-38e528a4ae1d",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 3.5,
+        "sku": "00bd4201-3ee0-4bb3-a399-c91d7f1eb802",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 3.5,
+        "sku": "7a9c289b-1b8b-45ca-939f-1bec440b087d",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 3.5,
+        "sku": "9d0fb7ea-3c19-40b1-b0e3-29ccd36edbb6",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 3.5,
+        "sku": "3c436790-666d-43fb-b179-923f0f5f1f46",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 3.5,
+        "sku": "3b17053c-abe9-40e7-9772-a4d60768014b",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LACE",
+        "price": 3.5,
+        "sku": "bff51863-a962-4fec-adb0-8b93e09dd06a",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 3.5,
+        "sku": "3763bded-662d-4096-82d4-3ec2d661af5d",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 3.5,
+        "sku": "13a7cf76-cdfe-4411-b275-f6678fb4cb93",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 3.5,
+        "sku": "b589e3b8-dbb1-4916-9484-c939687c2913",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 3.5,
+        "sku": "b85720ad-2a08-4ac0-8b2c-5024280d91d7",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 3.5,
+        "sku": "f3722569-c0a0-4b85-b1ff-d81d593b540b",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 3.75,
+        "sku": "620122d9-fa0b-44a2-b4ef-2dcfa4a5e654",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 3.75,
+        "sku": "2bb2d0fb-ac78-48d8-a68a-5f1a32c0721a",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 3.75,
+        "sku": "df229a71-16b9-4354-8a21-c309625a7f63",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 3.75,
+        "sku": "0c930cf7-808c-4859-9e47-3eb764f850f8",
+        "upsert": true
+    },
+    {
+        "itemName": "PLEATED 1\"",
+        "price": 3.75,
+        "sku": "ccdffad3-71e4-4bc5-88ac-09481e788a16",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 3.99,
+        "sku": "37e2f8f0-16eb-4494-b485-a7bcb02aa0ab",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 3.99,
+        "sku": "ec5059bd-3a8c-4d49-a614-2a9cb73de3f8",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 4.0,
+        "sku": "2eff0731-dae1-4651-b14f-5eb10f00b8f3",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LACE",
+        "price": 4.0,
+        "sku": "9ea20d33-4b89-4b1e-a827-04081d6125b7",
+        "upsert": true
+    },
+    {
+        "itemName": "ELECTRIC",
+        "price": 4.5,
+        "sku": "7cf98fe0-3327-4979-aa96-a77c7c2166e9",
+        "upsert": true
+    },
+    {
+        "itemName": "WATER REPELLENT",
+        "price": 4.5,
+        "sku": "2f31c6f6-8212-4579-9077-82473d2285f7",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 4.5,
+        "sku": "b24dd29a-9feb-48c1-8003-076d4a7c7577",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 4.5,
+        "sku": "46149179-1d5e-4255-83f8-25782b69d79f",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 4.5,
+        "sku": "2e97afad-0404-47fb-a531-f23001743c12",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 4.5,
+        "sku": "1b048c0d-4911-4e51-a820-ad636bee54e7",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 4.5,
+        "sku": "66c5977b-4dea-452f-b3a2-8ab9cbd8fe33",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 4.5,
+        "sku": "fda4b4b7-a9e3-4c82-89ed-1f8f14e11966",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 4.5,
+        "sku": "4a48a54e-9916-4ac5-b6d4-374a8b8194fd",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 4.5,
+        "sku": "e8fe22db-3064-4df9-8f60-3426b687fba6",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 4.5,
+        "sku": "e0418955-2b74-46b0-827c-c449b79ca9e8",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR TRIM",
+        "price": 4.5,
+        "sku": "bd8cab89-4ce5-402a-9b49-a6ffdb886c62",
+        "upsert": true
+    },
+    {
+        "itemName": "P/URETHN",
+        "price": 4.75,
+        "sku": "b4a43588-f4df-4f2a-bb79-2380c69c99e8",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 4.75,
+        "sku": "7e49a1d9-b85e-463d-bb32-cf1a2817ba48",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 4.75,
+        "sku": "6861c7dd-8a87-4f47-964a-f2f4773f3e9e",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 5.0,
+        "sku": "d0647afc-3a52-47d7-bd22-127e471df252",
+        "upsert": true
+    },
+    {
+        "itemName": "POLY URETHANE",
+        "price": 5.0,
+        "sku": "b08d6b37-9722-44b8-bd69-b83b96abf0e3",
+        "upsert": true
+    },
+    {
+        "itemName": "W/COATED",
+        "price": 5.0,
+        "sku": "7b590c83-929c-4cf8-a09c-d67074eb4295",
+        "upsert": true
+    },
+    {
+        "itemName": "BLEACH",
+        "price": 5.0,
+        "sku": "2387a955-5e57-44ef-83a6-41dcd190c287",
+        "upsert": true
+    },
+    {
+        "itemName": "SOFTENER",
+        "price": 5.0,
+        "sku": "908ae224-26d4-408f-92e4-1dd9e4ca1503",
+        "upsert": true
+    },
+    {
+        "itemName": "BLEACH",
+        "price": 5.0,
+        "sku": "6cda2fea-574e-462f-92c4-f0f253e39516",
+        "upsert": true
+    },
+    {
+        "itemName": "SOFTENER",
+        "price": 5.0,
+        "sku": "80c1abbe-7d3d-4aac-ab85-d30236e30600",
+        "upsert": true
+    },
+    {
+        "itemName": "BLEACH",
+        "price": 5.0,
+        "sku": "ea065f34-5a54-4374-ad01-a3b9e9036958",
+        "upsert": true
+    },
+    {
+        "itemName": "SOFTENER",
+        "price": 5.0,
+        "sku": "2c5ad517-8153-4cc0-9c62-e8b5dd4c29d8",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER  TRIM",
+        "price": 5.25,
+        "sku": "458ece31-c026-4c34-9ca1-64c0e4578be8",
+        "upsert": true
+    },
+    {
+        "itemName": "PLEATED 1/2\"",
+        "price": 5.5,
+        "sku": "98e91b59-37ee-4c39-953a-e6e4e9a3d99d",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 6.0,
+        "sku": "b1b2901e-ee48-49a3-99f7-9197ef7e3fc5",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 6.0,
+        "sku": "35b37223-8adf-452b-ab44-02ef2ddc5938",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 6.0,
+        "sku": "9a1ec7b6-db89-4aa2-adc1-a09f0b4e0809",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 6.0,
+        "sku": "bc4edca0-3a55-4449-a37e-982e763c50bf",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 6.0,
+        "sku": "cdad978d-c36f-4643-af36-87255d63991b",
+        "upsert": true
+    },
+    {
+        "itemName": "ELECTRIC",
+        "price": 6.0,
+        "sku": "92d3e69f-aeb5-479e-b0b5-2e1807c45ffd",
+        "upsert": true
+    },
+    {
+        "itemName": "WATER REPELLENT",
+        "price": 7.5,
+        "sku": "3bd49392-bff9-497f-ac0a-d8bf93d5a80f",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 7.5,
+        "sku": "9d50975b-77b2-41ff-a6ce-51197496b589",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 8.0,
+        "sku": "079a2cb9-544f-41fb-bbf7-fc55299c9bca",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 8.5,
+        "sku": "12c4e004-de33-4402-b752-e08cc7cc7483",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 8.5,
+        "sku": "a91216a3-7ccc-469a-b1cd-13f62e14482f",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 9.0,
+        "sku": "050da549-48d0-4f8a-82f9-dcda1caa8b2a",
+        "upsert": true
+    },
+    {
+        "itemName": "DOWN",
+        "price": 9.0,
+        "sku": "1d614585-8b23-40db-8d32-79673b125c4a",
+        "upsert": true
+    },
+    {
+        "itemName": "W/COATED",
+        "price": 9.0,
+        "sku": "691acdec-eca8-488e-9bd5-47ca7131be30",
+        "upsert": true
+    },
+    {
+        "itemName": "POLY URETHANE",
+        "price": 9.0,
+        "sku": "56f93ea1-8abf-4a14-a4c9-be2be9393acd",
+        "upsert": true
+    },
+    {
+        "itemName": "PLEATED 1/2\"",
+        "price": 9.5,
+        "sku": "cec3292c-aa8b-425b-98d2-0c29161417af",
+        "upsert": true
+    },
+    {
+        "itemName": "SEQUINS",
+        "price": 10.0,
+        "sku": "2fa1eede-95b7-4629-b3b3-3a7a0131684b",
+        "upsert": true
+    },
+    {
+        "itemName": "BEADED",
+        "price": 10.0,
+        "sku": "7b97ee5f-c867-41a5-abf7-1eedf19b8dfb",
+        "upsert": true
+    },
+    {
+        "itemName": "FANCY",
+        "price": 10.0,
+        "sku": "41a58949-3a4c-4ce1-92a3-c5cbd71e9fee",
+        "upsert": true
+    },
+    {
+        "itemName": "ROUND 6'DIA",
+        "price": 10.0,
+        "sku": "236bf531-b870-4937-a800-d47b1fc90415",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 10.5,
+        "sku": "78140a9b-9d62-48e5-851b-7bef0f7dc409",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 10.5,
+        "sku": "7bd64d9b-77c8-46bb-83fe-fb01334282f8",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 12.5,
+        "sku": "a8f5922d-0304-4724-9576-95eb40631a26",
+        "upsert": true
+    },
+    {
+        "itemName": "WATER REPELLENT",
+        "price": 12.5,
+        "sku": "69d9fdd6-716a-49d0-b76f-5d77d67501b6",
+        "upsert": true
+    },
+    {
+        "itemName": "W/COATED",
+        "price": 13.5,
+        "sku": "203b9fd1-a139-4b7e-b7f9-aa0858ed02ca",
+        "upsert": true
+    },
+    {
+        "itemName": "POLY URETHANE",
+        "price": 13.5,
+        "sku": "e2fe17ad-7c1b-4973-b6d9-ee2a625f0a28",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 16.75,
+        "sku": "ac1bb9b5-1fe3-40dd-9fd6-d196d1909054",
+        "upsert": true
+    },
+    {
+        "itemName": "W/COATED",
+        "price": 25.0,
+        "sku": "750e9270-cb31-4d63-8613-040722a2714b",
+        "upsert": true
+    },
+    {
+        "itemName": "WATER REPELLENT",
+        "price": 25.0,
+        "sku": "43805b19-76a3-4f83-b1d1-06f8105885ef",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LACE",
+        "price": 25.0,
+        "sku": "2b86c357-b15c-4904-9491-467ca90d94f7",
+        "upsert": true
+    },
+    {
+        "itemName": "WATER REPELLENT",
+        "price": 25.0,
+        "sku": "fe52ce97-ba78-48bd-938a-8795e7e8d1e3",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LACE",
+        "price": 25.0,
+        "sku": "68aedc9b-05ef-4122-bec7-0f16cb6d1819",
+        "upsert": true
+    },
+    {
+        "itemName": "W/COATED",
+        "price": 25.0,
+        "sku": "5c51179c-cf8d-4640-abbe-b71a9bdd0d4f",
+        "upsert": true
+    },
+    {
+        "itemName": "W/COATED",
+        "price": 25.0,
+        "sku": "841ab40e-5ddf-46b3-bc5c-581f2432f740",
+        "upsert": true
+    },
+    {
+        "itemName": "W/COATED",
+        "price": 25.0,
+        "sku": "fbc82167-3797-4e7f-9c48-bbce4146006a",
+        "upsert": true
+    },
+    {
+        "itemName": "W/COATED",
+        "price": 25.0,
+        "sku": "23e1322e-0e1b-472c-888d-ac4e399e78c8",
+        "upsert": true
+    },
+    {
+        "itemName": "WATER REPELLENT",
+        "price": 25.0,
+        "sku": "1fffb2db-979e-4458-8796-ee3a652bc91d",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LACE",
+        "price": 25.0,
+        "sku": "e70012dc-8dd6-4359-8e2b-ee90f746db60",
+        "upsert": true
+    },
+    {
+        "itemName": "WATER REPELLENT",
+        "price": 25.0,
+        "sku": "e3366a33-bedd-40d9-9303-c1cea12430f7",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LACE",
+        "price": 25.0,
+        "sku": "6d6e9e02-6c50-4ca6-97ca-631af9fff6dc",
+        "upsert": true
+    },
+    {
+        "itemName": "WATER REPELLENT",
+        "price": 25.0,
+        "sku": "9d44e5fe-b2b6-4d35-8227-70afce576518",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LACE",
+        "price": 25.0,
+        "sku": "6d889c24-0217-4670-9a29-076b4417c1c3",
+        "upsert": true
+    },
+    {
+        "itemName": "WATER REPELLENT",
+        "price": 25.0,
+        "sku": "f129fb02-a324-4f90-8be0-5921207c33a4",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LACE",
+        "price": 25.0,
+        "sku": "bb745b57-09e3-49dc-be4c-66a8a132e4d6",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LACE",
+        "price": 25.0,
+        "sku": "b179496d-f2fb-4b71-bf6d-5e0009af4893",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LACE",
+        "price": 25.0,
+        "sku": "3f9c9604-5965-4083-9b6c-fe5dbf003bd2",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 25.25,
+        "sku": "1ad01b74-dea0-4391-b541-1caf26f35195",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 25.25,
+        "sku": "8c0a5e7f-3c04-42d8-8976-8527ad8740d2",
+        "upsert": true
+    },
+    {
+        "itemName": "BOX STANDARD",
+        "price": 25.25,
+        "sku": "41f1a642-75e4-40ec-b81c-80e53b3316b4",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 25.25,
+        "sku": "1a8d1b71-27bc-4352-997b-f64a8ae2b709",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 25.25,
+        "sku": "939de8d7-1d34-40ab-bd3a-91aa1ad62dbf",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 25.25,
+        "sku": "c796074e-91f3-4e26-9760-219c91ee56d4",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 25.5,
+        "sku": "346edf1e-e775-4dfd-b5bb-9fde0a3dd2f9",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 25.5,
+        "sku": "2d497aa4-ea94-4870-8574-4350dbb19592",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 28.0,
+        "sku": "142d983c-9660-46de-bd64-21fa1f3353cc",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 29.5,
+        "sku": "636a640b-6b23-40cf-a8fd-953cdb5de3b6",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 29.5,
+        "sku": "9a616108-9fc2-4ac3-9390-6d79557cfd7c",
+        "upsert": true
+    },
+    {
+        "itemName": "BOX DELUXE",
+        "price": 31.5,
+        "sku": "5b9f6308-ec98-4234-a482-3b170aea17d9",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 31.5,
+        "sku": "f102fd54-f088-4241-9761-952c5c275746",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 31.5,
+        "sku": "326f5b78-e637-436f-a3a3-c347b4196ff0",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 32.5,
+        "sku": "2a8b4785-6218-4424-8352-d977c42a03bb",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 32.5,
+        "sku": "e67ad80e-d023-4939-8d60-26580cd077ee",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 32.5,
+        "sku": "231cc365-5f99-4ed9-b992-0648e636be26",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 33.5,
+        "sku": "f0e4ec84-8596-4980-8b7f-76580ec336f9",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 36.0,
+        "sku": "e9be2428-5e1c-4486-9f0c-a4c9a062b927",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 36.0,
+        "sku": "17b8bde3-23dd-49f1-bab0-27bd35b71070",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 38.5,
+        "sku": "fc652e11-0521-4236-a890-0108487cf4e3",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 41.75,
+        "sku": "b57b7c64-8747-453d-935b-a83b5064a5d5",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 41.75,
+        "sku": "ee4ad6c1-5ff4-48d2-8b8d-eb99bda3ae49",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 47.5,
+        "sku": "a5643638-816e-42a5-ba22-ed4f1c6bfdb4",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 50.0,
+        "sku": "ff566954-e00f-4150-8e38-e6a1a8d4f386",
+        "upsert": true
+    },
+    {
+        "itemName": "W/COATED",
+        "price": 50.0,
+        "sku": "bd3ff19c-6261-4fad-940d-3f7be2390972",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 9'L",
+        "price": 50.0,
+        "sku": "5e55a409-f95f-4e8d-ae40-8bcfa90c66c9",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 50.0,
+        "sku": "f8196389-6adf-4bdc-b660-f4caf9ea7c85",
+        "upsert": true
+    },
+    {
+        "itemName": "W/COATED",
+        "price": 50.0,
+        "sku": "4bb5d799-78e0-491b-82f7-e2dfc8ee922e",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LINED",
+        "price": 50.0,
+        "sku": "4348e272-039a-432a-b47d-672225f1c7d6",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 50.0,
+        "sku": "f4f287cb-0ffb-429f-8770-81e78fd245a7",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 50.0,
+        "sku": "11b7789a-5155-4c6d-b789-9de20780da20",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 9'L",
+        "price": 50.0,
+        "sku": "f18b836a-6291-4115-a5e0-36acb110db23",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 9'L",
+        "price": 50.0,
+        "sku": "74a41a6d-6eec-45c3-a5df-32bdb9e4b96f",
+        "upsert": true
+    },
+    {
+        "itemName": "W/COATED",
+        "price": 50.0,
+        "sku": "ab162731-7f1a-4dbd-ab2f-b616f892af44",
+        "upsert": true
+    },
+    {
+        "itemName": "W/COATED",
+        "price": 50.0,
+        "sku": "a741fd7e-1446-4ed0-8066-8f143b67483e",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 9'L",
+        "price": 50.0,
+        "sku": "5a2d21f1-cc4b-4093-a922-eb7791f598bd",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 9'L",
+        "price": 50.0,
+        "sku": "c0b72385-bd0c-485b-8377-a7fc215aa8bc",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 9'L",
+        "price": 50.0,
+        "sku": "51988480-ecf1-4dac-8407-f60b282b38f2",
+        "upsert": true
+    },
+    {
+        "itemName": "W/COATED",
+        "price": 50.0,
+        "sku": "9978b9cc-a89c-412f-bbfb-bd5f6015a7f6",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 50.0,
+        "sku": "b1b15909-16f3-4735-8fa6-312944ab1cd7",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 50.0,
+        "sku": "6e3e86b1-02a9-4594-8748-3289f42a7e44",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LINED",
+        "price": 50.0,
+        "sku": "8d5437e8-8873-4c9c-9dce-2cfc41cdf816",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LINED",
+        "price": 50.0,
+        "sku": "ea80ef43-88b1-48e0-8a0f-acb8fe6a1791",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 9'L",
+        "price": 50.0,
+        "sku": "7b5a5664-b005-40cb-b79b-819f557646f4",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LINED",
+        "price": 50.0,
+        "sku": "6d838735-3b14-43d7-ac70-d598f5214b8c",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 50.0,
+        "sku": "8d7b5d2c-bd86-4441-841e-45c9233fb91a",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 50.0,
+        "sku": "82347187-185a-4901-a6ee-79ccb8df26fe",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 9'L",
+        "price": 50.0,
+        "sku": "c39a8b8e-6ab5-410c-bc06-0c0ab924b2d7",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LINED",
+        "price": 50.0,
+        "sku": "3d095779-e19b-411a-9309-951a38973e9b",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 50.0,
+        "sku": "c1d4e442-52bb-47e8-badf-e4c9544fccdf",
+        "upsert": true
+    },
+    {
+        "itemName": "HEAVY",
+        "price": 50.0,
+        "sku": "7f4587d1-e0bd-4113-9a48-e25d5ca2157b",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 9'L",
+        "price": 50.0,
+        "sku": "ade7aed5-68d9-4452-bc12-92d1af1d68d9",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 9'L",
+        "price": 50.0,
+        "sku": "67ba0c78-ffee-4961-8570-7556169183d9",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 50.5,
+        "sku": "5b00acae-8548-4b8d-a902-44863f78a1d9",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 50.5,
+        "sku": "9223a47e-3832-40ea-b305-d4f1d331c3db",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 50.5,
+        "sku": "7c16e751-3657-45e3-a4e6-90ff9104f7fb",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 50.5,
+        "sku": "ab67cc46-0814-4fb6-bed7-5cec4937d1bd",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 50.5,
+        "sku": "b0f17a0e-2c74-4d7d-b75a-364d0f0fa93e",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 50.5,
+        "sku": "6ad5609d-ff26-4ea7-9918-7e61d2ef06fc",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 52.5,
+        "sku": "8f4ce002-31c4-4123-b2c9-3083ebdefa44",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 52.5,
+        "sku": "1fd68816-cdde-4e56-8c59-e995fd6ac579",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 52.5,
+        "sku": "b6579613-8651-43e3-bc4e-304049e26157",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 56.0,
+        "sku": "7c1eba54-d2d4-44e9-b310-784d94b9b4f9",
+        "upsert": true
+    },
+    {
+        "itemName": "SUEDE",
+        "price": 56.0,
+        "sku": "cf43e4ee-0874-4bd5-9491-993ad9fde54b",
+        "upsert": true
+    },
+    {
+        "itemName": "LEATHER",
+        "price": 56.0,
+        "sku": "07b0c4a5-167f-4ff6-9dc7-c14d435b91cd",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 59.5,
+        "sku": "5c0fb0ce-34a2-4504-bf6a-5a8e6a761cec",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 68.5,
+        "sku": "b777d367-e4e5-4eb2-8183-f058f7302ff8",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 68.5,
+        "sku": "f907c7a8-afba-4cc8-8649-c0ec4a0170ff",
+        "upsert": true
+    },
+    {
+        "itemName": "FUR",
+        "price": 84.0,
+        "sku": "8e4c9533-d8e2-4ea9-af7a-1ca8b1e98f11",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 12'L",
+        "price": 100.0,
+        "sku": "9e1f5b98-d962-4d17-a0d0-54461797c155",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 12'L",
+        "price": 100.0,
+        "sku": "e00453bd-4fd3-4ba3-b962-51dedb5225f3",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 12'L",
+        "price": 100.0,
+        "sku": "7cd4cf83-e0c4-4dc2-9663-9c7b6d171790",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 12'L",
+        "price": 100.0,
+        "sku": "2700dbc1-45c6-4834-a1c6-2fc9c8669254",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LINED",
+        "price": 100.0,
+        "sku": "c0ba6c97-9710-47d1-94a4-2994844b7dd5",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 12'L",
+        "price": 100.0,
+        "sku": "bb454665-1a85-4845-ab00-8eed89854b40",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 12'L",
+        "price": 100.0,
+        "sku": "0aaeb3d0-e419-4ac2-87ad-3ff33e108542",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 12'L",
+        "price": 100.0,
+        "sku": "9fdd9fe8-1e17-414f-9e53-31925cffa54d",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LINED",
+        "price": 100.0,
+        "sku": "3b714b63-1fc2-476d-b2e6-7c97e6eeb481",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LINED",
+        "price": 100.0,
+        "sku": "38492c10-ea7c-4321-b946-82eb3454b8f0",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 12'L",
+        "price": 100.0,
+        "sku": "41969ef9-4ca3-482a-b4b2-e8fa55703423",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 12'L",
+        "price": 100.0,
+        "sku": "07d73458-11e8-4b8a-83ec-dff3c5ced671",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LINED",
+        "price": 100.0,
+        "sku": "09a5ab3a-a091-461d-910f-a4b6fadac765",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 12'L",
+        "price": 100.0,
+        "sku": "4b50d45b-95a3-4483-9364-9fb1b4ffa9fa",
+        "upsert": true
+    },
+    {
+        "itemName": "W/LINED",
+        "price": 100.0,
+        "sku": "aed544b7-c8b7-421d-bf96-f6ee24ba7759",
+        "upsert": true
+    },
+    {
+        "itemName": "ROUND 12'DIA",
+        "price": 120.0,
+        "sku": "3b756279-9c36-4968-a9a8-862b9b2e3482",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 18'L",
+        "price": 200.0,
+        "sku": "ded80f04-e7d8-46fa-b436-c437c6868a2f",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 18'L",
+        "price": 200.0,
+        "sku": "c126c1ce-79b2-4139-8b4b-a98f2dd26d88",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 18'L",
+        "price": 200.0,
+        "sku": "de62a6cc-35f1-4c2c-bb26-fe3aded5c060",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 18'L",
+        "price": 200.0,
+        "sku": "cbb2caa8-f092-4c41-bb5a-9d46078ba94d",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 18'L",
+        "price": 200.0,
+        "sku": "f2bef2a2-bf4e-4688-a4b0-11c118fba374",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 18'L",
+        "price": 200.0,
+        "sku": "c1fa7b93-9b70-466b-986f-e1e9a94b45f8",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 18'L",
+        "price": 200.0,
+        "sku": "9093c066-13d8-4509-b3c9-cadc4b5ff285",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 18'L",
+        "price": 200.0,
+        "sku": "91608236-2efc-4231-8d5e-44cac8e6b8ec",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 18'L",
+        "price": 200.0,
+        "sku": "262627e9-0806-49e1-9046-90c628c1f914",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 18'L",
+        "price": 200.0,
+        "sku": "c7cf804d-06d6-432e-850e-f1a8ac6ff2ef",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 24'L",
+        "price": 300.0,
+        "sku": "7103044b-8562-4e81-9e8b-14051c52d36b",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 24'L",
+        "price": 300.0,
+        "sku": "9de47df4-4628-4e39-83c1-8d9cd8cb4f80",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 24'L",
+        "price": 300.0,
+        "sku": "37278029-f445-44ed-9e9e-75523c261cc9",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 24'L",
+        "price": 300.0,
+        "sku": "1efd7f3a-766a-42df-8fd2-28f4189632a2",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 24'L",
+        "price": 300.0,
+        "sku": "22313533-c00c-466c-9803-cf7a1aaea776",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 24'L",
+        "price": 300.0,
+        "sku": "0b2cde56-8884-420a-ab7c-e4e200f86977",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 24'L",
+        "price": 300.0,
+        "sku": "5a92bbe3-fad9-4915-92fa-587965eb057b",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 24'L",
+        "price": 300.0,
+        "sku": "59ec8f10-b748-4588-845b-7d96fba125dc",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 24'L",
+        "price": 300.0,
+        "sku": "025c57af-763f-4baf-9bdd-431e21d0e1c5",
+        "upsert": true
+    },
+    {
+        "itemName": "UPTO 24'L",
+        "price": 300.0,
+        "sku": "3d030476-ef0d-46fc-b226-1a5b7b949f7a",
+        "upsert": true
+    }
+]

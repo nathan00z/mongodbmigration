@@ -1,0 +1,1330 @@
+[
+    {
+        "category": "H",
+        "itemName": "BANNER ",
+        "pieces": 1,
+        "price": 0.0,
+        "sort": 12,
+        "sku": "e0698827-ad0f-488b-b38e-6356f6261ddc"
+    },
+    {
+        "category": "H",
+        "itemName": "BED SHEET",
+        "pieces": 1,
+        "price": 0.0,
+        "sort": 2,
+        "sku": "688d1a8f-f244-4d0a-8d25-759536b2d241"
+    },
+    {
+        "category": "H",
+        "itemName": "BED SPREAD",
+        "pieces": 1,
+        "price": 0.0,
+        "sort": 4,
+        "sku": "67076350-1d1d-4b84-8f4f-1940d1da59c3"
+    },
+    {
+        "category": "H",
+        "itemName": "BLANKET ",
+        "pieces": 1,
+        "price": 0.0,
+        "sort": 5,
+        "sku": "6aa75a33-d906-4458-938e-ad591ced9785"
+    },
+    {
+        "category": "H",
+        "itemName": "COMFORTER",
+        "pieces": 1,
+        "price": 0.0,
+        "sort": 1,
+        "sku": "0a0ec2e8-8c2a-4d84-b078-2b2ad3a06f7b"
+    },
+    {
+        "category": "H",
+        "itemName": "CURTAIN ",
+        "pieces": 1,
+        "price": 0.0,
+        "sort": 13,
+        "sku": "d0471122-3d6f-4fda-bca7-22e41c08e017"
+    },
+    {
+        "category": "H",
+        "itemName": "DRAPERY",
+        "pieces": 1,
+        "price": 0.0,
+        "sort": 7,
+        "sku": "e964977c-da06-4df4-b5be-e35a2ff9f0b4"
+    },
+    {
+        "category": "H",
+        "itemName": "DUVET COVER",
+        "pieces": 1,
+        "price": 0.0,
+        "sort": 9,
+        "sku": "8bd4ec04-a686-4be4-9754-ada731db6df7"
+    },
+    {
+        "category": "H",
+        "itemName": "QUILT",
+        "pieces": 1,
+        "price": 0.0,
+        "sort": 15,
+        "sku": "55bd8cb8-b056-4527-b5f7-792e7294f672"
+    },
+    {
+        "category": "H",
+        "itemName": "TABLE CLOTH",
+        "pieces": 1,
+        "price": 0.0,
+        "sort": 11,
+        "sku": "64c4342b-cc1c-4ed2-b33d-6d2f87d1f0f1"
+    },
+    {
+        "category": "S",
+        "itemName": "DOLL",
+        "pieces": 1,
+        "price": 0.0,
+        "sort": 1,
+        "sku": "8b3cc532-03f9-46c4-805a-21d80f069c51"
+    },
+    {
+        "category": "S",
+        "itemName": "LEATHER ",
+        "pieces": 1,
+        "price": 0.0,
+        "sort": 2,
+        "sku": "8d20d6a8-8ae2-4bee-85d0-af9420f0ca54"
+    },
+    {
+        "category": "W",
+        "itemName": "WASH & FOLD",
+        "pieces": 1,
+        "price": 0.99,
+        "sort": 2,
+        "sku": "112920cb-2bcd-4dd9-9f1e-761b2f644f96"
+    },
+    {
+        "category": "D",
+        "itemName": "BELT",
+        "pieces": 1,
+        "price": 1.0,
+        "sort": 18,
+        "sku": "bee7583c-dd31-4401-ace8-f9e1e9b44f4a"
+    },
+    {
+        "category": "L",
+        "itemName": "BELT",
+        "pieces": 1,
+        "price": 1.0,
+        "sort": 10,
+        "sku": "ffd779fd-8310-4875-af34-52fbb706169c"
+    },
+    {
+        "category": "W",
+        "itemName": "WASH & FOLD",
+        "pieces": 1,
+        "price": 1.25,
+        "sort": 3,
+        "sku": "7aecfe2a-1cd8-4e05-9cb5-7f182e28220d"
+    },
+    {
+        "category": "H",
+        "itemName": "NAPKIN",
+        "pieces": 1,
+        "price": 1.25,
+        "sort": 14,
+        "sku": "267784d1-a975-4c19-a548-04a4f60ecf5d"
+    },
+    {
+        "category": "L",
+        "itemName": "BANDANA",
+        "pieces": 1,
+        "price": 1.49,
+        "sort": 17,
+        "sku": "f018887a-f9fb-4343-9589-9dcf3f0647bb"
+    },
+    {
+        "category": "W",
+        "itemName": "WASH & FOLD",
+        "pieces": 1,
+        "price": 1.5,
+        "sort": 1,
+        "sku": "d77d7312-cd59-434e-a2b3-1d1e0945d64d"
+    },
+    {
+        "category": "H",
+        "itemName": "PILLOW CASE  STANDARD",
+        "pieces": 1,
+        "price": 1.75,
+        "sort": 58,
+        "sku": "ebae48b3-fe9c-4702-8e6e-fb228abcb86c"
+    },
+    {
+        "category": "H",
+        "itemName": "TABLE PLACE",
+        "pieces": 1,
+        "price": 1.75,
+        "sort": 16,
+        "sku": "60628d20-8a3f-4bc3-b309-b3497998e9ea"
+    },
+    {
+        "category": "H",
+        "itemName": "PILLOW CASE QUEEN",
+        "pieces": 1,
+        "price": 1.79,
+        "sort": 59,
+        "sku": "97ed1a7e-43ee-4450-a919-085f4b6a7d9b"
+    },
+    {
+        "category": "H",
+        "itemName": "PILLOW CASE KING",
+        "pieces": 1,
+        "price": 1.79,
+        "sort": 60,
+        "sku": "668a239e-263d-47bd-9c5c-61177721b30d"
+    },
+    {
+        "category": "L",
+        "itemName": "APRON",
+        "pieces": 1,
+        "price": 1.79,
+        "sort": 18,
+        "sku": "c7801ce6-47f4-4731-9d4a-a17ff12a3bf7"
+    },
+    {
+        "category": "D",
+        "itemName": "BOWTIE",
+        "pieces": 1,
+        "price": 1.79,
+        "sort": 59,
+        "sku": "b056e25f-ca29-4284-8a05-19c59ddf0f1d"
+    },
+    {
+        "category": "D",
+        "itemName": "TANK TOP",
+        "pieces": 1,
+        "price": 1.79,
+        "sort": 23,
+        "sku": "1a6b79e9-bf62-4bd8-b315-791ada2f1f3b"
+    },
+    {
+        "category": "D",
+        "itemName": "SCARF",
+        "pieces": 1,
+        "price": 1.79,
+        "sort": 11,
+        "sku": "f34fe0da-5850-4996-8ac8-842279e3929b"
+    },
+    {
+        "category": "D",
+        "itemName": "SHAWL",
+        "pieces": 1,
+        "price": 1.99,
+        "sort": 45,
+        "sku": "77e09bfe-0a51-4852-838e-d4994451c414"
+    },
+    {
+        "category": "D",
+        "itemName": "POLO SHIRTS",
+        "pieces": 1,
+        "price": 1.99,
+        "sort": 49,
+        "sku": "27a932d7-8050-4c7c-9e79-77d80fe6f2f8"
+    },
+    {
+        "category": "D",
+        "itemName": "SKIRT",
+        "pieces": 1,
+        "price": 1.99,
+        "sort": 7,
+        "sku": "372061e5-6ba5-4181-af9d-2f9512cf3a95"
+    },
+    {
+        "category": "D",
+        "itemName": "DC SHIRT",
+        "pieces": 1,
+        "price": 1.99,
+        "sort": 1,
+        "sku": "3269ecd2-d858-45b7-8e73-154e63d8e5d0"
+    },
+    {
+        "category": "D",
+        "itemName": "SWEATER TOP",
+        "pieces": 1,
+        "price": 1.99,
+        "sort": 57,
+        "sku": "f8f5ef71-7a8d-482a-a817-95a5c07955f2"
+    },
+    {
+        "category": "D",
+        "itemName": "BLOUSE",
+        "pieces": 1,
+        "price": 1.99,
+        "sort": 3,
+        "sku": "90823773-5a8c-4dfb-8ada-c1caeea16929"
+    },
+    {
+        "category": "D",
+        "itemName": "SHORTS",
+        "pieces": 1,
+        "price": 1.99,
+        "sort": 41,
+        "sku": "4cf641ae-fd30-4426-82b5-60ec08c09af5"
+    },
+    {
+        "category": "D",
+        "itemName": "TIE CRAFT",
+        "pieces": 1,
+        "price": 1.99,
+        "sort": 60,
+        "sku": "8578c15b-4032-4e32-8f9a-3a5f5d82a3a1"
+    },
+    {
+        "category": "D",
+        "itemName": "TIE",
+        "pieces": 1,
+        "price": 1.99,
+        "sort": 14,
+        "sku": "d75a3995-e7b8-4458-a24f-9df5ed56d225"
+    },
+    {
+        "category": "D",
+        "itemName": "VEST",
+        "pieces": 1,
+        "price": 1.99,
+        "sort": 8,
+        "sku": "f7fd5043-4dcf-4208-9da6-1435e0da02c3"
+    },
+    {
+        "category": "L",
+        "itemName": "L BLOUSE",
+        "pieces": 1,
+        "price": 1.99,
+        "sort": 2,
+        "sku": "96670f93-6923-49ba-9264-069912c69e91"
+    },
+    {
+        "category": "D",
+        "itemName": "TSHIRT",
+        "pieces": 1,
+        "price": 1.99,
+        "sort": 50,
+        "sku": "55ffa61b-7c9a-4236-b2f0-61f6697af885"
+    },
+    {
+        "category": "D",
+        "itemName": "LONG SLEEVE SWEATSHIRT",
+        "pieces": 1,
+        "price": 1.99,
+        "sort": 51,
+        "sku": "cc4a4a36-a4e3-4dcb-a8be-2f7d684bae0a"
+    },
+    {
+        "category": "D",
+        "itemName": "SWEATER VEST",
+        "pieces": 1,
+        "price": 1.99,
+        "sort": 63,
+        "sku": "44b92de4-4873-45f5-a498-5cc289794e6f"
+    },
+    {
+        "category": "H",
+        "itemName": "PILLOW CASE",
+        "pieces": 1,
+        "price": 1.99,
+        "sort": 8,
+        "sku": "4f659bf8-7f12-455b-b6dd-d091144a3770"
+    },
+    {
+        "category": "L",
+        "itemName": "L SHIRT",
+        "pieces": 1,
+        "price": 1.99,
+        "sort": 1,
+        "sku": "c3546e84-6717-4cfe-88e3-0b06ad38bf78"
+    },
+    {
+        "category": "D",
+        "itemName": "APRON",
+        "pieces": 1,
+        "price": 2.29,
+        "sort": 22,
+        "sku": "b25980a8-be4e-4054-85fd-0817e2f49af5"
+    },
+    {
+        "category": "L",
+        "itemName": "L MEN'S SHIRTS CREAE SLEEVES",
+        "pieces": 1,
+        "price": 2.49,
+        "sort": 15,
+        "sku": "eb0e96f4-4b82-4d04-86b1-e3f0f329bdd7"
+    },
+    {
+        "category": "L",
+        "itemName": "WORK SHIRT",
+        "pieces": 1,
+        "price": 2.49,
+        "sort": 14,
+        "sku": "68def436-78f7-4010-9c4a-9aa55acf55d1"
+    },
+    {
+        "category": "D",
+        "itemName": "WINTER VEST",
+        "pieces": 1,
+        "price": 2.49,
+        "sort": 62,
+        "sku": "63d8510c-a1f9-4245-a5d0-b917ac1c6ce9"
+    },
+    {
+        "category": "L",
+        "itemName": "L DRESS",
+        "pieces": 1,
+        "price": 2.49,
+        "sort": 5,
+        "sku": "06b00eb0-3443-4f5c-8991-6c2f15185be1"
+    },
+    {
+        "category": "D",
+        "itemName": "JERSEY SHIRTS",
+        "pieces": 1,
+        "price": 2.49,
+        "sort": 48,
+        "sku": "bc62a75a-1e17-4895-b91e-2700d6b266b7"
+    },
+    {
+        "category": "D",
+        "itemName": "BLOUSE",
+        "pieces": 1,
+        "price": 2.59,
+        "sort": 24,
+        "sku": "d0075f06-d3a3-4a14-b36e-e7d8cf11d891"
+    },
+    {
+        "category": "D",
+        "itemName": "SWEATPANTS",
+        "pieces": 1,
+        "price": 2.79,
+        "sort": 43,
+        "sku": "f3318a0b-237a-4123-a58b-9bf4e8ee2fa1"
+    },
+    {
+        "category": "D",
+        "itemName": "DC PANTS",
+        "pieces": 1,
+        "price": 2.79,
+        "sort": 2,
+        "sku": "6d666288-b071-4bc4-bdc0-644fe585152e"
+    },
+    {
+        "category": "D",
+        "itemName": "TURTLE NECK",
+        "pieces": 1,
+        "price": 2.99,
+        "sort": 58,
+        "sku": "e7749e81-e776-47a5-bfee-3690c10d20dd"
+    },
+    {
+        "category": "D",
+        "itemName": "SWEATER",
+        "pieces": 1,
+        "price": 2.99,
+        "sort": 13,
+        "sku": "ff6d15bd-e46d-4299-a009-38d4adc5623a"
+    },
+    {
+        "category": "D",
+        "itemName": "CARDIGAN",
+        "pieces": 1,
+        "price": 2.99,
+        "sort": 56,
+        "sku": "a90811d1-2bed-4a01-93c5-c82d54f826d5"
+    },
+    {
+        "category": "D",
+        "itemName": "LONG SKIRT",
+        "pieces": 1,
+        "price": 2.99,
+        "sort": 52,
+        "sku": "ebc076da-a98b-4eef-ab13-55ca20483bd4"
+    },
+    {
+        "category": "D",
+        "itemName": "JUMP SUIT",
+        "pieces": 1,
+        "price": 2.99,
+        "sort": 9,
+        "sku": "9a8daacd-4abf-4b56-847a-af31b6d5ec87"
+    },
+    {
+        "category": "D",
+        "itemName": "JEANS",
+        "pieces": 1,
+        "price": 2.99,
+        "sort": 42,
+        "sku": "0be76274-96ab-4254-b77a-151381d45e9e"
+    },
+    {
+        "category": "L",
+        "itemName": "L PANT",
+        "pieces": 1,
+        "price": 2.99,
+        "sort": 3,
+        "sku": "c9fae958-e467-47dc-86bd-dbeeeb0b9544"
+    },
+    {
+        "category": "L",
+        "itemName": "L SHORTS",
+        "pieces": 1,
+        "price": 2.99,
+        "sort": 4,
+        "sku": "e3b58d03-7774-4b72-8c82-7ef2d0640623"
+    },
+    {
+        "category": "D",
+        "itemName": "HOODIE",
+        "pieces": 1,
+        "price": 2.99,
+        "sort": 37,
+        "sku": "1185f0b4-33d7-43a0-a7a6-db4f99d7d9b7"
+    },
+    {
+        "category": "L",
+        "itemName": "SCARF",
+        "pieces": 1,
+        "price": 2.99,
+        "sort": 7,
+        "sku": "043dacbd-c3a0-4995-8c83-8c67e960b5e1"
+    },
+    {
+        "category": "L",
+        "itemName": "APRON",
+        "pieces": 1,
+        "price": 2.99,
+        "sort": 13,
+        "sku": "7242efbc-47f9-41d0-ba13-e5b16fd7337e"
+    },
+    {
+        "category": "L",
+        "itemName": "L JEAN",
+        "pieces": 1,
+        "price": 2.99,
+        "sort": 16,
+        "sku": "879b4565-a9e8-433a-b24b-5b8781d19b43"
+    },
+    {
+        "category": "L",
+        "itemName": "LAB COAT",
+        "pieces": 1,
+        "price": 3.29,
+        "sort": 9,
+        "sku": "c7c4261c-3028-49d7-843f-24afc3cf4c39"
+    },
+    {
+        "category": "L",
+        "itemName": "L COAT",
+        "pieces": 1,
+        "price": 3.99,
+        "sort": 8,
+        "sku": "fdf173a7-461a-4f72-a91e-b9757382863c"
+    },
+    {
+        "category": "D",
+        "itemName": "LONG DRESS",
+        "pieces": 1,
+        "price": 3.99,
+        "sort": 20,
+        "sku": "86bd431d-8580-4fee-8cb4-bb9bcb2f8628"
+    },
+    {
+        "category": "L",
+        "itemName": "L SKIRT",
+        "pieces": 1,
+        "price": 3.99,
+        "sort": 6,
+        "sku": "9a17e3eb-ceae-4c97-a399-f884e56e6ea6"
+    },
+    {
+        "category": "D",
+        "itemName": "FORMAL JUMPSUIT",
+        "pieces": 1,
+        "price": 3.99,
+        "sort": 38,
+        "sku": "69910ba5-ce03-4475-a9d3-fc926add45b9"
+    },
+    {
+        "category": "D",
+        "itemName": "CAP",
+        "pieces": 1,
+        "price": 3.99,
+        "sort": 32,
+        "sku": "480267fa-33e5-4bbd-96f0-538dc69836f3"
+    },
+    {
+        "category": "D",
+        "itemName": "JACKET",
+        "pieces": 1,
+        "price": 3.99,
+        "sort": 4,
+        "sku": "1e8678bc-b46a-4d95-a59d-744da90337bd"
+    },
+    {
+        "category": "D",
+        "itemName": "DRESS",
+        "pieces": 1,
+        "price": 3.99,
+        "sort": 5,
+        "sku": "875a0e55-04f1-4617-99ef-794c3792001b"
+    },
+    {
+        "category": "D",
+        "itemName": "CAPE/ PANCHO",
+        "pieces": 1,
+        "price": 3.99,
+        "sort": 46,
+        "sku": "5e61865e-7df2-45f6-a433-c5ee66209568"
+    },
+    {
+        "category": "H",
+        "itemName": "SOFA COVER",
+        "pieces": 1,
+        "price": 3.99,
+        "sort": 6,
+        "sku": "ee6ec4e1-2f16-46fc-a2e7-a2ceaf77085a"
+    },
+    {
+        "category": "L",
+        "itemName": "OVERALL",
+        "pieces": 1,
+        "price": 3.99,
+        "sort": 12,
+        "sku": "051d1686-a1d4-4a09-a2d7-ea02d862cc07"
+    },
+    {
+        "category": "D",
+        "itemName": "DRESS W/BELT",
+        "pieces": 2,
+        "price": 3.99,
+        "sort": 65,
+        "sku": "f7a113c0-e3d7-4e6b-a6c3-45722cf5704e"
+    },
+    {
+        "category": "D",
+        "itemName": "WARM UP SUIT 2PCS",
+        "pieces": 2,
+        "price": 4.78,
+        "sort": 17,
+        "sku": "b59d49c3-f845-40a5-81b9-df86d0125b04"
+    },
+    {
+        "category": "D",
+        "itemName": "WOMEN'S 2PCS",
+        "pieces": 2,
+        "price": 4.98,
+        "sort": 54,
+        "sku": "36d97116-5493-4d14-a48e-f8f9b18f1f71"
+    },
+    {
+        "category": "D",
+        "itemName": "DRESS",
+        "pieces": 1,
+        "price": 4.99,
+        "sort": 28,
+        "sku": "2c2c52cd-465f-4075-aeee-883b3090abf0"
+    },
+    {
+        "category": "D",
+        "itemName": "HAT",
+        "pieces": 1,
+        "price": 4.99,
+        "sort": 16,
+        "sku": "0155a0e6-489a-48d8-b92a-0c9248c72f60"
+    },
+    {
+        "category": "D",
+        "itemName": " JACKET",
+        "pieces": 1,
+        "price": 4.99,
+        "sort": 34,
+        "sku": "b662100f-31fa-4e3d-9cb6-64d130d8a4fe"
+    },
+    {
+        "category": "D",
+        "itemName": "CHEF'S CAP",
+        "pieces": 1,
+        "price": 4.99,
+        "sort": 33,
+        "sku": "af60aa60-4ef3-4907-830a-fcd5be05eb0b"
+    },
+    {
+        "category": "D",
+        "itemName": "THICK PANCHO",
+        "pieces": 1,
+        "price": 4.99,
+        "sort": 47,
+        "sku": "9b8e0167-bf1c-40f5-864e-cf222007d2b0"
+    },
+    {
+        "category": "D",
+        "itemName": "PLEATED SKIRT",
+        "pieces": 1,
+        "price": 4.99,
+        "sort": 53,
+        "sku": "6a291eab-e9fe-4b52-8342-6e8ae4c1e76f"
+    },
+    {
+        "category": "H",
+        "itemName": "TABLE RUNNER",
+        "pieces": 1,
+        "price": 4.99,
+        "sort": 69,
+        "sku": "12ac031a-c3de-4bc3-9f20-c94ca9da338e"
+    },
+    {
+        "category": "H",
+        "itemName": "BED SKIRT",
+        "pieces": 1,
+        "price": 5.5,
+        "sort": 3,
+        "sku": "3b8c6829-b98c-413f-be45-73b816565921"
+    },
+    {
+        "category": "D",
+        "itemName": "SUIT 2PCS",
+        "pieces": 2,
+        "price": 5.99,
+        "sort": 12,
+        "sku": "d1a0ce18-ca05-4180-ad6f-08371661df4d"
+    },
+    {
+        "category": "D",
+        "itemName": "SWEAT SUIT",
+        "pieces": 2,
+        "price": 6.25,
+        "sort": 64,
+        "sku": "a967c6a3-0fcd-4387-b7fe-42a2fb987708"
+    },
+    {
+        "category": "H",
+        "itemName": "BED SHEET  TWIN",
+        "pieces": 1,
+        "price": 6.25,
+        "sort": 23,
+        "sku": "eabe4428-5f96-46c1-80a9-44bb9f115311"
+    },
+    {
+        "category": "S",
+        "itemName": "   DOLL    1'X1'",
+        "pieces": 1,
+        "price": 6.25,
+        "sort": 3,
+        "sku": "6f013cbb-a391-434c-8688-a9f5033058be"
+    },
+    {
+        "category": "H",
+        "itemName": "    TABLE CLOTH     UP TO 25SQ",
+        "pieces": 1,
+        "price": 6.5,
+        "sort": 64,
+        "sku": "21f1e13a-f287-43ce-911e-9b42e5daa3c6"
+    },
+    {
+        "category": "H",
+        "itemName": "DUVET COVER TWIN",
+        "pieces": 1,
+        "price": 6.5,
+        "sort": 54,
+        "sku": "ac7e67a1-b1b1-4a50-8006-6e096a936c41"
+    },
+    {
+        "category": "H",
+        "itemName": "DRAPE",
+        "pieces": 1,
+        "price": 6.5,
+        "sort": 49,
+        "sku": "8b7675cf-82c1-4b43-b39a-f0ee1f0ed8ac"
+    },
+    {
+        "category": "D",
+        "itemName": "SUIT 3PCS",
+        "pieces": 3,
+        "price": 6.59,
+        "sort": 55,
+        "sku": "1c444fca-f8da-459f-98ff-c2ad8a9e90d9"
+    },
+    {
+        "category": "D",
+        "itemName": "JUMPSUIT",
+        "pieces": 1,
+        "price": 6.99,
+        "sort": 39,
+        "sku": "b8bd8c21-67ac-4a1b-a8ab-4820b16ce809"
+    },
+    {
+        "category": "D",
+        "itemName": "WINTER JACKET",
+        "pieces": 1,
+        "price": 6.99,
+        "sort": 35,
+        "sku": "df57766f-9ab0-44ba-8eab-39bcf108251d"
+    },
+    {
+        "category": "D",
+        "itemName": "ROBE",
+        "pieces": 1,
+        "price": 6.99,
+        "sort": 10,
+        "sku": "e470c770-290f-4d68-b3b1-76809a0c0b10"
+    },
+    {
+        "category": "D",
+        "itemName": "CHOIR/ GRADUATION",
+        "pieces": 1,
+        "price": 6.99,
+        "sort": 44,
+        "sku": "8ad59c91-5544-4773-921e-b3cc2c557d5a"
+    },
+    {
+        "category": "D",
+        "itemName": "LONG DRESS",
+        "pieces": 1,
+        "price": 6.99,
+        "sort": 21,
+        "sku": "40da5818-3c17-47e9-ba64-4f7c41194446"
+    },
+    {
+        "category": "H",
+        "itemName": "  BED SHEET  FULL",
+        "pieces": 1,
+        "price": 7.75,
+        "sort": 24,
+        "sku": "aa73a9c4-07f2-44be-8cab-775c7afb9965"
+    },
+    {
+        "category": "H",
+        "itemName": "   BED SKIRT  TWIN",
+        "pieces": 1,
+        "price": 8.5,
+        "sort": 27,
+        "sku": "8dc156de-683b-43be-a92d-05035e292108"
+    },
+    {
+        "category": "H",
+        "itemName": "DRAPERY ",
+        "pieces": 1,
+        "price": 8.5,
+        "sort": 50,
+        "sku": "21297074-f855-43d3-9fc8-4b26b759b4d9"
+    },
+    {
+        "category": "H",
+        "itemName": "DUVET COVER FULL",
+        "pieces": 1,
+        "price": 8.5,
+        "sort": 55,
+        "sku": "793e4f41-ccbe-400f-bef8-913699dcb986"
+    },
+    {
+        "category": "H",
+        "itemName": "DUVET COVER QUEEN",
+        "pieces": 1,
+        "price": 8.5,
+        "sort": 56,
+        "sku": "c90083c0-ff32-48fe-b3ad-6fb88bc7de4e"
+    },
+    {
+        "category": "H",
+        "itemName": "    TABLE CLOTH       UP TO 35SQ",
+        "pieces": 1,
+        "price": 8.5,
+        "sort": 65,
+        "sku": "368d673e-1e03-4e91-8097-f7c81ad0f137"
+    },
+    {
+        "category": "D",
+        "itemName": "THICK JUMPSUIT",
+        "pieces": 1,
+        "price": 8.95,
+        "sort": 40,
+        "sku": "c4dba532-d5b7-4bf7-8dce-4ab922d92190"
+    },
+    {
+        "category": "D",
+        "itemName": "COAT",
+        "pieces": 1,
+        "price": 8.99,
+        "sort": 6,
+        "sku": "32ab2607-dd81-4c41-80d9-cfd88a52cd4d"
+    },
+    {
+        "category": "S",
+        "itemName": "   DOLL  1'X1.5'",
+        "pieces": 1,
+        "price": 9.0,
+        "sort": 4,
+        "sku": "d0b19e89-3bf4-4b9f-b9a6-7e0b3798fd4d"
+    },
+    {
+        "category": "H",
+        "itemName": "   BED SKIRT   FULL",
+        "pieces": 1,
+        "price": 9.5,
+        "sort": 28,
+        "sku": "2d3e2bd8-2da4-4d44-a274-e31198c8846e"
+    },
+    {
+        "category": "H",
+        "itemName": "BED SHEET QUEEN",
+        "pieces": 1,
+        "price": 9.5,
+        "sort": 25,
+        "sku": "447f3693-1c05-4faa-a744-4953ab3286a4"
+    },
+    {
+        "category": "D",
+        "itemName": "TUXEDO 2PCS",
+        "pieces": 2,
+        "price": 9.99,
+        "sort": 15,
+        "sku": "39c904be-61be-49ba-94de-84d6902b32ce"
+    },
+    {
+        "category": "H",
+        "itemName": "LOVE SEAT",
+        "pieces": 1,
+        "price": 9.99,
+        "sort": 39,
+        "sku": "fc2402d0-df74-445a-a7be-d534f2d1e52e"
+    },
+    {
+        "category": "H",
+        "itemName": "    TABLE CLOTH        UP TO 50SQ",
+        "pieces": 1,
+        "price": 9.99,
+        "sort": 66,
+        "sku": "b3dcf0f7-7a38-43bc-a310-0f6524aee916"
+    },
+    {
+        "category": "H",
+        "itemName": "DUVET COVER KING",
+        "pieces": 1,
+        "price": 9.99,
+        "sort": 57,
+        "sku": "2d2b6fe6-c4cd-480a-90c9-f45797fd6843"
+    },
+    {
+        "category": "H",
+        "itemName": "DRAPERY UPTO 8'W",
+        "pieces": 1,
+        "price": 9.99,
+        "sort": 51,
+        "sku": "c6934a33-9ba6-4a45-8224-cf1707376078"
+    },
+    {
+        "category": "D",
+        "itemName": "DRESS ",
+        "pieces": 1,
+        "price": 9.99,
+        "sort": 31,
+        "sku": "fd2d1e26-6f33-478a-98ce-ff6f0642e0fd"
+    },
+    {
+        "category": "D",
+        "itemName": "THICKER JACKET",
+        "pieces": 1,
+        "price": 9.99,
+        "sort": 36,
+        "sku": "cdf44649-662c-4081-a184-be9681fd2c99"
+    },
+    {
+        "category": "D",
+        "itemName": "RUSH",
+        "pieces": 0,
+        "price": 10.0,
+        "sort": 19,
+        "sku": "f396c7e5-35ab-42ce-bcd4-cb2244fbbd49"
+    },
+    {
+        "category": "L",
+        "itemName": "RUSH",
+        "pieces": 0,
+        "price": 10.0,
+        "sort": 11,
+        "sku": "5e796827-903f-457e-ac07-b8d934838c2e"
+    },
+    {
+        "category": "H",
+        "itemName": "BED SKIRT QUEEN",
+        "pieces": 1,
+        "price": 10.5,
+        "sort": 29,
+        "sku": "bb83c799-3c3e-4549-818a-f83ae4e187b1"
+    },
+    {
+        "category": "H",
+        "itemName": "  BED SHEET  KING",
+        "pieces": 1,
+        "price": 10.5,
+        "sort": 26,
+        "sku": "93305967-82e1-4120-9c6b-5d8d05e6560b"
+    },
+    {
+        "category": "D",
+        "itemName": "COAT",
+        "pieces": 1,
+        "price": 10.99,
+        "sort": 25,
+        "sku": "cd46e991-a96b-4207-9d8e-1185af7956fe"
+    },
+    {
+        "category": "H",
+        "itemName": "   BED SKIRT  KING",
+        "pieces": 1,
+        "price": 11.5,
+        "sort": 30,
+        "sku": "27ea130b-b643-4bcd-99ba-7683a651225d"
+    },
+    {
+        "category": "D",
+        "itemName": "TUXEDO 3PCS",
+        "pieces": 3,
+        "price": 12.25,
+        "sort": 61,
+        "sku": "d3553c51-193f-4bf5-ab93-739bce0ffaae"
+    },
+    {
+        "category": "H",
+        "itemName": "BED SPREAD TWIN",
+        "pieces": 1,
+        "price": 12.5,
+        "sort": 31,
+        "sku": "168a5cf0-13db-4aa9-9f74-908e1e30653e"
+    },
+    {
+        "category": "H",
+        "itemName": "CURTAIN UP TO 6PLEATS",
+        "pieces": 1,
+        "price": 12.5,
+        "sort": 44,
+        "sku": "5060ceb3-1276-46a8-90e1-2f7c04e856dd"
+    },
+    {
+        "category": "S",
+        "itemName": "   DOLL   1'X2'",
+        "pieces": 1,
+        "price": 12.5,
+        "sort": 5,
+        "sku": "4cf675b8-28fd-4327-b47d-5042e97ffddd"
+    },
+    {
+        "category": "H",
+        "itemName": "SOFA COVER",
+        "pieces": 1,
+        "price": 12.95,
+        "sort": 40,
+        "sku": "336e0ecf-ca12-4a28-b222-091cfdeedd1a"
+    },
+    {
+        "category": "H",
+        "itemName": "    TABLE CLOTH        UP TO 72SQ",
+        "pieces": 1,
+        "price": 12.99,
+        "sort": 67,
+        "sku": "0fdd7978-3cb0-4251-8d99-ac2dbb888a9a"
+    },
+    {
+        "category": "H",
+        "itemName": "DRAPERY ",
+        "pieces": 1,
+        "price": 12.99,
+        "sort": 52,
+        "sku": "883cc9ed-b686-402e-8f00-51cc2b0560d4"
+    },
+    {
+        "category": "D",
+        "itemName": "COAT ",
+        "pieces": 1,
+        "price": 12.99,
+        "sort": 26,
+        "sku": "38df535d-ec91-48eb-9082-8aec5b2a1f45"
+    },
+    {
+        "category": "H",
+        "itemName": "BED SPREAD FULL",
+        "pieces": 1,
+        "price": 14.0,
+        "sort": 32,
+        "sku": "2f6ecdc6-aa29-4f23-8c0d-a556c998a4fc"
+    },
+    {
+        "category": "H",
+        "itemName": "    BLANKET   TWIN",
+        "pieces": 1,
+        "price": 14.5,
+        "sort": 35,
+        "sku": "f2dca0b6-bcc8-474f-8e16-71795cc9b089"
+    },
+    {
+        "category": "H",
+        "itemName": "DRAPERY UPTO 16'W",
+        "pieces": 1,
+        "price": 14.5,
+        "sort": 53,
+        "sku": "861259ef-5fb7-4c43-a8f9-4fd3894bd63d"
+    },
+    {
+        "category": "H",
+        "itemName": "    TABLE CLOTH       UP TO 96SQ",
+        "pieces": 1,
+        "price": 14.99,
+        "sort": 68,
+        "sku": "24176e57-770d-4639-9cac-65db144c813f"
+    },
+    {
+        "category": "H",
+        "itemName": "        QUILT        FULL",
+        "pieces": 1,
+        "price": 14.99,
+        "sort": 61,
+        "sku": "957344d9-e5ec-4c5a-ba02-b916d5ea7c60"
+    },
+    {
+        "category": "D",
+        "itemName": "COAT",
+        "pieces": 1,
+        "price": 14.99,
+        "sort": 27,
+        "sku": "83b04ea2-dabf-4f75-942d-057b7f51bbf6"
+    },
+    {
+        "category": "D",
+        "itemName": "FORMAL DRESS",
+        "pieces": 1,
+        "price": 14.99,
+        "sort": 29,
+        "sku": "b8622db8-096c-458f-9ed4-8a55ac374766"
+    },
+    {
+        "category": "H",
+        "itemName": "BED SPREAD QUEEN",
+        "pieces": 1,
+        "price": 15.5,
+        "sort": 33,
+        "sku": "88d31cea-fbf6-4c2c-94bf-a042af710080"
+    },
+    {
+        "category": "H",
+        "itemName": "BED SPREAD KING",
+        "pieces": 1,
+        "price": 16.75,
+        "sort": 34,
+        "sku": "8a9f93fa-6cc0-418e-b51d-3590bf221bc8"
+    },
+    {
+        "category": "H",
+        "itemName": "BANNER  8'",
+        "pieces": 1,
+        "price": 16.75,
+        "sort": 18,
+        "sku": "26bc8762-fd49-4b2d-9141-1d7141257026"
+    },
+    {
+        "category": "S",
+        "itemName": "   DOLL    2'X2'",
+        "pieces": 1,
+        "price": 16.75,
+        "sort": 6,
+        "sku": "6cc884e1-ccd3-4aa4-b452-bc44b669c67d"
+    },
+    {
+        "category": "H",
+        "itemName": "     QUILT    QUEEN",
+        "pieces": 1,
+        "price": 16.99,
+        "sort": 62,
+        "sku": "25e05e0e-66e2-49c1-9b1e-6544cf731217"
+    },
+    {
+        "category": "H",
+        "itemName": "    BLANKET     FULL",
+        "pieces": 1,
+        "price": 16.99,
+        "sort": 36,
+        "sku": "666a27ea-9820-45b1-b556-119abc52008c"
+    },
+    {
+        "category": "H",
+        "itemName": "SLEEPING BAG",
+        "pieces": 1,
+        "price": 18.75,
+        "sort": 10,
+        "sku": "54db90fa-b8f4-4880-a806-28364694feee"
+    },
+    {
+        "category": "H",
+        "itemName": "       QUILT       KING",
+        "pieces": 1,
+        "price": 18.99,
+        "sort": 63,
+        "sku": "bf82f500-b40d-458b-892b-d685b0221c82"
+    },
+    {
+        "category": "H",
+        "itemName": "    BLANKET   QUEEN",
+        "pieces": 1,
+        "price": 18.99,
+        "sort": 37,
+        "sku": "d1cebb59-fc51-4e6b-b0fd-b66b4581a268"
+    },
+    {
+        "category": "H",
+        "itemName": "   BLANKET     KING",
+        "pieces": 1,
+        "price": 19.0,
+        "sort": 38,
+        "sku": "3a331c38-a841-43d1-a40e-ac1f668721cb"
+    },
+    {
+        "category": "H",
+        "itemName": "CURTAIN UP TO 9PLEATS",
+        "pieces": 1,
+        "price": 19.0,
+        "sort": 45,
+        "sku": "83a31095-e829-409c-8602-d20e24ac158c"
+    },
+    {
+        "category": "H",
+        "itemName": "TWIN",
+        "pieces": 1,
+        "price": 20.99,
+        "sort": 43,
+        "sku": "efc1756a-d190-4ff4-9e27-a67139a341be"
+    },
+    {
+        "category": "H",
+        "itemName": "DC-COMFORTER QUEEN",
+        "pieces": 1,
+        "price": 22.5,
+        "sort": 41,
+        "sku": "0eb22c6d-387a-47c7-8388-a93d3ae64235"
+    },
+    {
+        "category": "H",
+        "itemName": "DC-COMFORTER KING",
+        "pieces": 1,
+        "price": 24.5,
+        "sort": 42,
+        "sku": "ad2f4636-cee4-40ec-b226-4876efa070bd"
+    },
+    {
+        "category": "S",
+        "itemName": "PANTS",
+        "pieces": 1,
+        "price": 25.0,
+        "sort": 8,
+        "sku": "d6e2d8ad-545f-4a7d-b8c5-921d2349882c"
+    },
+    {
+        "category": "S",
+        "itemName": "SKIRT",
+        "pieces": 1,
+        "price": 25.0,
+        "sort": 7,
+        "sku": "8dd95111-f06c-4634-94d9-210b6b6eaea1"
+    },
+    {
+        "category": "H",
+        "itemName": "CURTAIN UP TO 12PLEATS",
+        "pieces": 1,
+        "price": 25.25,
+        "sort": 46,
+        "sku": "eb0aefb6-ff33-4481-9b47-387aa7c5dcba"
+    },
+    {
+        "category": "H",
+        "itemName": "BANNER 12'",
+        "pieces": 1,
+        "price": 25.25,
+        "sort": 19,
+        "sku": "e047a50a-81e7-4a1c-8b72-072f0155433c"
+    },
+    {
+        "category": "H",
+        "itemName": "BANNER 16'",
+        "pieces": 1,
+        "price": 33.5,
+        "sort": 20,
+        "sku": "d114e4e2-d87d-4e7a-878e-a79a8387ed4e"
+    },
+    {
+        "category": "S",
+        "itemName": "JACKET",
+        "pieces": 1,
+        "price": 35.0,
+        "sort": 9,
+        "sku": "cdc7771d-2c43-471c-a3cd-f87a403911ac"
+    },
+    {
+        "category": "H",
+        "itemName": "DOWN  COMFORTER",
+        "pieces": 1,
+        "price": 35.0,
+        "sort": 17,
+        "sku": "2307087c-1ba5-4a6e-8c51-0e5039f1739f"
+    },
+    {
+        "category": "H",
+        "itemName": "CURTAIN UP TO 18PLEATS",
+        "pieces": 1,
+        "price": 37.75,
+        "sort": 47,
+        "sku": "0bdd92f1-c2e6-4327-8dd8-add75ffed57b"
+    },
+    {
+        "category": "H",
+        "itemName": "BANNER 24'",
+        "pieces": 1,
+        "price": 42.0,
+        "sort": 21,
+        "sku": "b8f25e45-3872-4229-98cf-db30cc30dcd0"
+    },
+    {
+        "category": "S",
+        "itemName": "BIG JACKET",
+        "pieces": 1,
+        "price": 45.0,
+        "sort": 10,
+        "sku": "76af984c-11b0-4dd0-a496-cf376c863323"
+    },
+    {
+        "category": "S",
+        "itemName": "JACKET ",
+        "pieces": 1,
+        "price": 50.0,
+        "sort": 11,
+        "sku": "a96385ba-85df-4fc4-bbd1-ad39c544ebcd"
+    },
+    {
+        "category": "H",
+        "itemName": "CURTAIN UP TO 24PLEATS",
+        "pieces": 1,
+        "price": 50.5,
+        "sort": 48,
+        "sku": "635ae5ce-9d65-4a9f-86e6-db786697e2df"
+    },
+    {
+        "category": "H",
+        "itemName": "BANNER 32'",
+        "pieces": 1,
+        "price": 50.5,
+        "sort": 22,
+        "sku": "e83f90e4-0ff6-4722-9c8c-59a267a8a3c7"
+    },
+    {
+        "category": "D",
+        "itemName": "WEDDING 1PC",
+        "pieces": 1,
+        "price": 125.0,
+        "sort": 30,
+        "sku": "9e9b33e3-c1be-40bf-a3d1-14d33c4c7e56"
+    }
+]

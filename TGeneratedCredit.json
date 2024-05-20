@@ -1,0 +1,5870 @@
+[
+    {
+        "customerID": "A10547",
+        "date": "2019-01-23",
+        "dateTime": "2019-01-23",
+        "creditAmount": 0.18,
+        "paymentID": "159be5a0-29ab-448d-9d41-78dd7604baa1",
+        "import": true,
+        "reason": "Lost Garment"
+    },
+    {
+        "customerID": "A10894",
+        "date": "2019-01-24",
+        "dateTime": "2019-01-24",
+        "creditAmount": 8.12,
+        "paymentID": "3beede16-4a68-4348-838e-338396fa99af",
+        "import": true,
+        "reason": "Double Charged"
+    },
+    {
+        "customerID": "A10335",
+        "date": "2019-01-26",
+        "dateTime": "2019-01-26",
+        "creditAmount": 2.03,
+        "paymentID": "41a6a4fd-453f-4ad2-b3d4-150f73ab974c",
+        "import": true,
+        "reason": "Adjustment"
+    },
+    {
+        "customerID": "A11214",
+        "date": "2019-01-29",
+        "dateTime": "2019-01-29",
+        "creditAmount": 2.84,
+        "paymentID": "3d23f1c0-c8ec-4cae-9618-4d9cd05b807a",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10967",
+        "date": "2019-01-29",
+        "dateTime": "2019-01-29",
+        "creditAmount": 2.83,
+        "paymentID": "2a7cea55-0bab-47ad-ac6d-bbc0b1d0bec7",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A11198",
+        "date": "2019-02-01",
+        "dateTime": "2019-02-01",
+        "creditAmount": 30.0,
+        "paymentID": "facb1097-58cf-4d27-8f74-89470cf5d315",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A11213",
+        "date": "2019-02-04",
+        "dateTime": "2019-02-04",
+        "creditAmount": 2.03,
+        "paymentID": "0220f208-ee80-41e6-b371-d5a028f00262",
+        "import": true,
+        "reason": "Double Charged"
+    },
+    {
+        "customerID": "A11050",
+        "date": "2019-02-04",
+        "dateTime": "2019-02-04",
+        "creditAmount": 20.0,
+        "paymentID": "135ccf51-dad9-486e-857e-2dc1e06464f4",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A10504",
+        "date": "2019-02-16",
+        "dateTime": "2019-02-16",
+        "creditAmount": 12.33,
+        "paymentID": "0dbd00a0-1deb-417c-a044-a5217d523e68",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A11268",
+        "date": "2019-02-22",
+        "dateTime": "2019-02-22",
+        "creditAmount": 2.03,
+        "paymentID": "13ecaf65-131b-40ca-bf84-813a18a8203d",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A11268",
+        "date": "2019-02-22",
+        "dateTime": "2019-02-22",
+        "creditAmount": 8.0,
+        "paymentID": "5c2cc9b1-c486-4141-8de1-e0eb7bcf10c3",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A22103",
+        "date": "2019-02-24",
+        "dateTime": "2019-02-24",
+        "creditAmount": 5.0,
+        "paymentID": "028595bb-d5d9-42f7-b04b-ad889bdec90d",
+        "import": true,
+        "reason": "Adjustment"
+    },
+    {
+        "customerID": "A22131",
+        "date": "2019-02-28",
+        "dateTime": "2019-02-28",
+        "creditAmount": 1.6,
+        "paymentID": "f79d0073-a287-49a0-b120-95a83aaf9f41",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A22131",
+        "date": "2019-02-28",
+        "dateTime": "2019-02-28",
+        "creditAmount": 1.6,
+        "paymentID": "6c5d7b59-ebf4-4644-b520-4dbd071b971d",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A22216",
+        "date": "2019-03-05",
+        "dateTime": "2019-03-05",
+        "creditAmount": 1.6,
+        "paymentID": "4b6b7f13-6415-4a29-bf8e-253ba3fb119a",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A10131",
+        "date": "2019-03-18",
+        "dateTime": "2019-03-18",
+        "creditAmount": 18.77,
+        "paymentID": "5000750c-b71a-41b4-8516-5bb90fbb1ae6",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A32353",
+        "date": "2019-03-18",
+        "dateTime": "2019-03-18",
+        "creditAmount": 3.4,
+        "paymentID": "e0e6d843-65d0-4779-9e10-0f21f419fdd4",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A11142",
+        "date": "2019-03-19",
+        "dateTime": "2019-03-19",
+        "creditAmount": 0.93,
+        "paymentID": "eefab222-1b8f-402d-85c1-b5bc1050e618",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A10987",
+        "date": "2019-03-20",
+        "dateTime": "2019-03-20",
+        "creditAmount": 7.45,
+        "paymentID": "9104ef17-c3f7-492a-8bcc-966e202e587f",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A10121",
+        "date": "2019-03-22",
+        "dateTime": "2019-03-22",
+        "creditAmount": 5.43,
+        "paymentID": "0a22f7b7-31c6-405d-b25d-43d42b26841c",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A21458",
+        "date": "2019-03-26",
+        "dateTime": "2019-03-26",
+        "creditAmount": 0.93,
+        "paymentID": "9d25d839-39a5-490d-b837-135155380c94",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A10656",
+        "date": "2019-04-01",
+        "dateTime": "2019-04-01",
+        "creditAmount": 2.03,
+        "paymentID": "c3ee3cb0-bd9a-4433-82ab-75b3d0b74a67",
+        "import": true,
+        "reason": "Not Processed"
+    },
+    {
+        "customerID": "A32558",
+        "date": "2019-04-02",
+        "dateTime": "2019-04-02",
+        "creditAmount": 1.2,
+        "paymentID": "94bc8aea-e44d-4cc3-8d94-c72327af192b",
+        "import": true,
+        "reason": "Double Charged"
+    },
+    {
+        "customerID": "A10291",
+        "date": "2019-04-02",
+        "dateTime": "2019-04-02",
+        "creditAmount": 0.93,
+        "paymentID": "23a689e8-9a59-49ee-8941-151c933ecf9c",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A22258",
+        "date": "2019-04-02",
+        "dateTime": "2019-04-02",
+        "creditAmount": 25.0,
+        "paymentID": "f768fa96-4885-4a4c-b66a-0e1ce4513de7",
+        "import": true,
+        "reason": "Lost Garment"
+    },
+    {
+        "customerID": "A10458",
+        "date": "2019-04-03",
+        "dateTime": "2019-04-03",
+        "creditAmount": 1.61,
+        "paymentID": "4b310b4a-1425-4920-996d-f4c5c1e0fb3c",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A32910",
+        "date": "2019-04-03",
+        "dateTime": "2019-04-03",
+        "creditAmount": 0.67,
+        "paymentID": "058efa3f-5de0-430c-8702-1e30e902c3d4",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A32902",
+        "date": "2019-04-04",
+        "dateTime": "2019-04-04",
+        "creditAmount": 2.03,
+        "paymentID": "aed2e8f0-ff51-48b3-a699-87dfb97d9ccc",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A32284",
+        "date": "2019-04-06",
+        "dateTime": "2019-04-06",
+        "creditAmount": 0.7,
+        "paymentID": "4cddc3ca-4b65-438c-a2c3-fddbc6eabc19",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A32999",
+        "date": "2019-04-06",
+        "dateTime": "2019-04-06",
+        "creditAmount": 1.5,
+        "paymentID": "4000db8f-bde1-461c-a78a-ba2d8380a6c4",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A33063",
+        "date": "2019-04-09",
+        "dateTime": "2019-04-09",
+        "creditAmount": 12.22,
+        "paymentID": "64e5eaad-1a53-4c0a-95d5-5cce31fdeca5",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A33016",
+        "date": "2019-04-09",
+        "dateTime": "2019-04-09",
+        "creditAmount": 0.93,
+        "paymentID": "b74691ca-1ec7-4405-a137-3da595786fe7",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A33020",
+        "date": "2019-04-10",
+        "dateTime": "2019-04-10",
+        "creditAmount": 2.0,
+        "paymentID": "b8d02539-d5bb-4c7e-8c6b-b9e7a13deef3",
+        "import": true,
+        "reason": "Double Charged"
+    },
+    {
+        "customerID": "A10759",
+        "date": "2019-04-11",
+        "dateTime": "2019-04-11",
+        "creditAmount": 0.94,
+        "paymentID": "8be83af9-4a95-4c3c-a382-e3182c34c2af",
+        "import": true,
+        "reason": "Double Charged"
+    },
+    {
+        "customerID": "A21558",
+        "date": "2019-04-12",
+        "dateTime": "2019-04-12",
+        "creditAmount": 0.93,
+        "paymentID": "190d79df-90ef-44dc-96ad-06cddc88c238",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A33088",
+        "date": "2019-04-13",
+        "dateTime": "2019-04-13",
+        "creditAmount": 32.35,
+        "paymentID": "97983f8a-c98b-4f7f-a94d-18d0486b850b",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A10518",
+        "date": "2019-04-13",
+        "dateTime": "2019-04-13",
+        "creditAmount": 0.15,
+        "paymentID": "1191c115-8e3d-4c12-baff-ea1194365956",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A10785",
+        "date": "2019-04-16",
+        "dateTime": "2019-04-16",
+        "creditAmount": 0.25,
+        "paymentID": "af00fef5-dc2d-4c7f-8519-cb169e0199fd",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A33247",
+        "date": "2019-04-20",
+        "dateTime": "2019-04-20",
+        "creditAmount": 4.32,
+        "paymentID": "763f842e-b440-48be-ada6-21eda23520aa",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A32939",
+        "date": "2019-04-23",
+        "dateTime": "2019-04-23",
+        "creditAmount": 4.95,
+        "paymentID": "c8747462-52a6-41ef-8a57-f8b3ba0f0f21",
+        "import": true,
+        "reason": "Lost Garment"
+    },
+    {
+        "customerID": "A11234",
+        "date": "2019-04-26",
+        "dateTime": "2019-04-26",
+        "creditAmount": 2.0,
+        "paymentID": "1be44ac6-d4b0-46ef-aaf9-14f87252746a",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A10292",
+        "date": "2019-04-26",
+        "dateTime": "2019-04-26",
+        "creditAmount": 3.4,
+        "paymentID": "eed35a0a-7e8c-469f-8f30-c69d73431f88",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10370",
+        "date": "2019-04-26",
+        "dateTime": "2019-04-26",
+        "creditAmount": 1.35,
+        "paymentID": "03e31c62-8e22-4da2-90e4-5b5c2ea34655",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A32770",
+        "date": "2019-04-27",
+        "dateTime": "2019-04-27",
+        "creditAmount": 25.0,
+        "paymentID": "e2b3b75d-4907-4ff6-9c9c-065b992c0e34",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A33356",
+        "date": "2019-04-27",
+        "dateTime": "2019-04-27",
+        "creditAmount": 2.0,
+        "paymentID": "894c9b25-a51b-4c0e-9c49-3cbe0f5b33ca",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A11446",
+        "date": "2019-04-29",
+        "dateTime": "2019-04-29",
+        "creditAmount": 71.91,
+        "paymentID": "fdf6d8f1-b698-4b74-8541-3ee2ec816291",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A10484",
+        "date": "2019-04-30",
+        "dateTime": "2019-04-30",
+        "creditAmount": 20.0,
+        "paymentID": "a44cd05b-ff15-4eff-aabf-687b1aa2d762",
+        "import": true,
+        "reason": "Adjustment"
+    },
+    {
+        "customerID": "A33472",
+        "date": "2019-05-04",
+        "dateTime": "2019-05-04",
+        "creditAmount": 8.82,
+        "paymentID": "ad67d51e-7cc3-4aae-9610-9b028a52c0f9",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A33472",
+        "date": "2019-05-04",
+        "dateTime": "2019-05-04",
+        "creditAmount": 8.82,
+        "paymentID": "03c1e0cb-683a-4241-8e5e-7cca2154191f",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A10674",
+        "date": "2019-05-07",
+        "dateTime": "2019-05-07",
+        "creditAmount": 11.47,
+        "paymentID": "a4274418-fac1-4e8a-a748-3b3ce6fafba2",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A11398",
+        "date": "2019-05-07",
+        "dateTime": "2019-05-07",
+        "creditAmount": 2.04,
+        "paymentID": "4c07e2b5-5935-492a-820b-247595c2e052",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A33468",
+        "date": "2019-05-07",
+        "dateTime": "2019-05-07",
+        "creditAmount": 1.35,
+        "paymentID": "a7f47198-d1e8-4519-b5d0-20fc4a239c90",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A10260",
+        "date": "2019-05-08",
+        "dateTime": "2019-05-08",
+        "creditAmount": 14.9,
+        "paymentID": "00df2fd1-aeaf-4b4a-9c8b-7ce020c21784",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A33599",
+        "date": "2019-05-14",
+        "dateTime": "2019-05-14",
+        "creditAmount": 5.67,
+        "paymentID": "9f208089-5be2-4b28-a014-4116a7e0e5ba",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A33597",
+        "date": "2019-05-14",
+        "dateTime": "2019-05-14",
+        "creditAmount": 2.04,
+        "paymentID": "2051fce0-1736-404b-86dd-59b6c9b2d252",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A33284",
+        "date": "2019-05-14",
+        "dateTime": "2019-05-14",
+        "creditAmount": 0.93,
+        "paymentID": "32114d08-e1a9-44a2-aaf1-558ab0369132",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A33440",
+        "date": "2019-05-14",
+        "dateTime": "2019-05-14",
+        "creditAmount": 0.94,
+        "paymentID": "66862d6b-c6dc-44ee-b31e-c380ed13fb65",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A32477",
+        "date": "2019-05-15",
+        "dateTime": "2019-05-15",
+        "creditAmount": 1.6,
+        "paymentID": "1f7eaf76-d3b9-4cc0-86a1-fc8d8d3bbdd7",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A21824",
+        "date": "2019-05-18",
+        "dateTime": "2019-05-18",
+        "creditAmount": 2.29,
+        "paymentID": "7a8fd0d1-6e29-4607-828b-39e31786e034",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A32433",
+        "date": "2019-05-20",
+        "dateTime": "2019-05-20",
+        "creditAmount": 0.07,
+        "paymentID": "78e937c9-4151-4975-87d7-11dd9e75969b",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A33672",
+        "date": "2019-05-20",
+        "dateTime": "2019-05-20",
+        "creditAmount": 0.46,
+        "paymentID": "7b990ba8-17d8-426c-9de0-c10b9d2e3107",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A10217",
+        "date": "2019-05-20",
+        "dateTime": "2019-05-20",
+        "creditAmount": 0.26,
+        "paymentID": "348f0ece-58e8-4e51-ae85-12d18295c77b",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A33248",
+        "date": "2019-05-20",
+        "dateTime": "2019-05-20",
+        "creditAmount": 0.14,
+        "paymentID": "6121adba-f9c2-4ef7-83e2-c9224015b963",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A33404",
+        "date": "2019-05-20",
+        "dateTime": "2019-05-20",
+        "creditAmount": 0.94,
+        "paymentID": "57f29bd8-4e52-4ef6-a82d-6262744ce501",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A32558",
+        "date": "2019-05-22",
+        "dateTime": "2019-05-22",
+        "creditAmount": 1.36,
+        "paymentID": "d77dd473-9741-4be7-9320-36df810bcb86",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A32558",
+        "date": "2019-05-22",
+        "dateTime": "2019-05-22",
+        "creditAmount": 1.2,
+        "paymentID": "49a115f2-6b2a-4a7d-9293-e6d482b3d74f",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A33733",
+        "date": "2019-05-22",
+        "dateTime": "2019-05-22",
+        "creditAmount": 1.32,
+        "paymentID": "a6d9acf6-fa2e-4b2a-950f-99ccb338164c",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A33440",
+        "date": "2019-05-23",
+        "dateTime": "2019-05-23",
+        "creditAmount": 0.94,
+        "paymentID": "8f34f854-45bb-467b-8897-0ab4a6cf2533",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A33787",
+        "date": "2019-05-25",
+        "dateTime": "2019-05-25",
+        "creditAmount": 1.6,
+        "paymentID": "0e7057a6-1308-468a-b8b1-e6d7964c9230",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A32440",
+        "date": "2019-05-28",
+        "dateTime": "2019-05-28",
+        "creditAmount": 0.5,
+        "paymentID": "1dcfcdc3-6d85-41ad-9bd1-29dc233ad262",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A22060",
+        "date": "2019-05-29",
+        "dateTime": "2019-05-29",
+        "creditAmount": 1.07,
+        "paymentID": "89f12e3e-e880-489f-80ea-e2bad592f111",
+        "import": true,
+        "reason": "Double Charged"
+    },
+    {
+        "customerID": "A21507",
+        "date": "2019-05-31",
+        "dateTime": "2019-05-31",
+        "creditAmount": 0.25,
+        "paymentID": "b1bd5ea1-2824-4720-b78c-e02277b1cd42",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A33928",
+        "date": "2019-06-05",
+        "dateTime": "2019-06-05",
+        "creditAmount": 0.68,
+        "paymentID": "65a789d4-8790-4fa9-b230-be4aaea80a41",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A33957",
+        "date": "2019-06-07",
+        "dateTime": "2019-06-07",
+        "creditAmount": 0.46,
+        "paymentID": "e0a918e4-b517-4473-ad0c-495d0b684b07",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A11145",
+        "date": "2019-06-07",
+        "dateTime": "2019-06-07",
+        "creditAmount": 10.52,
+        "paymentID": "e342865d-c5a9-43b8-a36a-ceb8a78163ae",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A32637",
+        "date": "2019-06-10",
+        "dateTime": "2019-06-10",
+        "creditAmount": 3.2,
+        "paymentID": "faafc075-8638-40e5-aa88-7eb46317c6ea",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A32283",
+        "date": "2019-06-11",
+        "dateTime": "2019-06-11",
+        "creditAmount": 0.26,
+        "paymentID": "9e79c454-a5a2-4cda-a8b3-ff024f99dab7",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A10309",
+        "date": "2019-06-11",
+        "dateTime": "2019-06-11",
+        "creditAmount": 2.03,
+        "paymentID": "94a6754e-c6aa-4f84-9ad4-1a493877aed6",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A22187",
+        "date": "2019-06-14",
+        "dateTime": "2019-06-14",
+        "creditAmount": 4.06,
+        "paymentID": "568e936e-c67b-4aaf-b2cb-1a18002b2a63",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A22187",
+        "date": "2019-06-14",
+        "dateTime": "2019-06-14",
+        "creditAmount": 2.71,
+        "paymentID": "17bd7144-e820-4c65-8b6e-86d7d2d1eb22",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A33999",
+        "date": "2019-06-14",
+        "dateTime": "2019-06-14",
+        "creditAmount": 0.46,
+        "paymentID": "3222a8e1-6e91-4399-8b97-cf3cf2d9abb9",
+        "import": true,
+        "reason": ".46\r\n\r\n"
+    },
+    {
+        "customerID": "A33343",
+        "date": "2019-06-15",
+        "dateTime": "2019-06-15",
+        "creditAmount": 2.17,
+        "paymentID": "043e6dfc-03b7-4695-901e-ae74f68c65c1",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A22225",
+        "date": "2019-06-22",
+        "dateTime": "2019-06-22",
+        "creditAmount": 1.79,
+        "paymentID": "1bc2871e-f660-4385-a777-f8a4d713c41d",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A34096",
+        "date": "2019-06-25",
+        "dateTime": "2019-06-25",
+        "creditAmount": 0.93,
+        "paymentID": "6d08537a-e9f3-4ad9-8cae-09f9a8516fe9",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A33451",
+        "date": "2019-06-26",
+        "dateTime": "2019-06-26",
+        "creditAmount": 0.03,
+        "paymentID": "17eacb89-f8c5-4638-b896-7bd4155ab825",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A11236",
+        "date": "2019-06-26",
+        "dateTime": "2019-06-26",
+        "creditAmount": 0.03,
+        "paymentID": "705eb24b-d384-41ad-8302-f469784971c9",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A34172",
+        "date": "2019-07-01",
+        "dateTime": "2019-07-01",
+        "creditAmount": 25.0,
+        "paymentID": "d7b20e7e-b290-44fe-b6df-f6e427d8f163",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A21746",
+        "date": "2019-07-10",
+        "dateTime": "2019-07-10",
+        "creditAmount": 0.46,
+        "paymentID": "60603321-f386-46b4-b05b-8365e39c0706",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A33405",
+        "date": "2019-07-13",
+        "dateTime": "2019-07-13",
+        "creditAmount": 0.26,
+        "paymentID": "1a37b73b-2696-4dbd-bdb9-ac15d9478b96",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A11236",
+        "date": "2019-07-19",
+        "dateTime": "2019-07-19",
+        "creditAmount": 1.19,
+        "paymentID": "91a48e06-8ad0-4a44-9c74-72f5458cbef7",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A10050",
+        "date": "2019-07-19",
+        "dateTime": "2019-07-19",
+        "creditAmount": 0.93,
+        "paymentID": "4c7f5881-30e1-4110-bfb3-0c7e47a522da",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10151",
+        "date": "2019-07-25",
+        "dateTime": "2019-07-25",
+        "creditAmount": 2.03,
+        "paymentID": "af06eb79-ad1d-4b56-8ae4-9abc56081985",
+        "import": true,
+        "reason": "Not Processed"
+    },
+    {
+        "customerID": "A22060",
+        "date": "2019-07-25",
+        "dateTime": "2019-07-25",
+        "creditAmount": 0.93,
+        "paymentID": "304ffba2-0c68-44d1-9e12-9ffbc9bad906",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A34456",
+        "date": "2019-07-30",
+        "dateTime": "2019-07-30",
+        "creditAmount": 0.93,
+        "paymentID": "379a080a-f771-46b7-87cc-05ac7632d69a",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A11394",
+        "date": "2019-08-02",
+        "dateTime": "2019-08-02",
+        "creditAmount": 0.93,
+        "paymentID": "2d2d27c4-52e7-4dba-abe9-91fdf01447df",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A33869",
+        "date": "2019-08-02",
+        "dateTime": "2019-08-02",
+        "creditAmount": 2.04,
+        "paymentID": "eee9c909-6990-44e1-8a2a-77d07a1504f9",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A33182",
+        "date": "2019-08-07",
+        "dateTime": "2019-08-07",
+        "creditAmount": 2.84,
+        "paymentID": "eb315fca-b311-4a92-9c9c-dc740fe647f6",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A34550",
+        "date": "2019-08-08",
+        "dateTime": "2019-08-08",
+        "creditAmount": 1.36,
+        "paymentID": "1e322046-d968-4f23-b72f-025c6ccd9d7c",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10584",
+        "date": "2019-08-08",
+        "dateTime": "2019-08-08",
+        "creditAmount": 1.59,
+        "paymentID": "31d37ed2-a7a7-4f60-95cc-053007298204",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A11436",
+        "date": "2019-08-09",
+        "dateTime": "2019-08-09",
+        "creditAmount": 6.35,
+        "paymentID": "bbfca799-dee2-4674-a568-4072efa80c3b",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A33259",
+        "date": "2019-08-10",
+        "dateTime": "2019-08-10",
+        "creditAmount": 0.02,
+        "paymentID": "2afd4980-54d6-4c32-b2be-e2b372e52d33",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A33250",
+        "date": "2019-08-23",
+        "dateTime": "2019-08-23",
+        "creditAmount": 1.37,
+        "paymentID": "506d8731-ad55-4273-a734-d1ce067b934e",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10244",
+        "date": "2019-08-23",
+        "dateTime": "2019-08-23",
+        "creditAmount": 5.42,
+        "paymentID": "a30ecb9d-502a-470e-b36f-0318fdba12a1",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A11340",
+        "date": "2019-08-26",
+        "dateTime": "2019-08-26",
+        "creditAmount": 2.03,
+        "paymentID": "8a54cc6e-8f83-483f-b488-09fede741220",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A32353",
+        "date": "2019-08-27",
+        "dateTime": "2019-08-27",
+        "creditAmount": 4.3,
+        "paymentID": "13d5682b-e0ca-4ad7-8de3-90012875bd16",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A32891",
+        "date": "2019-08-28",
+        "dateTime": "2019-08-28",
+        "creditAmount": 0.14,
+        "paymentID": "5e2654dc-fb6b-44bf-88e9-e4331e84bea4",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A32246",
+        "date": "2019-08-30",
+        "dateTime": "2019-08-30",
+        "creditAmount": 1.6,
+        "paymentID": "66116d76-d7b4-4245-860b-6c84d6274191",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A10183",
+        "date": "2019-09-04",
+        "dateTime": "2019-09-04",
+        "creditAmount": 0.52,
+        "paymentID": "251c15fb-e56f-4e94-9c18-4c9dab5da7dd",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10590",
+        "date": "2019-09-04",
+        "dateTime": "2019-09-04",
+        "creditAmount": 0.26,
+        "paymentID": "f1de1fe6-e4ff-435d-8bfd-bb39195fb1e2",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A44785",
+        "date": "2019-09-07",
+        "dateTime": "2019-09-07",
+        "creditAmount": 1.6,
+        "paymentID": "88b9bba9-7246-4269-a213-f7f9b50d5060",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A34058",
+        "date": "2019-09-09",
+        "dateTime": "2019-09-09",
+        "creditAmount": 0.46,
+        "paymentID": "e1b43370-72c2-4297-8677-ff09f846bed4",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A21505",
+        "date": "2019-09-10",
+        "dateTime": "2019-09-10",
+        "creditAmount": 1.37,
+        "paymentID": "3e35d564-f4c5-497f-920d-83a3c48f2f61",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A21824",
+        "date": "2019-09-11",
+        "dateTime": "2019-09-11",
+        "creditAmount": 1.36,
+        "paymentID": "6cc6cd0a-b0a9-4fe8-9ea6-2614439a699b",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A44802",
+        "date": "2019-09-12",
+        "dateTime": "2019-09-12",
+        "creditAmount": 2.04,
+        "paymentID": "ee3b0a04-a4ec-4f15-8114-ef0f40aab629",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A34081",
+        "date": "2019-09-12",
+        "dateTime": "2019-09-12",
+        "creditAmount": 2.0,
+        "paymentID": "093c25af-c0f2-4626-99f4-c25ebaed019b",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A34276",
+        "date": "2019-09-14",
+        "dateTime": "2019-09-14",
+        "creditAmount": 1.6,
+        "paymentID": "e4e3293e-047b-4d9e-8127-fd55368da0ff",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A54839",
+        "date": "2019-09-14",
+        "dateTime": "2019-09-14",
+        "creditAmount": 0.93,
+        "paymentID": "12b14ae7-6969-495c-8418-542df58ad69f",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A22254",
+        "date": "2019-09-14",
+        "dateTime": "2019-09-14",
+        "creditAmount": 2.29,
+        "paymentID": "a7de47de-4dab-473e-9307-6c9da39066ba",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A34618",
+        "date": "2019-09-18",
+        "dateTime": "2019-09-18",
+        "creditAmount": 2.0,
+        "paymentID": "f2364e3c-59f4-4b69-9ffd-27a32ff83cb8",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A33650",
+        "date": "2019-09-19",
+        "dateTime": "2019-09-19",
+        "creditAmount": 0.93,
+        "paymentID": "558a470e-6dd4-4b46-a61a-4a5e51e62cf3",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A34632",
+        "date": "2019-09-23",
+        "dateTime": "2019-09-23",
+        "creditAmount": 0.93,
+        "paymentID": "5da5701c-288d-4838-b2cf-81651ee1a348",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A11383",
+        "date": "2019-09-26",
+        "dateTime": "2019-09-26",
+        "creditAmount": 0.14,
+        "paymentID": "8af0f29c-1960-481b-844a-0d97174dc9bb",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10239",
+        "date": "2019-09-26",
+        "dateTime": "2019-09-26",
+        "creditAmount": 0.26,
+        "paymentID": "63b6d64b-33ae-47a8-9ea3-355afb36677b",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A32985",
+        "date": "2019-09-27",
+        "dateTime": "2019-09-27",
+        "creditAmount": 0.93,
+        "paymentID": "db0209b5-2c19-4c80-b42d-d901f9c89214",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A54925",
+        "date": "2019-09-27",
+        "dateTime": "2019-09-27",
+        "creditAmount": 1.6,
+        "paymentID": "4b13572b-7b70-454f-b1b4-e67ff6043d07",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A21566",
+        "date": "2019-09-27",
+        "dateTime": "2019-09-27",
+        "creditAmount": 0.68,
+        "paymentID": "fe0190b6-5c0e-4a19-80bc-dc42e0cd45c6",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A11194",
+        "date": "2019-09-28",
+        "dateTime": "2019-09-28",
+        "creditAmount": 2.27,
+        "paymentID": "c6e06558-b079-4ebb-859c-59ef5762d5f3",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A54831",
+        "date": "2019-09-28",
+        "dateTime": "2019-09-28",
+        "creditAmount": 1.6,
+        "paymentID": "3af7db74-1d75-4328-83b4-6a28b95b8db4",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A33259",
+        "date": "2019-10-05",
+        "dateTime": "2019-10-05",
+        "creditAmount": 0.93,
+        "paymentID": "9a73fa7e-1cb3-492d-9c81-35b9dfd7dfc6",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A34385",
+        "date": "2019-10-07",
+        "dateTime": "2019-10-07",
+        "creditAmount": 0.93,
+        "paymentID": "f00b1e2e-2440-47c2-9435-bfbb5bf6b138",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A22233",
+        "date": "2019-10-09",
+        "dateTime": "2019-10-09",
+        "creditAmount": 0.46,
+        "paymentID": "5a10da24-a0b2-41e9-86e3-7b707e2cf3c0",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A55048",
+        "date": "2019-10-14",
+        "dateTime": "2019-10-14",
+        "creditAmount": 2.0,
+        "paymentID": "8e1d9dbb-2a3f-4392-aac3-e8135a388e63",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A10860",
+        "date": "2019-10-15",
+        "dateTime": "2019-10-15",
+        "creditAmount": 0.82,
+        "paymentID": "06b69bff-b8df-443e-bfb5-e0d6739e483c",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A22258",
+        "date": "2019-10-16",
+        "dateTime": "2019-10-16",
+        "creditAmount": 20.0,
+        "paymentID": "73dc6931-629b-4828-a170-a0b8a26743f1",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A32542",
+        "date": "2019-10-18",
+        "dateTime": "2019-10-18",
+        "creditAmount": 0.94,
+        "paymentID": "5b6045d5-edf3-4cc4-974f-ac64a5cd9977",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A55115",
+        "date": "2019-10-19",
+        "dateTime": "2019-10-19",
+        "creditAmount": 0.48,
+        "paymentID": "bacbb214-bb1d-4972-abb7-c013a182eeae",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10309",
+        "date": "2019-10-19",
+        "dateTime": "2019-10-19",
+        "creditAmount": 6.0,
+        "paymentID": "be9dd6fe-342c-455b-afb7-cec9266d6bc1",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A54860",
+        "date": "2019-10-21",
+        "dateTime": "2019-10-21",
+        "creditAmount": 2.74,
+        "paymentID": "a7b7f59c-96e6-472f-a2fd-39dfdb4b7008",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A11060",
+        "date": "2019-10-23",
+        "dateTime": "2019-10-23",
+        "creditAmount": 0.46,
+        "paymentID": "667082ca-d383-4196-855c-86d4deb1ee24",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A55103",
+        "date": "2019-10-24",
+        "dateTime": "2019-10-24",
+        "creditAmount": 45.0,
+        "paymentID": "e188a1ef-5a37-4aa1-bb5d-fe2ecb373707",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A32630",
+        "date": "2019-10-25",
+        "dateTime": "2019-10-25",
+        "creditAmount": 1.6,
+        "paymentID": "5f63d25f-3e84-4304-8b7b-5e2de539653f",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A33420",
+        "date": "2019-10-25",
+        "dateTime": "2019-10-25",
+        "creditAmount": 1.69,
+        "paymentID": "08dc98cb-24b8-4f6b-a34b-b0b9fa5327e7",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A10579",
+        "date": "2019-10-26",
+        "dateTime": "2019-10-26",
+        "creditAmount": 0.46,
+        "paymentID": "eda3456f-b932-4c5b-bafc-1d4ae7cad17a",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A32640",
+        "date": "2019-10-29",
+        "dateTime": "2019-10-29",
+        "creditAmount": 1.61,
+        "paymentID": "2e57e3fc-da7c-4c60-ae59-5bed3fa030fe",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A33157",
+        "date": "2019-10-29",
+        "dateTime": "2019-10-29",
+        "creditAmount": 0.93,
+        "paymentID": "16a6d09c-0db2-4e88-aaae-32ea3cd55b3e",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10547",
+        "date": "2019-11-02",
+        "dateTime": "2019-11-02",
+        "creditAmount": 4.0,
+        "paymentID": "2e0076ce-3cf5-46a4-98e3-a794f1978511",
+        "import": true,
+        "reason": "Double Charged"
+    },
+    {
+        "customerID": "A33390",
+        "date": "2019-11-02",
+        "dateTime": "2019-11-02",
+        "creditAmount": 2.49,
+        "paymentID": "97a6e349-1845-4b43-9f71-29e17b9a021c",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A34447",
+        "date": "2019-11-04",
+        "dateTime": "2019-11-04",
+        "creditAmount": 1.79,
+        "paymentID": "a3fe2194-aec7-47ae-bbe9-38b724f9b897",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A10803",
+        "date": "2019-11-04",
+        "dateTime": "2019-11-04",
+        "creditAmount": 2.7,
+        "paymentID": "e3321033-4503-4897-8b7b-e0f65db23c80",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A44725",
+        "date": "2019-11-06",
+        "dateTime": "2019-11-06",
+        "creditAmount": 1.8,
+        "paymentID": "cdb99f3a-2a27-46da-afaf-9492f6674b37",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A55160",
+        "date": "2019-11-06",
+        "dateTime": "2019-11-06",
+        "creditAmount": 1.6,
+        "paymentID": "b12b507e-d8af-4f43-9f45-d04ec99baa8c",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A22119",
+        "date": "2019-11-07",
+        "dateTime": "2019-11-07",
+        "creditAmount": 0.93,
+        "paymentID": "e597e267-b746-49f2-98e5-3869ff1f6696",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A32440",
+        "date": "2019-11-08",
+        "dateTime": "2019-11-08",
+        "creditAmount": 0.93,
+        "paymentID": "8fa4b874-871e-47b6-a8e0-51e714d48503",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A55186",
+        "date": "2019-11-08",
+        "dateTime": "2019-11-08",
+        "creditAmount": 0.46,
+        "paymentID": "4050fd80-5b07-4620-8348-5bebcc2cb20f",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A11123",
+        "date": "2019-11-09",
+        "dateTime": "2019-11-09",
+        "creditAmount": 1.35,
+        "paymentID": "726902dd-cf13-4d35-9e9c-516c31bcefd9",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A55160",
+        "date": "2019-11-14",
+        "dateTime": "2019-11-14",
+        "creditAmount": 2.3,
+        "paymentID": "0d4e8a89-5ed1-40b2-8d1c-3583a3ef3eb5",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A21830",
+        "date": "2019-11-15",
+        "dateTime": "2019-11-15",
+        "creditAmount": 2.0,
+        "paymentID": "1c1e8e62-1f2b-4283-bc81-c7fd703f09b5",
+        "import": true,
+        "reason": "Double Charged"
+    },
+    {
+        "customerID": "A55129",
+        "date": "2019-11-23",
+        "dateTime": "2019-11-23",
+        "creditAmount": 0.93,
+        "paymentID": "f4a6fc68-3a1e-4a79-aab5-8b4b270d59b3",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A32744",
+        "date": "2019-11-27",
+        "dateTime": "2019-11-27",
+        "creditAmount": 1.6,
+        "paymentID": "decb2de1-1ca8-45ab-81e5-9ba95f568e7d",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A32929",
+        "date": "2019-11-27",
+        "dateTime": "2019-11-27",
+        "creditAmount": 0.93,
+        "paymentID": "089ad3b3-af78-4872-b089-64bcd600ed51",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A11098",
+        "date": "2019-11-27",
+        "dateTime": "2019-11-27",
+        "creditAmount": 0.26,
+        "paymentID": "1d8a73f9-962c-4fe1-bd0c-7265f847b9a2",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A22134",
+        "date": "2019-11-30",
+        "dateTime": "2019-11-30",
+        "creditAmount": 2.04,
+        "paymentID": "203d05ef-1363-4512-92e2-2d052cdb4bfd",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A32973",
+        "date": "2019-12-02",
+        "dateTime": "2019-12-02",
+        "creditAmount": 4.43,
+        "paymentID": "72c018a4-1458-4878-b1d2-cc32dc998df8",
+        "import": true,
+        "reason": "Double Charged"
+    },
+    {
+        "customerID": "A22210",
+        "date": "2019-12-04",
+        "dateTime": "2019-12-04",
+        "creditAmount": 1.79,
+        "paymentID": "f95220da-a8c6-427e-8b58-b6b66ed0d6ca",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A85405",
+        "date": "2019-12-04",
+        "dateTime": "2019-12-04",
+        "creditAmount": 1.5,
+        "paymentID": "f9f4002c-b386-4081-881b-20f94b6b7c6b",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A85500",
+        "date": "2019-12-09",
+        "dateTime": "2019-12-09",
+        "creditAmount": 3.39,
+        "paymentID": "f06ac77e-c26d-429a-9660-c6a31b8c10c3",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A33541",
+        "date": "2019-12-10",
+        "dateTime": "2019-12-10",
+        "creditAmount": 2.04,
+        "paymentID": "06b078bf-9af7-4c9f-bbec-256e59ca2822",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A55067",
+        "date": "2019-12-10",
+        "dateTime": "2019-12-10",
+        "creditAmount": 0.93,
+        "paymentID": "aec103a3-f6c0-4af6-b37d-6d8544cd8d98",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A85526",
+        "date": "2019-12-11",
+        "dateTime": "2019-12-11",
+        "creditAmount": 0.93,
+        "paymentID": "2ce35ff0-7a16-4c8e-9987-30eb33ecc235",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A85540",
+        "date": "2019-12-13",
+        "dateTime": "2019-12-13",
+        "creditAmount": 2.0,
+        "paymentID": "1b97d331-4945-42a8-8d1c-eb5bb36bf474",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A10503",
+        "date": "2019-12-17",
+        "dateTime": "2019-12-17",
+        "creditAmount": 1.1,
+        "paymentID": "e338e977-f066-49cb-b33b-58741d31bbf6",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A34225",
+        "date": "2019-12-17",
+        "dateTime": "2019-12-17",
+        "creditAmount": 2.0,
+        "paymentID": "a2546507-78fe-46f1-9b5a-b3bb9ae3a2cb",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A21578",
+        "date": "2019-12-18",
+        "dateTime": "2019-12-18",
+        "creditAmount": 0.94,
+        "paymentID": "1ee3b3b2-729e-4bac-a1ae-adc013a35193",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A34512",
+        "date": "2019-12-18",
+        "dateTime": "2019-12-18",
+        "creditAmount": 0.12,
+        "paymentID": "a620ac8b-3e69-4f4f-83d3-55a35239a653",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10914",
+        "date": "2019-12-19",
+        "dateTime": "2019-12-19",
+        "creditAmount": 1.19,
+        "paymentID": "ac19671d-565f-4d6a-b7a4-288559b96eed",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A10967",
+        "date": "2019-12-20",
+        "dateTime": "2019-12-20",
+        "creditAmount": 1.35,
+        "paymentID": "c73d055d-efe3-4515-bdc4-ad7047e04339",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A34085",
+        "date": "2019-12-20",
+        "dateTime": "2019-12-20",
+        "creditAmount": 2.0,
+        "paymentID": "9c2f7ee4-4327-40ce-91bf-8645f1bc3da9",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A10252",
+        "date": "2019-12-20",
+        "dateTime": "2019-12-20",
+        "creditAmount": 0.94,
+        "paymentID": "8e633bc9-4b16-4ba5-80f1-9e16c3311479",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A34642",
+        "date": "2019-12-21",
+        "dateTime": "2019-12-21",
+        "creditAmount": 1.7,
+        "paymentID": "6d4eae80-d63f-4ae7-80eb-3c6711beb87c",
+        "import": true,
+        "reason": "Adjustment"
+    },
+    {
+        "customerID": "A32542",
+        "date": "2019-12-21",
+        "dateTime": "2019-12-21",
+        "creditAmount": 2.3,
+        "paymentID": "d1c7586e-e165-4ab4-b810-151642ddc22a",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A85510",
+        "date": "2019-12-23",
+        "dateTime": "2019-12-23",
+        "creditAmount": 1.6,
+        "paymentID": "40f83173-3692-44ee-b56d-62681103eb06",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A34171",
+        "date": "2019-12-23",
+        "dateTime": "2019-12-23",
+        "creditAmount": 23.21,
+        "paymentID": "c1e3f014-6f57-47b4-81cb-f1247f9a7503",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A22074",
+        "date": "2019-12-24",
+        "dateTime": "2019-12-24",
+        "creditAmount": 2.17,
+        "paymentID": "2b1fda35-3edf-43b4-a4a7-c8839697cd4a",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A34230",
+        "date": "2019-12-24",
+        "dateTime": "2019-12-24",
+        "creditAmount": 2.04,
+        "paymentID": "c229f092-98f8-4bd5-b4ff-1ef1ac8b4bda",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A55129",
+        "date": "2019-12-27",
+        "dateTime": "2019-12-27",
+        "creditAmount": 0.93,
+        "paymentID": "4f1933f2-e4e1-4756-bf87-a7d8bbc4834a",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A55061",
+        "date": "2019-12-27",
+        "dateTime": "2019-12-27",
+        "creditAmount": 0.46,
+        "paymentID": "a8a7eb0b-a5fb-4641-8065-f12f20a66263",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10548",
+        "date": "2019-12-27",
+        "dateTime": "2019-12-27",
+        "creditAmount": 0.94,
+        "paymentID": "4c0eea0e-05ab-4841-96d0-1d15dc4f83d3",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10056",
+        "date": "2019-12-30",
+        "dateTime": "2019-12-30",
+        "creditAmount": 0.7,
+        "paymentID": "42e5adbf-c004-44f0-b682-ad8db088fcd9",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A85511",
+        "date": "2020-01-03",
+        "dateTime": "2020-01-03",
+        "creditAmount": 0.14,
+        "paymentID": "1cf3871c-1017-4852-b144-b1ff30a24691",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A34148",
+        "date": "2020-01-03",
+        "dateTime": "2020-01-03",
+        "creditAmount": 2.03,
+        "paymentID": "4187d241-b745-477e-bbff-8c67480d442d",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10581",
+        "date": "2020-01-04",
+        "dateTime": "2020-01-04",
+        "creditAmount": 0.22,
+        "paymentID": "e18282ac-4f01-4abb-bed4-2cf8f8cef6bc",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A32284",
+        "date": "2020-01-04",
+        "dateTime": "2020-01-04",
+        "creditAmount": 1.6,
+        "paymentID": "14b10d88-1d60-491e-aa53-bf0440d6d8d5",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A33629",
+        "date": "2020-01-04",
+        "dateTime": "2020-01-04",
+        "creditAmount": 0.25,
+        "paymentID": "7cf0d703-d50c-4d90-aef3-b5b070241b01",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A55246",
+        "date": "2020-01-07",
+        "dateTime": "2020-01-07",
+        "creditAmount": 0.93,
+        "paymentID": "a0338285-9968-4729-a499-7bc9ea40ccba",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A21782",
+        "date": "2020-01-08",
+        "dateTime": "2020-01-08",
+        "creditAmount": 0.93,
+        "paymentID": "d282cd76-ce6a-4aad-ab0f-f1d221a8f7f0",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A33992",
+        "date": "2020-01-09",
+        "dateTime": "2020-01-09",
+        "creditAmount": 3.4,
+        "paymentID": "e15752e0-4f3c-4499-a1b1-27db106d8d51",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A34664",
+        "date": "2020-01-10",
+        "dateTime": "2020-01-10",
+        "creditAmount": 0.46,
+        "paymentID": "dd29f9cb-d7a7-4497-a778-13d7839d992a",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A34458",
+        "date": "2020-01-11",
+        "dateTime": "2020-01-11",
+        "creditAmount": 0.93,
+        "paymentID": "414d660d-4ede-4404-b8ca-fcdca64c0135",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10408",
+        "date": "2020-01-13",
+        "dateTime": "2020-01-13",
+        "creditAmount": 21.65,
+        "paymentID": "239866ee-0de3-4942-b3d0-63759029ce83",
+        "import": true,
+        "reason": "Double Charged"
+    },
+    {
+        "customerID": "A11076",
+        "date": "2020-01-13",
+        "dateTime": "2020-01-13",
+        "creditAmount": 1.86,
+        "paymentID": "9bf6ce70-e587-4ccc-86a3-76c3ad38a8bf",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A65287",
+        "date": "2020-01-16",
+        "dateTime": "2020-01-16",
+        "creditAmount": 0.82,
+        "paymentID": "70a7c2dd-20de-4465-995a-d726279d1212",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A95749",
+        "date": "2020-01-17",
+        "dateTime": "2020-01-17",
+        "creditAmount": 1.6,
+        "paymentID": "cf98cc09-af10-4fbe-9978-581b23ad8f3f",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A21912",
+        "date": "2020-01-17",
+        "dateTime": "2020-01-17",
+        "creditAmount": 0.93,
+        "paymentID": "24b98b55-0669-4cea-9de5-a0cbf10b1320",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10151",
+        "date": "2020-01-20",
+        "dateTime": "2020-01-20",
+        "creditAmount": 2.03,
+        "paymentID": "9f5a252d-e4f2-4b2c-a2b4-f99663410226",
+        "import": true,
+        "reason": "Not Processed"
+    },
+    {
+        "customerID": "A32395",
+        "date": "2020-01-21",
+        "dateTime": "2020-01-21",
+        "creditAmount": 6.0,
+        "paymentID": "f8a2ba54-069f-48c9-9640-938e6cf57348",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A10492",
+        "date": "2020-01-23",
+        "dateTime": "2020-01-23",
+        "creditAmount": 1.6,
+        "paymentID": "0c1c26da-a500-44c1-93b8-733f22357658",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A11142",
+        "date": "2020-01-27",
+        "dateTime": "2020-01-27",
+        "creditAmount": 0.93,
+        "paymentID": "2cb3aec0-9cf1-4af8-bde8-2d63b91ec16c",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A55067",
+        "date": "2020-01-28",
+        "dateTime": "2020-01-28",
+        "creditAmount": 0.93,
+        "paymentID": "137a61a3-32de-4c4a-9197-8c05de63ea8c",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A95845",
+        "date": "2020-01-30",
+        "dateTime": "2020-01-30",
+        "creditAmount": 0.93,
+        "paymentID": "dd679fbb-00fc-4eb7-8ead-78766b786e68",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10424",
+        "date": "2020-01-30",
+        "dateTime": "2020-01-30",
+        "creditAmount": 0.94,
+        "paymentID": "18a61205-e07d-43a0-be3c-41888293edff",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A11378",
+        "date": "2020-02-03",
+        "dateTime": "2020-02-03",
+        "creditAmount": 1.6,
+        "paymentID": "e8b2181b-a37f-4b21-8a8f-c5698257b41d",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A95882",
+        "date": "2020-02-03",
+        "dateTime": "2020-02-03",
+        "creditAmount": 3.17,
+        "paymentID": "0835c034-87cc-49ad-8dbc-a5c7361721db",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A11118",
+        "date": "2020-02-04",
+        "dateTime": "2020-02-04",
+        "creditAmount": 1.61,
+        "paymentID": "57dc37f9-58f4-4390-814a-bb5f00b94c12",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A33419",
+        "date": "2020-02-07",
+        "dateTime": "2020-02-07",
+        "creditAmount": 0.93,
+        "paymentID": "bbff7220-7963-429f-811d-82816ebeb7ed",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A33179",
+        "date": "2020-02-14",
+        "dateTime": "2020-02-14",
+        "creditAmount": 0.93,
+        "paymentID": "217aaec2-d2ec-4edf-b891-baa5231efee6",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A22161",
+        "date": "2020-02-18",
+        "dateTime": "2020-02-18",
+        "creditAmount": 3.0,
+        "paymentID": "971b5166-76df-4f76-a230-22dc7569c974",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A95988",
+        "date": "2020-02-22",
+        "dateTime": "2020-02-22",
+        "creditAmount": 0.93,
+        "paymentID": "a8586282-ac46-42f8-83cf-d388e793711e",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A11367",
+        "date": "2020-02-25",
+        "dateTime": "2020-02-25",
+        "creditAmount": 15.53,
+        "paymentID": "df893be1-de48-4c95-99ea-5f56cc79c553",
+        "import": true,
+        "reason": "Adjustment"
+    },
+    {
+        "customerID": "A96040",
+        "date": "2020-02-27",
+        "dateTime": "2020-02-27",
+        "creditAmount": 2.29,
+        "paymentID": "7ad8ca1c-9126-4a5e-a2eb-1dacfa76741d",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A32460",
+        "date": "2020-02-28",
+        "dateTime": "2020-02-28",
+        "creditAmount": 0.46,
+        "paymentID": "ca0417b0-d881-487c-a7ba-eccb0a163eca",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A65287",
+        "date": "2020-02-28",
+        "dateTime": "2020-02-28",
+        "creditAmount": 0.82,
+        "paymentID": "fe5b806e-e76f-43d7-8646-776f7375d9be",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A11116",
+        "date": "2020-02-29",
+        "dateTime": "2020-02-29",
+        "creditAmount": 2.03,
+        "paymentID": "89f216dd-51d7-48e2-aacd-fcb2aab3c028",
+        "import": true,
+        "reason": "Not Processed"
+    },
+    {
+        "customerID": "A10164",
+        "date": "2020-03-04",
+        "dateTime": "2020-03-04",
+        "creditAmount": 0.26,
+        "paymentID": "dec96ae2-3447-4baa-b744-8698f391cb26",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10683",
+        "date": "2020-03-05",
+        "dateTime": "2020-03-05",
+        "creditAmount": 0.93,
+        "paymentID": "03d49662-f83c-4128-bf11-d3ce61bec3af",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A95940",
+        "date": "2020-03-05",
+        "dateTime": "2020-03-05",
+        "creditAmount": 0.14,
+        "paymentID": "9420846d-d5cc-41fe-8c5e-5d50f471c32c",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A11427",
+        "date": "2020-03-05",
+        "dateTime": "2020-03-05",
+        "creditAmount": 0.15,
+        "paymentID": "b39a8ded-0594-4c78-8725-31eb64b32b9d",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A34058",
+        "date": "2020-03-05",
+        "dateTime": "2020-03-05",
+        "creditAmount": 0.93,
+        "paymentID": "31c7b2fe-76da-4d4f-87fe-419c438f38fe",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10223",
+        "date": "2020-03-06",
+        "dateTime": "2020-03-06",
+        "creditAmount": 1.77,
+        "paymentID": "fd27ab7f-693d-4ba3-b6e3-ce5436330e01",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A96080",
+        "date": "2020-03-06",
+        "dateTime": "2020-03-06",
+        "creditAmount": 2.99,
+        "paymentID": "0924aec5-de6f-4607-830e-5acb4be42f69",
+        "import": true,
+        "reason": "Double Charged"
+    },
+    {
+        "customerID": "A33435",
+        "date": "2020-03-07",
+        "dateTime": "2020-03-07",
+        "creditAmount": 0.82,
+        "paymentID": "c590a120-811a-4e3e-aef6-e0dd9453a5ba",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A54822",
+        "date": "2020-03-07",
+        "dateTime": "2020-03-07",
+        "creditAmount": 2.17,
+        "paymentID": "5b37deca-2354-4954-99f2-f250a48b4cb1",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10428",
+        "date": "2020-03-12",
+        "dateTime": "2020-03-12",
+        "creditAmount": 1.36,
+        "paymentID": "0e03dc13-d2bd-46f1-83c4-3b177a938a36",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A95953",
+        "date": "2020-03-14",
+        "dateTime": "2020-03-14",
+        "creditAmount": 0.92,
+        "paymentID": "e2662758-b7ca-495f-882f-a72d14c15993",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10428",
+        "date": "2020-03-16",
+        "dateTime": "2020-03-16",
+        "creditAmount": 15.0,
+        "paymentID": "10bbc59c-85af-4f9f-bc9c-89592c594ad8",
+        "import": true,
+        "reason": "SHIRT MISSING"
+    },
+    {
+        "customerID": "A95830",
+        "date": "2020-03-16",
+        "dateTime": "2020-03-16",
+        "creditAmount": 0.9,
+        "paymentID": "d56c488e-69d3-4023-b77e-09ead450b051",
+        "import": true,
+        "reason": "FADED LEATHER JACKET"
+    },
+    {
+        "customerID": "A33460",
+        "date": "2020-03-23",
+        "dateTime": "2020-03-23",
+        "creditAmount": 0.26,
+        "paymentID": "905aad8f-9bc6-4ff5-b37e-2af77f389b25",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A34070",
+        "date": "2020-03-30",
+        "dateTime": "2020-03-30",
+        "creditAmount": 0.58,
+        "paymentID": "3e91ba16-65d7-4ecb-805a-20fe0d14f9d8",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A22026",
+        "date": "2020-03-31",
+        "dateTime": "2020-03-31",
+        "creditAmount": 0.93,
+        "paymentID": "dcec54ae-bc3a-4881-9368-ac56153dfaa3",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A44722",
+        "date": "2020-04-03",
+        "dateTime": "2020-04-03",
+        "creditAmount": 0.04,
+        "paymentID": "8661fa38-bb00-4612-b2b1-2e19cb1e46f0",
+        "import": true,
+        "reason": "Lost Garment"
+    },
+    {
+        "customerID": "A106161",
+        "date": "2020-04-11",
+        "dateTime": "2020-04-11",
+        "creditAmount": 2.03,
+        "paymentID": "3e81f70f-b788-4624-a1fb-2906c9d5730c",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A33804",
+        "date": "2020-04-25",
+        "dateTime": "2020-04-25",
+        "creditAmount": 2.83,
+        "paymentID": "dca85180-b265-4358-a564-7dd920d5ede2",
+        "import": true,
+        "reason": "Not Processed"
+    },
+    {
+        "customerID": "A34070",
+        "date": "2020-05-02",
+        "dateTime": "2020-05-02",
+        "creditAmount": 0.93,
+        "paymentID": "5ae87d03-9f67-42f4-8353-7b49e877494c",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A10077",
+        "date": "2020-05-09",
+        "dateTime": "2020-05-09",
+        "creditAmount": 2.03,
+        "paymentID": "48cb335c-806d-4ee6-92b1-6612546047ef",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A34317",
+        "date": "2020-05-12",
+        "dateTime": "2020-05-12",
+        "creditAmount": 6.11,
+        "paymentID": "f942e900-7b3b-4e91-ab94-7073652831ad",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10046",
+        "date": "2020-05-14",
+        "dateTime": "2020-05-14",
+        "creditAmount": 0.94,
+        "paymentID": "5a325619-3e2a-4508-8f1b-58e920ecf547",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A55170",
+        "date": "2020-05-14",
+        "dateTime": "2020-05-14",
+        "creditAmount": 0.7,
+        "paymentID": "19bf563e-c32e-45b9-b28e-4c292566e0c0",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A146241",
+        "date": "2020-05-23",
+        "dateTime": "2020-05-23",
+        "creditAmount": 0.94,
+        "paymentID": "9d02084e-c6b4-4857-89f7-ed725122f3b4",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A34260",
+        "date": "2020-05-27",
+        "dateTime": "2020-05-27",
+        "creditAmount": 0.75,
+        "paymentID": "596c4095-163d-4b9d-a4ee-0704b87cb906",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A33195",
+        "date": "2020-05-28",
+        "dateTime": "2020-05-28",
+        "creditAmount": 2.29,
+        "paymentID": "15c63e06-5cdd-4bee-9aaf-b6b9c7d99339",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10751",
+        "date": "2020-05-29",
+        "dateTime": "2020-05-29",
+        "creditAmount": 2.96,
+        "paymentID": "cd4a0627-cf04-4ae2-8140-1a1c6acf3123",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A21861",
+        "date": "2020-06-02",
+        "dateTime": "2020-06-02",
+        "creditAmount": 1.13,
+        "paymentID": "38acdbc4-5145-4f07-9d56-5a6ac438d0a4",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A156289",
+        "date": "2020-06-06",
+        "dateTime": "2020-06-06",
+        "creditAmount": 0.93,
+        "paymentID": "279539e3-3ad6-47d4-a3f7-922d18ef2fbc",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A32598",
+        "date": "2020-06-16",
+        "dateTime": "2020-06-16",
+        "creditAmount": 2.0,
+        "paymentID": "55828001-82d5-4fda-b68e-9b790ebe5843",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A156350",
+        "date": "2020-06-17",
+        "dateTime": "2020-06-17",
+        "creditAmount": 2.84,
+        "paymentID": "89b886f8-9993-40dc-84c3-a02ada029eb1",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A95977",
+        "date": "2020-06-18",
+        "dateTime": "2020-06-18",
+        "creditAmount": 2.03,
+        "paymentID": "ccb2ed46-d532-4e22-9d3d-4b599d9a1a5a",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A21466",
+        "date": "2020-06-19",
+        "dateTime": "2020-06-19",
+        "creditAmount": 3.07,
+        "paymentID": "e5584338-c62a-4d9f-bf4f-4665a2e7f0fe",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A34565",
+        "date": "2020-06-19",
+        "dateTime": "2020-06-19",
+        "creditAmount": 2.07,
+        "paymentID": "82337716-f47e-4746-99bc-fba2c372140f",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10337",
+        "date": "2020-06-22",
+        "dateTime": "2020-06-22",
+        "creditAmount": 1.13,
+        "paymentID": "552a80d5-096d-4d19-8372-0a09fc64b42a",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A166376",
+        "date": "2020-06-25",
+        "dateTime": "2020-06-25",
+        "creditAmount": 0.93,
+        "paymentID": "79c5c66b-ff0c-4604-966d-244dd2441395",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A55136",
+        "date": "2020-06-30",
+        "dateTime": "2020-06-30",
+        "creditAmount": 1.1,
+        "paymentID": "ad850a33-11d3-47fa-8e2f-202317d9a1d3",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A34631",
+        "date": "2020-07-03",
+        "dateTime": "2020-07-03",
+        "creditAmount": 1.46,
+        "paymentID": "72e7d07d-6016-49e9-aad4-27022944bf2a",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A21511",
+        "date": "2020-07-03",
+        "dateTime": "2020-07-03",
+        "creditAmount": 0.93,
+        "paymentID": "6299672b-6e7a-4dc2-9f73-bd0930b5cb12",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A21747",
+        "date": "2020-07-06",
+        "dateTime": "2020-07-06",
+        "creditAmount": 11.22,
+        "paymentID": "4d59e889-5452-4872-a632-35a135f0219a",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A176421",
+        "date": "2020-07-13",
+        "dateTime": "2020-07-13",
+        "creditAmount": 1.6,
+        "paymentID": "8c2c875d-c66b-4bb6-9825-df33c8f88cf3",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A32250",
+        "date": "2020-07-13",
+        "dateTime": "2020-07-13",
+        "creditAmount": 0.61,
+        "paymentID": "2a4a9c2f-fb0a-414b-b76e-846a294ce700",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A176447",
+        "date": "2020-07-18",
+        "dateTime": "2020-07-18",
+        "creditAmount": 3.5,
+        "paymentID": "8c6a6e2e-e583-400b-aeaf-4b5232898b46",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A34349",
+        "date": "2020-07-21",
+        "dateTime": "2020-07-21",
+        "creditAmount": 25.0,
+        "paymentID": "94e3e97d-8f3c-460f-b4a0-83c8e02764c2",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A21574",
+        "date": "2020-07-22",
+        "dateTime": "2020-07-22",
+        "creditAmount": 3.06,
+        "paymentID": "2f230cab-823a-45d8-b456-bb06f85905b4",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A32764",
+        "date": "2020-07-23",
+        "dateTime": "2020-07-23",
+        "creditAmount": 2.03,
+        "paymentID": "140dc310-6e91-40d5-a2dd-1c96bf0829bf",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A156347",
+        "date": "2020-07-24",
+        "dateTime": "2020-07-24",
+        "creditAmount": 2.03,
+        "paymentID": "7d5fc47c-5fcf-443c-91ce-710dcf1b7be2",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10265",
+        "date": "2020-07-25",
+        "dateTime": "2020-07-25",
+        "creditAmount": 0.8,
+        "paymentID": "707506ff-f076-42a8-9701-8b06eceae2db",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10370",
+        "date": "2020-07-29",
+        "dateTime": "2020-07-29",
+        "creditAmount": 2.03,
+        "paymentID": "ba74d09f-9d75-4b30-ba56-06b061cce3cb",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10498",
+        "date": "2020-07-29",
+        "dateTime": "2020-07-29",
+        "creditAmount": 2.17,
+        "paymentID": "f4285fae-61f8-448f-9556-d41732d19e2c",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10539",
+        "date": "2020-07-31",
+        "dateTime": "2020-07-31",
+        "creditAmount": 0.93,
+        "paymentID": "2fe294a6-6cd1-40ef-bcd3-39ab28433a3f",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10939",
+        "date": "2020-08-05",
+        "dateTime": "2020-08-05",
+        "creditAmount": 0.48,
+        "paymentID": "031a75b7-35a4-4483-8986-1c11f3d35cc6",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A34460",
+        "date": "2020-08-05",
+        "dateTime": "2020-08-05",
+        "creditAmount": 0.93,
+        "paymentID": "b4a1e664-7649-4435-9a48-04e7d6157e18",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A32230",
+        "date": "2020-08-05",
+        "dateTime": "2020-08-05",
+        "creditAmount": 0.93,
+        "paymentID": "0cdb7032-bdac-40c9-872b-071ea8fc3ded",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A34379",
+        "date": "2020-08-05",
+        "dateTime": "2020-08-05",
+        "creditAmount": 2.17,
+        "paymentID": "604d08c8-f977-4e48-bcdb-c80c40e3e090",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A21746",
+        "date": "2020-08-07",
+        "dateTime": "2020-08-07",
+        "creditAmount": 1.6,
+        "paymentID": "8d010a8b-3745-4b16-a84b-b2f326f58af0",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A54843",
+        "date": "2020-08-08",
+        "dateTime": "2020-08-08",
+        "creditAmount": 0.71,
+        "paymentID": "067369a4-84cd-4f31-a678-aab1db2b9d0d",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10376",
+        "date": "2020-08-08",
+        "dateTime": "2020-08-08",
+        "creditAmount": 0.93,
+        "paymentID": "c10bce01-b309-4904-841e-17e5c6513749",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A176515",
+        "date": "2020-08-12",
+        "dateTime": "2020-08-12",
+        "creditAmount": 0.93,
+        "paymentID": "a6e95275-f032-441e-9503-61c2517a7d05",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A176520",
+        "date": "2020-08-12",
+        "dateTime": "2020-08-12",
+        "creditAmount": 0.93,
+        "paymentID": "b0594e5f-241f-437a-9018-c5d39fbfc12d",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10177",
+        "date": "2020-08-14",
+        "dateTime": "2020-08-14",
+        "creditAmount": 3.5,
+        "paymentID": "a57a19ef-420b-421f-9611-e8901e992153",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A186523",
+        "date": "2020-08-17",
+        "dateTime": "2020-08-17",
+        "creditAmount": 2.96,
+        "paymentID": "443d01eb-96de-4ef3-a2c2-22c8fc7f9aea",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A32252",
+        "date": "2020-08-17",
+        "dateTime": "2020-08-17",
+        "creditAmount": 0.61,
+        "paymentID": "83f818a9-ff76-4943-90d5-52b744834197",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A32479",
+        "date": "2020-08-21",
+        "dateTime": "2020-08-21",
+        "creditAmount": 0.7,
+        "paymentID": "6145e615-21d9-4f60-8ac3-c94d0a8fde4a",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A34400",
+        "date": "2020-08-24",
+        "dateTime": "2020-08-24",
+        "creditAmount": 1.6,
+        "paymentID": "1967e9ed-91c0-4633-8ae0-5223396c01b8",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A156270",
+        "date": "2020-08-24",
+        "dateTime": "2020-08-24",
+        "creditAmount": 0.93,
+        "paymentID": "ae1557ae-a476-4d8a-9d5b-2f3508fb2889",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A11377",
+        "date": "2020-08-29",
+        "dateTime": "2020-08-29",
+        "creditAmount": 0.47,
+        "paymentID": "f5c5b3cd-4409-4207-80c8-97d4a97247bd",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A85513",
+        "date": "2020-09-01",
+        "dateTime": "2020-09-01",
+        "creditAmount": 16.22,
+        "paymentID": "9547bc79-eccb-413c-80ef-676a372bff29",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A11289",
+        "date": "2020-09-01",
+        "dateTime": "2020-09-01",
+        "creditAmount": 0.93,
+        "paymentID": "baf9c620-431b-4153-bdce-c28518de7362",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A33728",
+        "date": "2020-09-02",
+        "dateTime": "2020-09-02",
+        "creditAmount": 5.66,
+        "paymentID": "db19c080-58a9-4291-afa5-8a947754bf02",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A21945",
+        "date": "2020-09-04",
+        "dateTime": "2020-09-04",
+        "creditAmount": 0.56,
+        "paymentID": "900666e9-e554-4595-8de0-b3c393134055",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A32692",
+        "date": "2020-09-04",
+        "dateTime": "2020-09-04",
+        "creditAmount": 0.48,
+        "paymentID": "73ecc1d3-f91e-481e-a9a1-cc7553be1472",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A216578",
+        "date": "2020-09-05",
+        "dateTime": "2020-09-05",
+        "creditAmount": 0.68,
+        "paymentID": "a1916445-e894-4ed1-8550-7c1d0147a898",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A85475",
+        "date": "2020-09-09",
+        "dateTime": "2020-09-09",
+        "creditAmount": 55.74,
+        "paymentID": "e0caf3ee-b723-4f57-9971-f72b13b9e708",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A34114",
+        "date": "2020-09-10",
+        "dateTime": "2020-09-10",
+        "creditAmount": 21.49,
+        "paymentID": "c286e7ff-2213-4453-923b-c06babf29c42",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A33899",
+        "date": "2020-09-12",
+        "dateTime": "2020-09-12",
+        "creditAmount": 2.83,
+        "paymentID": "b0fb6f79-42ed-4f26-a907-2cae6232ad07",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10525",
+        "date": "2020-09-14",
+        "dateTime": "2020-09-14",
+        "creditAmount": 2.96,
+        "paymentID": "631170d5-1150-4f2f-9eb0-ef6285f354a4",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10264",
+        "date": "2020-09-15",
+        "dateTime": "2020-09-15",
+        "creditAmount": 50.0,
+        "paymentID": "0a3f318d-3aa7-4396-822c-66e3bdbdc34d",
+        "import": true,
+        "reason": "Lost Garment"
+    },
+    {
+        "customerID": "A10703",
+        "date": "2020-09-15",
+        "dateTime": "2020-09-15",
+        "creditAmount": 2.96,
+        "paymentID": "b56a45e1-ae00-4b7d-9f87-31ceffdaf720",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A33660",
+        "date": "2020-09-17",
+        "dateTime": "2020-09-17",
+        "creditAmount": 2.82,
+        "paymentID": "9de900e9-f1e1-4581-8833-a1419a51a06a",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10294",
+        "date": "2020-09-17",
+        "dateTime": "2020-09-17",
+        "creditAmount": 0.71,
+        "paymentID": "f04c03f3-38aa-44cd-9b00-6eb2d90fae80",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A226617",
+        "date": "2020-09-19",
+        "dateTime": "2020-09-19",
+        "creditAmount": 2.17,
+        "paymentID": "00dd68f2-f0b4-49ef-9917-4edabdd88318",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A206557",
+        "date": "2020-09-25",
+        "dateTime": "2020-09-25",
+        "creditAmount": 0.93,
+        "paymentID": "e59c20b8-bfa2-472e-b536-dd52e6cb6971",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A32236",
+        "date": "2020-10-02",
+        "dateTime": "2020-10-02",
+        "creditAmount": 20.25,
+        "paymentID": "f792720b-907e-477a-9f39-ad5bdb0da822",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A11255",
+        "date": "2020-10-08",
+        "dateTime": "2020-10-08",
+        "creditAmount": 3.54,
+        "paymentID": "c748bf4e-e8c1-4788-8fee-b8934fe86cc2",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A85365",
+        "date": "2020-10-09",
+        "dateTime": "2020-10-09",
+        "creditAmount": 1.94,
+        "paymentID": "154cd7fe-a12b-4d7a-b740-3a5ac1ab18e5",
+        "import": true,
+        "reason": "Double Charged"
+    },
+    {
+        "customerID": "A32960",
+        "date": "2020-10-09",
+        "dateTime": "2020-10-09",
+        "creditAmount": 0.27,
+        "paymentID": "1afdac8f-3ce6-45c4-b950-ec4a68c34b74",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10370",
+        "date": "2020-10-10",
+        "dateTime": "2020-10-10",
+        "creditAmount": 24.41,
+        "paymentID": "06e95079-7c40-41d5-a7e1-3b9fde0b88fb",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A236654",
+        "date": "2020-10-12",
+        "dateTime": "2020-10-12",
+        "creditAmount": 0.94,
+        "paymentID": "733eeb78-69dd-47d7-a186-04bc2e202dcd",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A22082",
+        "date": "2020-10-13",
+        "dateTime": "2020-10-13",
+        "creditAmount": 2.13,
+        "paymentID": "5f495297-0c6a-40b5-901b-2262b831fbba",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A156268",
+        "date": "2020-10-14",
+        "dateTime": "2020-10-14",
+        "creditAmount": 0.61,
+        "paymentID": "3097fdf8-8f1e-432b-856f-d1684c8168f4",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A96005",
+        "date": "2020-10-20",
+        "dateTime": "2020-10-20",
+        "creditAmount": 1.92,
+        "paymentID": "f906e352-a29c-45bd-9d3a-44f0ed156bbe",
+        "import": true,
+        "reason": "Lost Garment"
+    },
+    {
+        "customerID": "A11027",
+        "date": "2020-10-20",
+        "dateTime": "2020-10-20",
+        "creditAmount": 0.48,
+        "paymentID": "5b778114-e95e-4db7-b8e2-34f5b8139cfd",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A10787",
+        "date": "2020-10-21",
+        "dateTime": "2020-10-21",
+        "creditAmount": 6.12,
+        "paymentID": "55883f55-bdac-4866-9fee-8a8b62fb7c4a",
+        "import": true,
+        "reason": "Lost Garment"
+    },
+    {
+        "customerID": "A33768",
+        "date": "2020-10-21",
+        "dateTime": "2020-10-21",
+        "creditAmount": 3.11,
+        "paymentID": "bfd414a3-d682-4056-940d-d0a894d2f2f0",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10348",
+        "date": "2020-10-21",
+        "dateTime": "2020-10-21",
+        "creditAmount": 30.0,
+        "paymentID": "5f5e3645-94fe-441c-b77b-91bbb0545b58",
+        "import": true,
+        "reason": "Lost Garment"
+    },
+    {
+        "customerID": "A22082",
+        "date": "2020-10-23",
+        "dateTime": "2020-10-23",
+        "creditAmount": 0.08,
+        "paymentID": "7682036f-2b2f-4338-baf1-66253fe777e6",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A55122",
+        "date": "2020-10-26",
+        "dateTime": "2020-10-26",
+        "creditAmount": 0.93,
+        "paymentID": "2df24f63-600d-4060-881f-f38adb2d376a",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A21986",
+        "date": "2020-10-27",
+        "dateTime": "2020-10-27",
+        "creditAmount": 0.03,
+        "paymentID": "6f5d9c47-04d1-44d7-8010-7526c72c4e8c",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A21950",
+        "date": "2020-10-27",
+        "dateTime": "2020-10-27",
+        "creditAmount": 1.0,
+        "paymentID": "7a23823d-e3ab-4b3c-a935-71aade1dc50e",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A236733",
+        "date": "2020-10-27",
+        "dateTime": "2020-10-27",
+        "creditAmount": 0.93,
+        "paymentID": "831304d6-a53f-450e-81bc-9cfb65f7ae48",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A34170",
+        "date": "2020-10-31",
+        "dateTime": "2020-10-31",
+        "creditAmount": 1.6,
+        "paymentID": "94296f45-df5a-46be-aaca-22a4d086f6c4",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A106172",
+        "date": "2020-11-02",
+        "dateTime": "2020-11-02",
+        "creditAmount": 2.04,
+        "paymentID": "dd76d0c3-e49e-4552-8da2-3add25d57e30",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A21918",
+        "date": "2020-11-02",
+        "dateTime": "2020-11-02",
+        "creditAmount": 19.46,
+        "paymentID": "986be25a-6967-4219-9e9d-044ad237d177",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A33183",
+        "date": "2020-11-02",
+        "dateTime": "2020-11-02",
+        "creditAmount": 0.49,
+        "paymentID": "c1eaddd5-1428-4baf-bc01-55c14e4b3737",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A33651",
+        "date": "2020-11-05",
+        "dateTime": "2020-11-05",
+        "creditAmount": 1.12,
+        "paymentID": "659208bd-1b15-4adf-99da-339497408b41",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A216556",
+        "date": "2020-11-06",
+        "dateTime": "2020-11-06",
+        "creditAmount": 2.96,
+        "paymentID": "0ea51a56-b94d-4c12-80bb-e81be3fbdaf9",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A32625",
+        "date": "2020-11-11",
+        "dateTime": "2020-11-11",
+        "creditAmount": 2.03,
+        "paymentID": "435f55f3-6080-4bba-8be3-0cf7c992916b",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A95979",
+        "date": "2020-11-16",
+        "dateTime": "2020-11-16",
+        "creditAmount": 0.46,
+        "paymentID": "2608be44-5b53-424a-a044-24bcf7305c61",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A10289",
+        "date": "2020-11-16",
+        "dateTime": "2020-11-16",
+        "creditAmount": 0.93,
+        "paymentID": "037ab2d3-bd62-4e9c-828e-a5c4fffba6de",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A246810",
+        "date": "2020-11-17",
+        "dateTime": "2020-11-17",
+        "creditAmount": 0.94,
+        "paymentID": "a35a821f-e670-492d-8f04-e9c39a29e8ab",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A95946",
+        "date": "2020-11-18",
+        "dateTime": "2020-11-18",
+        "creditAmount": 0.61,
+        "paymentID": "8161704c-4305-4ad5-aa7b-42be124cd6a0",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A34691",
+        "date": "2020-11-20",
+        "dateTime": "2020-11-20",
+        "creditAmount": 2.03,
+        "paymentID": "78234e90-7d7c-400e-9636-01d9d69f47cb",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A22111",
+        "date": "2020-11-24",
+        "dateTime": "2020-11-24",
+        "creditAmount": 0.61,
+        "paymentID": "3421a175-fb07-4c75-ae52-253c1846e511",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A32610",
+        "date": "2020-12-01",
+        "dateTime": "2020-12-01",
+        "creditAmount": 1.8,
+        "paymentID": "9da35352-b690-4379-9a16-fef340abedef",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A236696",
+        "date": "2020-12-03",
+        "dateTime": "2020-12-03",
+        "creditAmount": 2.96,
+        "paymentID": "2f863689-ae94-4d0d-b310-cbc2164bb55e",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A146237",
+        "date": "2020-12-03",
+        "dateTime": "2020-12-03",
+        "creditAmount": 0.93,
+        "paymentID": "2fe64ddc-b5f5-471f-9c3b-b8a570172536",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A32557",
+        "date": "2020-12-04",
+        "dateTime": "2020-12-04",
+        "creditAmount": 1.6,
+        "paymentID": "dfc0ff34-bbff-481a-a188-ed95e999dadf",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10425",
+        "date": "2020-12-07",
+        "dateTime": "2020-12-07",
+        "creditAmount": 2.04,
+        "paymentID": "980a5e36-e625-4697-add0-24f90834af1b",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A21571",
+        "date": "2020-12-08",
+        "dateTime": "2020-12-08",
+        "creditAmount": 0.93,
+        "paymentID": "7053dc84-6c80-44ec-969e-64af8ef97375",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10363",
+        "date": "2020-12-10",
+        "dateTime": "2020-12-10",
+        "creditAmount": 2.04,
+        "paymentID": "5b852789-9c14-4e0e-aebe-e0ce45b3a43a",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A95768",
+        "date": "2020-12-11",
+        "dateTime": "2020-12-11",
+        "creditAmount": 1.5,
+        "paymentID": "3c2af2a2-d2e3-4132-9f0f-0430c849b7c4",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A32584",
+        "date": "2020-12-12",
+        "dateTime": "2020-12-12",
+        "creditAmount": 1.46,
+        "paymentID": "b46a3365-a27d-4bce-9f97-21147d6f32bc",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A32290",
+        "date": "2020-12-16",
+        "dateTime": "2020-12-16",
+        "creditAmount": 0.53,
+        "paymentID": "2ccca2b1-5bfd-4581-b37c-2b50ab86e962",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A32643",
+        "date": "2020-12-17",
+        "dateTime": "2020-12-17",
+        "creditAmount": 2.99,
+        "paymentID": "88e0940c-c26a-40d7-99ab-4be698a53ef5",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A32889",
+        "date": "2020-12-19",
+        "dateTime": "2020-12-19",
+        "creditAmount": 1.6,
+        "paymentID": "8d9126ce-b38e-4d01-bb6a-d4dcaa8a9e45",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A206553",
+        "date": "2020-12-21",
+        "dateTime": "2020-12-21",
+        "creditAmount": 1.32,
+        "paymentID": "d2e2bef4-66f3-4c74-ac0c-6cf4b6f1035c",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A21681",
+        "date": "2020-12-22",
+        "dateTime": "2020-12-22",
+        "creditAmount": 0.24,
+        "paymentID": "319df13a-8fde-45e4-994a-f6e75f2a85ba",
+        "import": true,
+        "reason": "Not Processed"
+    },
+    {
+        "customerID": "A21681",
+        "date": "2020-12-22",
+        "dateTime": "2020-12-22",
+        "creditAmount": 2.04,
+        "paymentID": "9caced88-d3aa-4112-a215-070f3a4ffcdb",
+        "import": true,
+        "reason": "Not Processed"
+    },
+    {
+        "customerID": "A65296",
+        "date": "2020-12-23",
+        "dateTime": "2020-12-23",
+        "creditAmount": 2.03,
+        "paymentID": "3872797a-78d5-4477-a720-1a92a121dc9d",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A246956",
+        "date": "2020-12-29",
+        "dateTime": "2020-12-29",
+        "creditAmount": 2.74,
+        "paymentID": "4d494738-24ab-4943-a99c-cf41b020463c",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A96129",
+        "date": "2020-12-29",
+        "dateTime": "2020-12-29",
+        "creditAmount": 32.39,
+        "paymentID": "7087a77c-ca32-4dd0-b76d-7b41853fd9ac",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A186525",
+        "date": "2021-01-02",
+        "dateTime": "2021-01-02",
+        "creditAmount": 0.61,
+        "paymentID": "9c2f168c-60ed-4a06-9df1-5fceb183ebbd",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A216556",
+        "date": "2021-01-05",
+        "dateTime": "2021-01-05",
+        "creditAmount": 0.14,
+        "paymentID": "e4bb74e7-774d-43e9-a61c-eff9afe3a967",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A33813",
+        "date": "2021-01-05",
+        "dateTime": "2021-01-05",
+        "creditAmount": 0.14,
+        "paymentID": "bbbdde46-0873-43c2-82cc-f837076a00e2",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A10446",
+        "date": "2021-01-07",
+        "dateTime": "2021-01-07",
+        "creditAmount": 1.6,
+        "paymentID": "12323d43-8811-4b9b-b592-0b17ed5802be",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10050",
+        "date": "2021-01-12",
+        "dateTime": "2021-01-12",
+        "creditAmount": 2.83,
+        "paymentID": "1176172d-05cf-4616-b3e9-91cda171ddc4",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A32322",
+        "date": "2021-01-12",
+        "dateTime": "2021-01-12",
+        "creditAmount": 0.93,
+        "paymentID": "889bba58-a891-4181-8d74-aaf96c9127d5",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A257068",
+        "date": "2021-01-16",
+        "dateTime": "2021-01-16",
+        "creditAmount": 14.24,
+        "paymentID": "2becb6f3-6db8-41fa-9b3f-277381a2fc0e",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A55068",
+        "date": "2021-01-18",
+        "dateTime": "2021-01-18",
+        "creditAmount": 0.93,
+        "paymentID": "e429f119-a02b-432f-80f2-6b948fd9a3b2",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A11095",
+        "date": "2021-01-18",
+        "dateTime": "2021-01-18",
+        "creditAmount": 4.53,
+        "paymentID": "cf3a7d5e-c61d-43e7-89e3-ecd6fd745eb1",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A11022",
+        "date": "2021-01-18",
+        "dateTime": "2021-01-18",
+        "creditAmount": 0.18,
+        "paymentID": "3178d55b-359f-4aaa-b078-2e39be11d313",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10818",
+        "date": "2021-01-20",
+        "dateTime": "2021-01-20",
+        "creditAmount": 0.14,
+        "paymentID": "3da7bd4a-b0eb-4335-99a9-5d8e25fb12c7",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A257081",
+        "date": "2021-01-22",
+        "dateTime": "2021-01-22",
+        "creditAmount": 1.47,
+        "paymentID": "87b65f7c-90f6-4137-b436-45b9f956a94c",
+        "import": true,
+        "reason": "Adjustment"
+    },
+    {
+        "customerID": "A146233",
+        "date": "2021-01-30",
+        "dateTime": "2021-01-30",
+        "creditAmount": 0.93,
+        "paymentID": "9ffc0d9d-420b-452b-9456-0ab4573e0a0d",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A54992",
+        "date": "2021-02-05",
+        "dateTime": "2021-02-05",
+        "creditAmount": 0.05,
+        "paymentID": "6f57a3f1-f73e-48bc-a4e7-6e8b2cbaecdf",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A267188",
+        "date": "2021-02-10",
+        "dateTime": "2021-02-10",
+        "creditAmount": 1.6,
+        "paymentID": "2fd1a3eb-fdcb-4bd7-93da-17d2b79f5f4b",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A21653",
+        "date": "2021-02-20",
+        "dateTime": "2021-02-20",
+        "creditAmount": 10.5,
+        "paymentID": "e1a7c764-1721-4619-945d-f63868a27f4f",
+        "import": true,
+        "reason": "Adjustment"
+    },
+    {
+        "customerID": "A267169",
+        "date": "2021-02-20",
+        "dateTime": "2021-02-20",
+        "creditAmount": 8.0,
+        "paymentID": "e72d836b-d6be-4f69-9d84-19c982dc8a8b",
+        "import": true,
+        "reason": "Adjustment"
+    },
+    {
+        "customerID": "A246821",
+        "date": "2021-02-22",
+        "dateTime": "2021-02-22",
+        "creditAmount": 6.11,
+        "paymentID": "85e7e3e1-584e-4178-a92f-36c9eaa83fd0",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A10287",
+        "date": "2021-02-27",
+        "dateTime": "2021-02-27",
+        "creditAmount": 2.17,
+        "paymentID": "ea8e760c-0cb0-4e9d-9c01-219e6edb3e74",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A287261",
+        "date": "2021-03-04",
+        "dateTime": "2021-03-04",
+        "creditAmount": 0.03,
+        "paymentID": "659c6ce0-31a8-453b-9c28-cb24f688f633",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A287271",
+        "date": "2021-03-05",
+        "dateTime": "2021-03-05",
+        "creditAmount": 1.6,
+        "paymentID": "699e0a83-6163-4c8d-833d-f3731e8f7433",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10064",
+        "date": "2021-03-05",
+        "dateTime": "2021-03-05",
+        "creditAmount": 20.0,
+        "paymentID": "94eec584-df4c-4d65-bd75-53082dac477d",
+        "import": true,
+        "reason": "Adjustment"
+    },
+    {
+        "customerID": "A166377",
+        "date": "2021-03-05",
+        "dateTime": "2021-03-05",
+        "creditAmount": 20.0,
+        "paymentID": "67c7dc4c-856b-4263-a166-2dddc08cc63a",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A287260",
+        "date": "2021-03-06",
+        "dateTime": "2021-03-06",
+        "creditAmount": 0.46,
+        "paymentID": "3ce0e194-7119-4d7a-9308-07bf5d367f6c",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A257025",
+        "date": "2021-03-09",
+        "dateTime": "2021-03-09",
+        "creditAmount": 0.61,
+        "paymentID": "1007a7da-512f-4e08-935a-765c8552ee96",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A21597",
+        "date": "2021-03-09",
+        "dateTime": "2021-03-09",
+        "creditAmount": 0.93,
+        "paymentID": "6df68d80-ada2-4b9a-8940-40c94999442d",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A297301",
+        "date": "2021-03-10",
+        "dateTime": "2021-03-10",
+        "creditAmount": 0.61,
+        "paymentID": "ff31d764-cb2a-4337-9593-3cb1c3f643e8",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10221",
+        "date": "2021-03-11",
+        "dateTime": "2021-03-11",
+        "creditAmount": 1.46,
+        "paymentID": "31e5b28d-2773-4927-b4a3-ff871dff528e",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A44741",
+        "date": "2021-03-18",
+        "dateTime": "2021-03-18",
+        "creditAmount": 0.85,
+        "paymentID": "bed965cf-ba98-450e-a009-d7947467e777",
+        "import": true,
+        "reason": "Adjustment"
+    },
+    {
+        "customerID": "A10580",
+        "date": "2021-03-25",
+        "dateTime": "2021-03-25",
+        "creditAmount": 0.98,
+        "paymentID": "fc58a54d-a696-44cb-ac6b-2ea38637e8a5",
+        "import": true,
+        "reason": "Lost Garment"
+    },
+    {
+        "customerID": "A34344",
+        "date": "2021-03-27",
+        "dateTime": "2021-03-27",
+        "creditAmount": 1.6,
+        "paymentID": "9a1086f2-c0f1-41e2-bbba-f084bfecf044",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10256",
+        "date": "2021-03-30",
+        "dateTime": "2021-03-30",
+        "creditAmount": 2.07,
+        "paymentID": "e3331b65-37b1-4876-b9bd-221ad52d22ad",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A21551",
+        "date": "2021-04-03",
+        "dateTime": "2021-04-03",
+        "creditAmount": 25.11,
+        "paymentID": "023c6196-3d12-4dc9-952d-b8ea1c251cc8",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A55182",
+        "date": "2021-04-05",
+        "dateTime": "2021-04-05",
+        "creditAmount": 2.61,
+        "paymentID": "7ba0dc19-54c9-4cb2-9128-1dbbbe5c7d7b",
+        "import": true,
+        "reason": "Lost Garment"
+    },
+    {
+        "customerID": "A32652",
+        "date": "2021-04-09",
+        "dateTime": "2021-04-09",
+        "creditAmount": 1.6,
+        "paymentID": "5e559627-e5ce-422e-9a44-ca825bb03376",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A156271",
+        "date": "2021-04-10",
+        "dateTime": "2021-04-10",
+        "creditAmount": 2.96,
+        "paymentID": "f86f32b3-86c4-452b-9f85-bd2bbca78865",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10284",
+        "date": "2021-04-12",
+        "dateTime": "2021-04-12",
+        "creditAmount": 3.35,
+        "paymentID": "1efd7d3a-769f-462d-a9da-3b577a2b7bdf",
+        "import": true,
+        "reason": "Lost Garment"
+    },
+    {
+        "customerID": "A54919",
+        "date": "2021-04-12",
+        "dateTime": "2021-04-12",
+        "creditAmount": 0.61,
+        "paymentID": "5f557c9d-0892-4342-ad4d-708b3402fcd1",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A297387",
+        "date": "2021-04-12",
+        "dateTime": "2021-04-12",
+        "creditAmount": 0.93,
+        "paymentID": "7d15a3b9-dee9-4eff-9736-2710362c2759",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A156267",
+        "date": "2021-04-17",
+        "dateTime": "2021-04-17",
+        "creditAmount": 0.93,
+        "paymentID": "c144520e-1482-4b22-b03a-0f49bf565593",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10395",
+        "date": "2021-04-17",
+        "dateTime": "2021-04-17",
+        "creditAmount": 2.96,
+        "paymentID": "5d7dfcc6-8b2f-4a99-9e7f-d8b8ce0e50ab",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A257087",
+        "date": "2021-04-19",
+        "dateTime": "2021-04-19",
+        "creditAmount": 0.93,
+        "paymentID": "cfed2940-2522-4ac8-b19b-b928ad47e339",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A44758",
+        "date": "2021-04-19",
+        "dateTime": "2021-04-19",
+        "creditAmount": 12.0,
+        "paymentID": "8c591ffd-6071-4cea-a126-d7515aaecc68",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A10110",
+        "date": "2021-04-20",
+        "dateTime": "2021-04-20",
+        "creditAmount": 0.83,
+        "paymentID": "aa897788-a8e7-4880-8a02-78cea20ebfd7",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A22163",
+        "date": "2021-04-22",
+        "dateTime": "2021-04-22",
+        "creditAmount": 1.79,
+        "paymentID": "859335e2-ce2d-4669-b581-a4f295dea1a8",
+        "import": true,
+        "reason": "Not Processed"
+    },
+    {
+        "customerID": "A22163",
+        "date": "2021-04-22",
+        "dateTime": "2021-04-22",
+        "creditAmount": 2.04,
+        "paymentID": "03cab410-b4e3-4ee0-8471-002885edaec0",
+        "import": true,
+        "reason": "Not Processed"
+    },
+    {
+        "customerID": "A307537",
+        "date": "2021-04-24",
+        "dateTime": "2021-04-24",
+        "creditAmount": 0.61,
+        "paymentID": "da22fa5c-4272-4c96-9338-24fcac27e6be",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A257076",
+        "date": "2021-05-01",
+        "dateTime": "2021-05-01",
+        "creditAmount": 3.99,
+        "paymentID": "8ef90203-6acb-4231-b6ec-e261467eb9d7",
+        "import": true,
+        "reason": "Not Processed"
+    },
+    {
+        "customerID": "A156259",
+        "date": "2021-05-01",
+        "dateTime": "2021-05-01",
+        "creditAmount": 0.93,
+        "paymentID": "6d297175-10c2-485a-974e-5b414780797c",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10939",
+        "date": "2021-05-06",
+        "dateTime": "2021-05-06",
+        "creditAmount": 2.04,
+        "paymentID": "af4897b5-2ed3-4faa-a891-76e653d27b37",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10287",
+        "date": "2021-05-08",
+        "dateTime": "2021-05-08",
+        "creditAmount": 2.74,
+        "paymentID": "ca7679d8-ff2c-4228-9f94-92734d536352",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A34196",
+        "date": "2021-05-08",
+        "dateTime": "2021-05-08",
+        "creditAmount": 20.0,
+        "paymentID": "bcbd6eab-ba47-43e7-a91f-9725eea58e2c",
+        "import": true,
+        "reason": "Adjustment"
+    },
+    {
+        "customerID": "A21602",
+        "date": "2021-05-12",
+        "dateTime": "2021-05-12",
+        "creditAmount": 5.0,
+        "paymentID": "44575547-538d-4c4b-bc1f-afbf3586ea96",
+        "import": true,
+        "reason": "Not Processed"
+    },
+    {
+        "customerID": "A307666",
+        "date": "2021-05-14",
+        "dateTime": "2021-05-14",
+        "creditAmount": 12.07,
+        "paymentID": "b0e47b67-ae77-4f69-b6d5-8489d082dc8d",
+        "import": true,
+        "reason": "Not Processed"
+    },
+    {
+        "customerID": "A33509",
+        "date": "2021-05-14",
+        "dateTime": "2021-05-14",
+        "creditAmount": 1.6,
+        "paymentID": "159f19c0-fa8d-4eea-b432-278f464e3e14",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A11054",
+        "date": "2021-05-15",
+        "dateTime": "2021-05-15",
+        "creditAmount": 2.99,
+        "paymentID": "12b386fb-22b9-4526-b2ce-ff33a5c673f1",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A10581",
+        "date": "2021-05-17",
+        "dateTime": "2021-05-17",
+        "creditAmount": 5.0,
+        "paymentID": "60a913dc-11f3-484b-9ad2-651b7a54d3dd",
+        "import": true,
+        "reason": "Adjustment"
+    },
+    {
+        "customerID": "A95960",
+        "date": "2021-05-17",
+        "dateTime": "2021-05-17",
+        "creditAmount": 15.63,
+        "paymentID": "601b3fb5-8e8a-4db8-8cea-c1203fcfc6e2",
+        "import": true,
+        "reason": "Lost Garment"
+    },
+    {
+        "customerID": "A246993",
+        "date": "2021-05-19",
+        "dateTime": "2021-05-19",
+        "creditAmount": 10.0,
+        "paymentID": "16194d06-bf25-4aaa-b918-4facd963bdea",
+        "import": true,
+        "reason": "Not Processed"
+    },
+    {
+        "customerID": "A317696",
+        "date": "2021-05-20",
+        "dateTime": "2021-05-20",
+        "creditAmount": 0.93,
+        "paymentID": "70bc6487-a1d1-4fd0-8319-36b5e4359ec4",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A257110",
+        "date": "2021-05-22",
+        "dateTime": "2021-05-22",
+        "creditAmount": 1.6,
+        "paymentID": "2dab37cc-5834-4d55-aee7-1637e65e66df",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A317699",
+        "date": "2021-05-22",
+        "dateTime": "2021-05-22",
+        "creditAmount": 1.6,
+        "paymentID": "d33c9517-7098-429f-8b4c-e3b974c48dd5",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A317709",
+        "date": "2021-05-24",
+        "dateTime": "2021-05-24",
+        "creditAmount": 6.38,
+        "paymentID": "0f88e448-8cc1-4263-8192-8e692a609a18",
+        "import": true,
+        "reason": "NOT READY ON TIME Adjustment"
+    },
+    {
+        "customerID": "A10990",
+        "date": "2021-05-24",
+        "dateTime": "2021-05-24",
+        "creditAmount": 0.93,
+        "paymentID": "176a0e43-da77-44ac-b6ab-954437d421a9",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A156308",
+        "date": "2021-05-25",
+        "dateTime": "2021-05-25",
+        "creditAmount": 1.6,
+        "paymentID": "30ca7f31-a938-41e0-898f-6f7e0dfd5587",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A54857",
+        "date": "2021-05-26",
+        "dateTime": "2021-05-26",
+        "creditAmount": 25.0,
+        "paymentID": "cebb4d9a-f8ef-4ac9-859c-6e82c8dcdc58",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A10939",
+        "date": "2021-05-27",
+        "dateTime": "2021-05-27",
+        "creditAmount": 2.83,
+        "paymentID": "7452250c-8ea8-4e90-a6a8-3e5501145249",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A327724",
+        "date": "2021-05-27",
+        "dateTime": "2021-05-27",
+        "creditAmount": 0.93,
+        "paymentID": "f50daf40-b458-4748-bbca-d45ac45e0118",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A327725",
+        "date": "2021-05-27",
+        "dateTime": "2021-05-27",
+        "creditAmount": 1.6,
+        "paymentID": "de6de633-b015-4dc8-ba1b-ccc264f0f717",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A95672",
+        "date": "2021-05-29",
+        "dateTime": "2021-05-29",
+        "creditAmount": 2.96,
+        "paymentID": "9a3f23c4-c546-4540-a1ad-895106e465ac",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A22140",
+        "date": "2021-05-29",
+        "dateTime": "2021-05-29",
+        "creditAmount": 1.6,
+        "paymentID": "9863656f-140c-4f77-902f-fc3145763b7c",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A166375",
+        "date": "2021-05-29",
+        "dateTime": "2021-05-29",
+        "creditAmount": 0.61,
+        "paymentID": "d5b12f9a-fe4d-443b-9673-b3080015fefd",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A85468",
+        "date": "2021-06-04",
+        "dateTime": "2021-06-04",
+        "creditAmount": 0.61,
+        "paymentID": "e13507a1-b5b3-4e91-8dcc-f982e51768bb",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A327805",
+        "date": "2021-06-05",
+        "dateTime": "2021-06-05",
+        "creditAmount": 0.71,
+        "paymentID": "2313a183-0cd9-4127-9bfc-958317a0201f",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A327812",
+        "date": "2021-06-05",
+        "dateTime": "2021-06-05",
+        "creditAmount": 0.93,
+        "paymentID": "49a49485-54af-48ce-a360-732cb6b93fdf",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10611",
+        "date": "2021-06-05",
+        "dateTime": "2021-06-05",
+        "creditAmount": 1.82,
+        "paymentID": "72a3f1dc-9792-41e3-9871-4b24e43bb992",
+        "import": true,
+        "reason": "COUNT WRONG PEACES.Adjustment"
+    },
+    {
+        "customerID": "A267176",
+        "date": "2021-06-07",
+        "dateTime": "2021-06-07",
+        "creditAmount": 36.74,
+        "paymentID": "e8edc4bf-cd8a-4f5e-ad84-4121edf09dcf",
+        "import": true,
+        "reason": "Adjustment"
+    },
+    {
+        "customerID": "A327835",
+        "date": "2021-06-07",
+        "dateTime": "2021-06-07",
+        "creditAmount": 2.74,
+        "paymentID": "4a8d7d24-0266-421e-93b0-6d24cde4b8f9",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A21674",
+        "date": "2021-06-09",
+        "dateTime": "2021-06-09",
+        "creditAmount": 0.93,
+        "paymentID": "07f529b3-11d2-43e6-a696-ef1826675d8c",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10737",
+        "date": "2021-06-09",
+        "dateTime": "2021-06-09",
+        "creditAmount": 0.93,
+        "paymentID": "a73ccde9-1a27-4512-a8bb-1688169f0c25",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A257097",
+        "date": "2021-06-11",
+        "dateTime": "2021-06-11",
+        "creditAmount": 29.96,
+        "paymentID": "92d2a107-40cf-4ead-a39c-5b0b8af8a941",
+        "import": true,
+        "reason": "Lost Garment"
+    },
+    {
+        "customerID": "A327862",
+        "date": "2021-06-12",
+        "dateTime": "2021-06-12",
+        "creditAmount": 0.93,
+        "paymentID": "67dda816-630d-4993-9814-883c045a1cc7",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A95953",
+        "date": "2021-06-12",
+        "dateTime": "2021-06-12",
+        "creditAmount": 2.96,
+        "paymentID": "8c22de23-5a39-4f0c-b2e3-8b9d23b9ae6e",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A95871",
+        "date": "2021-06-14",
+        "dateTime": "2021-06-14",
+        "creditAmount": 1.6,
+        "paymentID": "033c6291-9a4e-49cd-98bf-e60e413f19e4",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A21918",
+        "date": "2021-06-18",
+        "dateTime": "2021-06-18",
+        "creditAmount": 40.0,
+        "paymentID": "01f82896-7e77-49e0-941c-181cad9f2bd1",
+        "import": true,
+        "reason": "Adjustment"
+    },
+    {
+        "customerID": "A186528",
+        "date": "2021-06-18",
+        "dateTime": "2021-06-18",
+        "creditAmount": 1.17,
+        "paymentID": "5f1d832f-0ffa-4b12-88c0-0fb13e4d4858",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A32395",
+        "date": "2021-06-23",
+        "dateTime": "2021-06-23",
+        "creditAmount": 28.89,
+        "paymentID": "53128825-73da-4534-9289-f255f2e637c0",
+        "import": true,
+        "reason": "Adjustment"
+    },
+    {
+        "customerID": "A85458",
+        "date": "2021-06-23",
+        "dateTime": "2021-06-23",
+        "creditAmount": 26.96,
+        "paymentID": "b61a1d64-c585-45b4-9097-5995bf6f833d",
+        "import": true,
+        "reason": "Adjustment"
+    },
+    {
+        "customerID": "A33955",
+        "date": "2021-06-25",
+        "dateTime": "2021-06-25",
+        "creditAmount": 50.0,
+        "paymentID": "25274cc6-512e-4c14-9abe-653115aec4dd",
+        "import": true,
+        "reason": "Lost Garment"
+    },
+    {
+        "customerID": "A327974",
+        "date": "2021-06-25",
+        "dateTime": "2021-06-25",
+        "creditAmount": 1.6,
+        "paymentID": "3a6cfd0d-27de-4a1a-b795-370c0e76f49e",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A327841",
+        "date": "2021-06-26",
+        "dateTime": "2021-06-26",
+        "creditAmount": 1.6,
+        "paymentID": "e21c7f7f-def6-4190-8505-efa93e30945f",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A32523",
+        "date": "2021-07-02",
+        "dateTime": "2021-07-02",
+        "creditAmount": 40.0,
+        "paymentID": "f47b3c12-bc6e-47f3-99ec-986019203d38",
+        "import": true,
+        "reason": "Adjustment"
+    },
+    {
+        "customerID": "A33001",
+        "date": "2021-07-02",
+        "dateTime": "2021-07-02",
+        "creditAmount": 24.64,
+        "paymentID": "5af2a552-4dcc-4915-8667-2fae5546db6c",
+        "import": true,
+        "reason": "NOTB READYAdjustment"
+    },
+    {
+        "customerID": "A236667",
+        "date": "2021-07-06",
+        "dateTime": "2021-07-06",
+        "creditAmount": 2.04,
+        "paymentID": "0a5c8d1f-04c0-4285-9e23-f16548d06053",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A11172",
+        "date": "2021-07-06",
+        "dateTime": "2021-07-06",
+        "creditAmount": 2.04,
+        "paymentID": "da6b88b0-21a1-4ea4-9e74-b3b1330425e7",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A95783",
+        "date": "2021-07-06",
+        "dateTime": "2021-07-06",
+        "creditAmount": 1.02,
+        "paymentID": "c4056253-6f00-49b5-aa46-85461b441faa",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A236667",
+        "date": "2021-07-06",
+        "dateTime": "2021-07-06",
+        "creditAmount": 2.5,
+        "paymentID": "95c3eaff-d06e-4668-8d71-dd9af4d20420",
+        "import": true,
+        "reason": "Double Charged"
+    },
+    {
+        "customerID": "A136213",
+        "date": "2021-07-07",
+        "dateTime": "2021-07-07",
+        "creditAmount": 8.14,
+        "paymentID": "7a4525b7-c981-4323-8500-2d995e938fcd",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A267128",
+        "date": "2021-07-09",
+        "dateTime": "2021-07-09",
+        "creditAmount": 0.75,
+        "paymentID": "a03072f0-f615-44ac-a032-d764f8f6a153",
+        "import": true,
+        "reason": "Lost Garment"
+    },
+    {
+        "customerID": "A10189",
+        "date": "2021-07-15",
+        "dateTime": "2021-07-15",
+        "creditAmount": 0.89,
+        "paymentID": "78987cd0-de8f-478c-ba9d-cb9c75511eee",
+        "import": true,
+        "reason": "Adjustment"
+    },
+    {
+        "customerID": "A22161",
+        "date": "2021-07-16",
+        "dateTime": "2021-07-16",
+        "creditAmount": 10.68,
+        "paymentID": "483ad55e-ec25-459a-933b-2ab484e10759",
+        "import": true,
+        "reason": "Lost Garment"
+    },
+    {
+        "customerID": "A348107",
+        "date": "2021-07-17",
+        "dateTime": "2021-07-17",
+        "creditAmount": 3.19,
+        "paymentID": "f08cb9f5-f379-458b-9307-db457dcd6007",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A348083",
+        "date": "2021-07-22",
+        "dateTime": "2021-07-22",
+        "creditAmount": 18.34,
+        "paymentID": "e610adc3-b799-4fed-aee7-b585b44cd500",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A10057",
+        "date": "2021-07-24",
+        "dateTime": "2021-07-24",
+        "creditAmount": 14.47,
+        "paymentID": "e4c86cd1-cc12-4231-aa88-19a2c7195f77",
+        "import": true,
+        "reason": "Adjustment"
+    },
+    {
+        "customerID": "A33588",
+        "date": "2021-07-28",
+        "dateTime": "2021-07-28",
+        "creditAmount": 47.87,
+        "paymentID": "d3d0a646-6eea-4be7-8338-ca3223afdfc0",
+        "import": true,
+        "reason": "Adjustment"
+    },
+    {
+        "customerID": "A307650",
+        "date": "2021-07-28",
+        "dateTime": "2021-07-28",
+        "creditAmount": 49.17,
+        "paymentID": "dee34c1e-fe19-446d-81d8-6856aa4db78b",
+        "import": true,
+        "reason": "Lost Garment"
+    },
+    {
+        "customerID": "A236618",
+        "date": "2021-07-29",
+        "dateTime": "2021-07-29",
+        "creditAmount": 0.55,
+        "paymentID": "00eefeba-771d-4a7d-a62b-42b77cc1b896",
+        "import": true,
+        "reason": "Lost Garment"
+    },
+    {
+        "customerID": "A33190",
+        "date": "2021-07-29",
+        "dateTime": "2021-07-29",
+        "creditAmount": 1.36,
+        "paymentID": "6e8d01eb-f98a-4bf6-a219-80d61b162424",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A378199",
+        "date": "2021-08-09",
+        "dateTime": "2021-08-09",
+        "creditAmount": 0.64,
+        "paymentID": "ee38e98e-94c6-485d-b9d8-9a892a25f8ae",
+        "import": true,
+        "reason": "Lost Garment"
+    },
+    {
+        "customerID": "A378155",
+        "date": "2021-08-09",
+        "dateTime": "2021-08-09",
+        "creditAmount": 4.07,
+        "paymentID": "5a4aef7b-c01c-4131-8378-956170ce648f",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A176375",
+        "date": "2021-08-10",
+        "dateTime": "2021-08-10",
+        "creditAmount": 156.51,
+        "paymentID": "12831de8-874b-46e8-90eb-0a61c79b1a33",
+        "import": true,
+        "reason": "Adjustment"
+    },
+    {
+        "customerID": "A297318",
+        "date": "2021-08-11",
+        "dateTime": "2021-08-11",
+        "creditAmount": 15.94,
+        "paymentID": "c0d4a551-5dc2-4a1a-b360-d84eb5615a01",
+        "import": true,
+        "reason": "Lost Garment"
+    },
+    {
+        "customerID": "A32968",
+        "date": "2021-08-11",
+        "dateTime": "2021-08-11",
+        "creditAmount": 25.0,
+        "paymentID": "7818c5fa-bf2a-42e6-99bb-6195984d4e08",
+        "import": true,
+        "reason": "Lost Garment"
+    },
+    {
+        "customerID": "A21993",
+        "date": "2021-08-12",
+        "dateTime": "2021-08-12",
+        "creditAmount": 22.55,
+        "paymentID": "157ee7de-f3ea-470e-92b9-c7d384783d77",
+        "import": true,
+        "reason": "Lost Garment"
+    },
+    {
+        "customerID": "A95726",
+        "date": "2021-08-13",
+        "dateTime": "2021-08-13",
+        "creditAmount": 1.59,
+        "paymentID": "14626363-eda0-4f40-ab7c-b1b881c882ea",
+        "import": true,
+        "reason": "Lost Garment"
+    },
+    {
+        "customerID": "A95701",
+        "date": "2021-08-14",
+        "dateTime": "2021-08-14",
+        "creditAmount": 2.04,
+        "paymentID": "aac454d9-e6be-4d78-ad86-c5cdc7b9cb49",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A327973",
+        "date": "2021-08-14",
+        "dateTime": "2021-08-14",
+        "creditAmount": 1.29,
+        "paymentID": "17113668-d018-4bc7-9cd0-8872484373e1",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A10769",
+        "date": "2021-08-24",
+        "dateTime": "2021-08-24",
+        "creditAmount": 41.05,
+        "paymentID": "fc8fedee-8839-4402-927b-9bfaa2d774d6",
+        "import": true,
+        "reason": "Lost Garment"
+    },
+    {
+        "customerID": "A388384",
+        "date": "2021-09-16",
+        "dateTime": "2021-09-16",
+        "creditAmount": 2.26,
+        "paymentID": "88220be0-3ef7-4222-95a9-4ae9d5d2b540",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A33120",
+        "date": "2021-09-20",
+        "dateTime": "2021-09-20",
+        "creditAmount": 2.26,
+        "paymentID": "5589b6e7-29e7-40da-9425-a596338ae0a4",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A33743",
+        "date": "2021-09-22",
+        "dateTime": "2021-09-22",
+        "creditAmount": 1.47,
+        "paymentID": "6963435b-e383-4b5a-8c62-79423a5ee4ee",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10864",
+        "date": "2021-09-24",
+        "dateTime": "2021-09-24",
+        "creditAmount": 40.0,
+        "paymentID": "6d3a1f71-817c-4367-aacb-61b58f3eb47f",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A10642",
+        "date": "2021-09-25",
+        "dateTime": "2021-09-25",
+        "creditAmount": 1.6,
+        "paymentID": "322048d2-db13-4afb-928f-e9d0110b1885",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A55002",
+        "date": "2021-09-27",
+        "dateTime": "2021-09-27",
+        "creditAmount": 2.99,
+        "paymentID": "f422d26e-87dc-4571-a95a-79c4c5e7959d",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A22095",
+        "date": "2021-10-01",
+        "dateTime": "2021-10-01",
+        "creditAmount": 1.46,
+        "paymentID": "30a849e6-d802-4b37-8ee5-134ec910af7c",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10331",
+        "date": "2021-10-01",
+        "dateTime": "2021-10-01",
+        "creditAmount": 2.27,
+        "paymentID": "53bf0339-a20e-43f8-95ca-5c526dfe5fdc",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10122",
+        "date": "2021-10-01",
+        "dateTime": "2021-10-01",
+        "creditAmount": 2.27,
+        "paymentID": "059ba1ff-807e-4775-979b-39deea5b064c",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A21950",
+        "date": "2021-10-01",
+        "dateTime": "2021-10-01",
+        "creditAmount": 2.26,
+        "paymentID": "809e3b0e-cf2b-433f-805a-2c41e238ee94",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A11128",
+        "date": "2021-10-07",
+        "dateTime": "2021-10-07",
+        "creditAmount": 30.45,
+        "paymentID": "08e7afa5-5cab-494f-a9dd-e0d76ec065c0",
+        "import": true,
+        "reason": "Lost Garment"
+    },
+    {
+        "customerID": "A11182",
+        "date": "2021-10-07",
+        "dateTime": "2021-10-07",
+        "creditAmount": 25.0,
+        "paymentID": "3a64e26c-9592-471a-9da7-f2a33950058d",
+        "import": true,
+        "reason": "Lost Garment"
+    },
+    {
+        "customerID": "A32919",
+        "date": "2021-10-08",
+        "dateTime": "2021-10-08",
+        "creditAmount": 2.27,
+        "paymentID": "e2943441-68e1-424b-b909-815fc398cd3f",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10803",
+        "date": "2021-10-08",
+        "dateTime": "2021-10-08",
+        "creditAmount": 0.12,
+        "paymentID": "1f4e7d20-8700-40eb-bf2d-49198f352d78",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10172",
+        "date": "2021-10-09",
+        "dateTime": "2021-10-09",
+        "creditAmount": 54.08,
+        "paymentID": "172f7e51-8484-42e4-88e6-c64b9e920cfc",
+        "import": true,
+        "reason": "Lost Garment"
+    },
+    {
+        "customerID": "A408545",
+        "date": "2021-10-13",
+        "dateTime": "2021-10-13",
+        "creditAmount": 1.47,
+        "paymentID": "f711ff4e-a1e0-490f-a322-23935cabe3a9",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A408535",
+        "date": "2021-10-14",
+        "dateTime": "2021-10-14",
+        "creditAmount": 1.6,
+        "paymentID": "8296c220-1627-4aa3-878d-50e098cb59fb",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A21801",
+        "date": "2021-10-16",
+        "dateTime": "2021-10-16",
+        "creditAmount": 29.75,
+        "paymentID": "31fbb0e0-aeca-4091-bf13-8460a9a61e3b",
+        "import": true,
+        "reason": "Lost Garment"
+    },
+    {
+        "customerID": "A10242",
+        "date": "2021-10-20",
+        "dateTime": "2021-10-20",
+        "creditAmount": 0.48,
+        "paymentID": "3a0feed1-50c0-4811-b461-89e9a89cbff5",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A95867",
+        "date": "2021-10-21",
+        "dateTime": "2021-10-21",
+        "creditAmount": 5.41,
+        "paymentID": "e348e352-cce1-4abf-9b21-2938ec0cf37e",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A10726",
+        "date": "2021-10-30",
+        "dateTime": "2021-10-30",
+        "creditAmount": 0.61,
+        "paymentID": "d4be3091-9357-4ccc-869e-875570a075a6",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A10213",
+        "date": "2021-11-01",
+        "dateTime": "2021-11-01",
+        "creditAmount": 0.05,
+        "paymentID": "464e2035-5277-4c3d-87f6-71ceaab0a3ff",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10046",
+        "date": "2021-11-03",
+        "dateTime": "2021-11-03",
+        "creditAmount": 9.05,
+        "paymentID": "277e6118-4b68-434b-be98-3e08a89d5eb6",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A418676",
+        "date": "2021-11-04",
+        "dateTime": "2021-11-04",
+        "creditAmount": 0.46,
+        "paymentID": "7c14f640-703a-49a2-bf85-62ff09a7c4e1",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A277213",
+        "date": "2021-11-12",
+        "dateTime": "2021-11-12",
+        "creditAmount": 1.6,
+        "paymentID": "e348bc36-c833-4e41-ba73-094fc627b6e5",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A33949",
+        "date": "2021-11-12",
+        "dateTime": "2021-11-12",
+        "creditAmount": 2.74,
+        "paymentID": "6b7b11a1-63a8-43c7-8b4e-e7462aa2f74e",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A11161",
+        "date": "2021-11-18",
+        "dateTime": "2021-11-18",
+        "creditAmount": 1.01,
+        "paymentID": "f27c45ee-a671-446a-8b2d-2e8a5c4c0b06",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A10843",
+        "date": "2021-11-19",
+        "dateTime": "2021-11-19",
+        "creditAmount": 5.69,
+        "paymentID": "bdb7353d-7479-4b88-9f35-eeba33ec20c7",
+        "import": true,
+        "reason": "Double Charged"
+    },
+    {
+        "customerID": "A33970",
+        "date": "2021-11-24",
+        "dateTime": "2021-11-24",
+        "creditAmount": 2.06,
+        "paymentID": "ddc6b228-da87-45d3-be2c-e070fe550b86",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10123",
+        "date": "2021-11-29",
+        "dateTime": "2021-11-29",
+        "creditAmount": 3.1,
+        "paymentID": "f29607df-57f4-40e5-9054-c9520b526acc",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A428821",
+        "date": "2021-11-29",
+        "dateTime": "2021-11-29",
+        "creditAmount": 0.48,
+        "paymentID": "c390bfe6-581b-4bd5-82ff-58dfcdf734a9",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A378187",
+        "date": "2021-12-02",
+        "dateTime": "2021-12-02",
+        "creditAmount": 0.48,
+        "paymentID": "0af3af54-98be-4047-9208-9809949a4e02",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A257011",
+        "date": "2021-12-04",
+        "dateTime": "2021-12-04",
+        "creditAmount": 3.4,
+        "paymentID": "91e87125-f978-4f84-82de-d1c40402e901",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A54964",
+        "date": "2021-12-13",
+        "dateTime": "2021-12-13",
+        "creditAmount": 3.4,
+        "paymentID": "370bd960-b480-43d6-be70-141edc6e1f60",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10294",
+        "date": "2022-01-11",
+        "dateTime": "2022-01-11",
+        "creditAmount": 3.39,
+        "paymentID": "582852a2-e26f-4d92-927d-a4f146fc51aa",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A33420",
+        "date": "2022-01-12",
+        "dateTime": "2022-01-12",
+        "creditAmount": 2.55,
+        "paymentID": "5efb4a8e-224e-4b92-a630-d956d23c4d2a",
+        "import": true,
+        "reason": "HE LEFT HIS CHANGE TO PUT AS CREDIT FOR NEXT TIME "
+    },
+    {
+        "customerID": "A429041",
+        "date": "2022-01-13",
+        "dateTime": "2022-01-13",
+        "creditAmount": 5.57,
+        "paymentID": "b0d71ef1-036a-4b17-bdda-0fe6a1367af7",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A429085",
+        "date": "2022-01-22",
+        "dateTime": "2022-01-22",
+        "creditAmount": 3.4,
+        "paymentID": "a9931950-e869-4713-983f-80be5fb2bb3e",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A32877",
+        "date": "2022-01-24",
+        "dateTime": "2022-01-24",
+        "creditAmount": 2.74,
+        "paymentID": "eb4c8120-5766-4730-997e-0d85d8bbf6c6",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A428973",
+        "date": "2022-01-24",
+        "dateTime": "2022-01-24",
+        "creditAmount": 1.28,
+        "paymentID": "bcbdcb77-8fe8-4070-ab0a-2c2a0cab590c",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A32763",
+        "date": "2022-01-25",
+        "dateTime": "2022-01-25",
+        "creditAmount": 5.01,
+        "paymentID": "36fb5f62-40e3-4a40-b972-3c868f7958d2",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A398450",
+        "date": "2022-01-25",
+        "dateTime": "2022-01-25",
+        "creditAmount": 1.28,
+        "paymentID": "512df232-5b95-40c1-aa16-ab92d9943026",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A307539",
+        "date": "2022-01-26",
+        "dateTime": "2022-01-26",
+        "creditAmount": 1.28,
+        "paymentID": "31980060-6ae5-4bbf-8e13-dd953a1d0f35",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A33420",
+        "date": "2022-01-26",
+        "dateTime": "2022-01-26",
+        "creditAmount": 4.38,
+        "paymentID": "5d634576-c9d4-45da-8a0d-e2d34c76aaf2",
+        "import": true,
+        "reason": "LEFT CHANGE FROM LAST ODER \r\n"
+    },
+    {
+        "customerID": "A246923",
+        "date": "2022-01-28",
+        "dateTime": "2022-01-28",
+        "creditAmount": 0.48,
+        "paymentID": "11711b5d-264b-4c6d-997e-7c0055a87df8",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A33432",
+        "date": "2022-02-01",
+        "dateTime": "2022-02-01",
+        "creditAmount": 1.79,
+        "paymentID": "54641939-0bf6-4fef-abb5-2817a696e113",
+        "import": true,
+        "reason": "DAMAGED SHIRT \r\n"
+    },
+    {
+        "customerID": "A10135",
+        "date": "2022-02-03",
+        "dateTime": "2022-02-03",
+        "creditAmount": 1.61,
+        "paymentID": "e335af0d-7747-4ae5-94a8-173bfeabc8d1",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A21859",
+        "date": "2022-02-03",
+        "dateTime": "2022-02-03",
+        "creditAmount": 2.26,
+        "paymentID": "96b66649-a084-4611-ba78-cfa79d2bddf2",
+        "import": true,
+        "reason": "Not Processed"
+    },
+    {
+        "customerID": "A11353",
+        "date": "2022-02-03",
+        "dateTime": "2022-02-03",
+        "creditAmount": 6.88,
+        "paymentID": "5077761d-4b8c-4c84-a581-972421ca81d0",
+        "import": true,
+        "reason": "Lost Garment"
+    },
+    {
+        "customerID": "A156359",
+        "date": "2022-02-07",
+        "dateTime": "2022-02-07",
+        "creditAmount": 0.48,
+        "paymentID": "cdc9d094-cf3e-4da4-b8a4-7810af858c43",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A439160",
+        "date": "2022-02-08",
+        "dateTime": "2022-02-08",
+        "creditAmount": 0.46,
+        "paymentID": "81d9b047-1022-47ad-a21f-47552953d7fc",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A439152",
+        "date": "2022-02-08",
+        "dateTime": "2022-02-08",
+        "creditAmount": 4.54,
+        "paymentID": "d0d9bc94-9120-42fb-a61e-b716903774e1",
+        "import": true,
+        "reason": "NO LO HICIERON \r\n"
+    },
+    {
+        "customerID": "A10156",
+        "date": "2022-02-16",
+        "dateTime": "2022-02-16",
+        "creditAmount": 2.69,
+        "paymentID": "65701634-2fad-489a-ad28-22930d544cd6",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A34400",
+        "date": "2022-02-17",
+        "dateTime": "2022-02-17",
+        "creditAmount": 0.46,
+        "paymentID": "3afea206-69b3-4e08-bfdd-95f71f971351",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A34101",
+        "date": "2022-02-17",
+        "dateTime": "2022-02-17",
+        "creditAmount": 6.79,
+        "paymentID": "3c91bc39-07fd-4d60-a0b1-ddff864f2d62",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A408605",
+        "date": "2022-02-18",
+        "dateTime": "2022-02-18",
+        "creditAmount": 13.62,
+        "paymentID": "62d08578-5fba-42db-9b57-ac3b761c5aeb",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A10726",
+        "date": "2022-02-19",
+        "dateTime": "2022-02-19",
+        "creditAmount": 0.48,
+        "paymentID": "27694238-1570-431b-97d0-51b600918b8b",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10046",
+        "date": "2022-02-24",
+        "dateTime": "2022-02-24",
+        "creditAmount": 0.7,
+        "paymentID": "a7c62a54-2119-49ac-a7ef-0632d59942d2",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A33113",
+        "date": "2022-02-25",
+        "dateTime": "2022-02-25",
+        "creditAmount": 1.49,
+        "paymentID": "6ac29bbb-f8d4-4a87-9bf9-31fa05857b22",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A327729",
+        "date": "2022-02-25",
+        "dateTime": "2022-02-25",
+        "creditAmount": 2.85,
+        "paymentID": "b6789248-a8b9-418b-99ca-d818359f6521",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A378187",
+        "date": "2022-02-26",
+        "dateTime": "2022-02-26",
+        "creditAmount": 0.48,
+        "paymentID": "83f1b1f5-fc65-4c11-b06d-161adbd429e2",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A32480",
+        "date": "2022-02-28",
+        "dateTime": "2022-02-28",
+        "creditAmount": 0.48,
+        "paymentID": "3d15bf96-c0fd-4f39-9334-e28fff4846f4",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A459276",
+        "date": "2022-03-05",
+        "dateTime": "2022-03-05",
+        "creditAmount": 36.22,
+        "paymentID": "b80fc678-d836-42cd-8fd4-3afc8edecce7",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A156239",
+        "date": "2022-03-08",
+        "dateTime": "2022-03-08",
+        "creditAmount": 0.48,
+        "paymentID": "dc987bf4-1194-48cf-b5f5-c60d8e758354",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A378178",
+        "date": "2022-03-18",
+        "dateTime": "2022-03-18",
+        "creditAmount": 0.48,
+        "paymentID": "1e7d2497-ea00-4525-8392-12db51f813ab",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A236723",
+        "date": "2022-03-18",
+        "dateTime": "2022-03-18",
+        "creditAmount": 1.99,
+        "paymentID": "12c92cbc-4ae5-4555-a42e-3dc349624d2f",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A32763",
+        "date": "2022-03-19",
+        "dateTime": "2022-03-19",
+        "creditAmount": 5.67,
+        "paymentID": "36f4ea08-510d-488e-8b63-bdf9490dff41",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A246868",
+        "date": "2022-03-22",
+        "dateTime": "2022-03-22",
+        "creditAmount": 22.0,
+        "paymentID": "58a7df7f-af60-465c-a437-b7b512b3d102",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A459343",
+        "date": "2022-03-23",
+        "dateTime": "2022-03-23",
+        "creditAmount": 0.46,
+        "paymentID": "6825efe4-f24d-4550-91a3-d2870a43a770",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A11216",
+        "date": "2022-03-24",
+        "dateTime": "2022-03-24",
+        "creditAmount": 1.76,
+        "paymentID": "b032b14f-4c60-444c-a0ec-ca6c43af56d6",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A236723",
+        "date": "2022-03-24",
+        "dateTime": "2022-03-24",
+        "creditAmount": 23.77,
+        "paymentID": "478955e7-978f-43e1-9eff-b5e132cffb40",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A257088",
+        "date": "2022-03-25",
+        "dateTime": "2022-03-25",
+        "creditAmount": 1.6,
+        "paymentID": "d34c9a81-3d78-4308-8929-9d91ee4f7ac5",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A418763",
+        "date": "2022-03-25",
+        "dateTime": "2022-03-25",
+        "creditAmount": 0.46,
+        "paymentID": "93e094d8-030b-4843-be8f-097a3a71cfb4",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A11182",
+        "date": "2022-03-25",
+        "dateTime": "2022-03-25",
+        "creditAmount": 36.5,
+        "paymentID": "59dfba26-de98-4107-9f7a-b2139d97f346",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A297385",
+        "date": "2022-03-25",
+        "dateTime": "2022-03-25",
+        "creditAmount": 2.28,
+        "paymentID": "3250ce05-ec9f-4896-8217-5395b8a05cde",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A287247",
+        "date": "2022-03-29",
+        "dateTime": "2022-03-29",
+        "creditAmount": 0.48,
+        "paymentID": "79d3f9cf-a621-4a31-9e08-e6b355d0b6b5",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A34575",
+        "date": "2022-04-01",
+        "dateTime": "2022-04-01",
+        "creditAmount": 11.3,
+        "paymentID": "a33292f8-d7d1-405f-9892-cfc2e9fc590c",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A32267",
+        "date": "2022-04-02",
+        "dateTime": "2022-04-02",
+        "creditAmount": 5.43,
+        "paymentID": "f6968cc8-7623-4d6f-b85e-f6634c4f7992",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A428807",
+        "date": "2022-04-13",
+        "dateTime": "2022-04-13",
+        "creditAmount": 0.48,
+        "paymentID": "45d68a9d-aadf-40d4-a726-24a0ec5f855a",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A236788",
+        "date": "2022-04-14",
+        "dateTime": "2022-04-14",
+        "creditAmount": 0.57,
+        "paymentID": "613931af-bf09-45d1-813c-dbb3294f1f95",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A21783",
+        "date": "2022-04-16",
+        "dateTime": "2022-04-16",
+        "creditAmount": 15.84,
+        "paymentID": "028a5da4-dd7f-4411-830c-1f7ab5df4e28",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A418665",
+        "date": "2022-04-16",
+        "dateTime": "2022-04-16",
+        "creditAmount": 0.48,
+        "paymentID": "cee18f2e-28a0-4dc9-8b97-8ba8cbd56743",
+        "import": true,
+        "reason": "Over Charge"
+    },
+    {
+        "customerID": "A32707",
+        "date": "2022-04-16",
+        "dateTime": "2022-04-16",
+        "creditAmount": 0.46,
+        "paymentID": "4ad82972-930a-4218-a0a8-1f6ce205d781",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A21554",
+        "date": "2022-04-21",
+        "dateTime": "2022-04-21",
+        "creditAmount": 0.48,
+        "paymentID": "5a78b31c-a6f3-47d4-9946-c0134412063b",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A459552",
+        "date": "2022-04-26",
+        "dateTime": "2022-04-26",
+        "creditAmount": 306.03,
+        "paymentID": "8d42a271-4313-4630-ba89-93eb050b6046",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A439180",
+        "date": "2022-04-28",
+        "dateTime": "2022-04-28",
+        "creditAmount": 0.48,
+        "paymentID": "4fc59525-0bc2-4766-a51f-0c62beb7aaff",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A21623",
+        "date": "2022-05-07",
+        "dateTime": "2022-05-07",
+        "creditAmount": 1.29,
+        "paymentID": "855fe71d-e1c7-4ee3-8395-3024ceedd06b",
+        "import": true,
+        "reason": "Not Processed"
+    },
+    {
+        "customerID": "A21674",
+        "date": "2022-05-09",
+        "dateTime": "2022-05-09",
+        "creditAmount": 0.48,
+        "paymentID": "b39a263c-d5b3-4d83-b598-f7b704a51fe8",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10558",
+        "date": "2022-05-11",
+        "dateTime": "2022-05-11",
+        "creditAmount": 0.48,
+        "paymentID": "6ccc78f9-a7b3-4dea-adfc-639eb37743c7",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A33606",
+        "date": "2022-05-13",
+        "dateTime": "2022-05-13",
+        "creditAmount": 2.74,
+        "paymentID": "d5f5a173-9214-4800-870f-c16e55f5233f",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A22214",
+        "date": "2022-05-14",
+        "dateTime": "2022-05-14",
+        "creditAmount": 1.6,
+        "paymentID": "9080eef2-eb9b-46a2-987f-234162640772",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A459613",
+        "date": "2022-05-14",
+        "dateTime": "2022-05-14",
+        "creditAmount": 0.48,
+        "paymentID": "184d54ab-062f-4f4f-ac60-d9aa871908d5",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A22254",
+        "date": "2022-05-18",
+        "dateTime": "2022-05-18",
+        "creditAmount": 0.48,
+        "paymentID": "037f199e-e1b0-47c3-af3d-b8ef41eb32ca",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A32246",
+        "date": "2022-05-20",
+        "dateTime": "2022-05-20",
+        "creditAmount": 0.46,
+        "paymentID": "2ff13e25-7f43-4b3d-8312-8ef995d96fd8",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A21554",
+        "date": "2022-05-26",
+        "dateTime": "2022-05-26",
+        "creditAmount": 0.48,
+        "paymentID": "08376529-9fe2-4c8e-b025-7e4368f7f024",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A328006",
+        "date": "2022-06-02",
+        "dateTime": "2022-06-02",
+        "creditAmount": 0.48,
+        "paymentID": "01fe0a21-4c2a-4b3f-9295-91aa31c93b42",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A246808",
+        "date": "2022-06-03",
+        "dateTime": "2022-06-03",
+        "creditAmount": 0.16,
+        "paymentID": "214d27c0-ff1a-4d6d-8cd9-5be7ce1dbaf4",
+        "import": true,
+        "reason": "Double Charged"
+    },
+    {
+        "customerID": "A469743",
+        "date": "2022-06-03",
+        "dateTime": "2022-06-03",
+        "creditAmount": 0.48,
+        "paymentID": "84fb18b9-c82e-4fa5-ab4e-7559aed70927",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A246923",
+        "date": "2022-06-24",
+        "dateTime": "2022-06-24",
+        "creditAmount": 1.61,
+        "paymentID": "074b62a7-206f-496d-a0f8-9afd8dd2111e",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A459450",
+        "date": "2022-06-28",
+        "dateTime": "2022-06-28",
+        "creditAmount": 3.92,
+        "paymentID": "e2d21cd3-addf-462e-9ca1-0d6d05e54b15",
+        "import": true,
+        "reason": "Benefit Credit"
+    },
+    {
+        "customerID": "A116181",
+        "date": "2022-06-29",
+        "dateTime": "2022-06-29",
+        "creditAmount": 2.96,
+        "paymentID": "3e7587c5-672d-4db0-86c8-fe0c92dcb9ba",
+        "import": true,
+        "reason": "Adjustment"
+    },
+    {
+        "customerID": "A459483",
+        "date": "2022-06-30",
+        "dateTime": "2022-06-30",
+        "creditAmount": 2.74,
+        "paymentID": "21eb6ebb-0d9e-4534-b7ef-f76e296f8f32",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10947",
+        "date": "2022-07-01",
+        "dateTime": "2022-07-01",
+        "creditAmount": 4.52,
+        "paymentID": "0c2d1d36-4e9d-4e0b-855a-f977daa3f254",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A479841",
+        "date": "2022-07-02",
+        "dateTime": "2022-07-02",
+        "creditAmount": 1.61,
+        "paymentID": "498eb4b1-00fd-4322-9daf-b58e06944047",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A21554",
+        "date": "2022-07-09",
+        "dateTime": "2022-07-09",
+        "creditAmount": 0.48,
+        "paymentID": "a5178cb4-67da-4d23-a5ed-ec91d19bbf0d",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A428940",
+        "date": "2022-07-18",
+        "dateTime": "2022-07-18",
+        "creditAmount": 11.39,
+        "paymentID": "450a666c-92cc-4c9e-b930-e70c2ea663ac",
+        "import": true,
+        "reason": "DAMAGE SKIRT"
+    },
+    {
+        "customerID": "A469772",
+        "date": "2022-07-20",
+        "dateTime": "2022-07-20",
+        "creditAmount": 2.26,
+        "paymentID": "3c8e153c-177a-4eb2-909d-e17258cca1e9",
+        "import": true,
+        "reason": "Not Processed"
+    },
+    {
+        "customerID": "A54834",
+        "date": "2022-07-21",
+        "dateTime": "2022-07-21",
+        "creditAmount": 1.05,
+        "paymentID": "3ae33803-4b3e-44ca-83bf-618c61652e72",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A499893",
+        "date": "2022-07-25",
+        "dateTime": "2022-07-25",
+        "creditAmount": 0.48,
+        "paymentID": "5c71ea74-3fad-4f76-8c3f-35f05c71f4ff",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A499906",
+        "date": "2022-07-26",
+        "dateTime": "2022-07-26",
+        "creditAmount": 0.19,
+        "paymentID": "bed9c9c1-704c-4b23-a71b-f9cd4046a0f0",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A479849",
+        "date": "2022-07-27",
+        "dateTime": "2022-07-27",
+        "creditAmount": 2.74,
+        "paymentID": "3203957b-698d-4f22-9255-2f5a83f47588",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A459460",
+        "date": "2022-08-05",
+        "dateTime": "2022-08-05",
+        "creditAmount": 2.74,
+        "paymentID": "90598155-ecc1-4d6b-8667-dffb14f3e787",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A418789",
+        "date": "2022-08-11",
+        "dateTime": "2022-08-11",
+        "creditAmount": 0.48,
+        "paymentID": "1834b712-626e-452a-9550-9d65ba82946d",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A54919",
+        "date": "2022-08-15",
+        "dateTime": "2022-08-15",
+        "creditAmount": 2.74,
+        "paymentID": "2a59aa41-69f8-4b45-8bfc-27cbcf95e821",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A428996",
+        "date": "2022-08-16",
+        "dateTime": "2022-08-16",
+        "creditAmount": 2.74,
+        "paymentID": "d474f1f2-a66c-4296-8526-9d9a3056a694",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10385",
+        "date": "2022-08-20",
+        "dateTime": "2022-08-20",
+        "creditAmount": 3.18,
+        "paymentID": "20f00582-4de3-4349-80c8-a166c3a911c5",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A246850",
+        "date": "2022-08-25",
+        "dateTime": "2022-08-25",
+        "creditAmount": 1.75,
+        "paymentID": "c3cf99e5-fa07-40c6-932d-1f39a1a665d8",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A95854",
+        "date": "2022-08-26",
+        "dateTime": "2022-08-26",
+        "creditAmount": 3.99,
+        "paymentID": "d229ede3-5c57-49b4-9a61-792e26307c13",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A257054",
+        "date": "2022-09-01",
+        "dateTime": "2022-09-01",
+        "creditAmount": 0.46,
+        "paymentID": "2a1b9758-99fa-46cf-b4b5-60f4ae44739d",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A33590",
+        "date": "2022-09-09",
+        "dateTime": "2022-09-09",
+        "creditAmount": 2.99,
+        "paymentID": "70e5d08f-72ff-4583-911f-871145c70c15",
+        "import": true,
+        "reason": "Adjustment"
+    },
+    {
+        "customerID": "A378162",
+        "date": "2022-09-12",
+        "dateTime": "2022-09-12",
+        "creditAmount": 25.0,
+        "paymentID": "31e5b667-7435-4bbe-9d7f-4c8f7fe14fb5",
+        "import": true,
+        "reason": "Lost Garment"
+    },
+    {
+        "customerID": "A428985",
+        "date": "2022-09-15",
+        "dateTime": "2022-09-15",
+        "creditAmount": 0.48,
+        "paymentID": "5f41aadc-7f39-4a2a-be4d-78851dab4cce",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A428905",
+        "date": "2022-09-16",
+        "dateTime": "2022-09-16",
+        "creditAmount": 0.48,
+        "paymentID": "f2735327-7f26-491d-9bc9-ff747770694e",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A33087",
+        "date": "2022-09-16",
+        "dateTime": "2022-09-16",
+        "creditAmount": 2.74,
+        "paymentID": "fd443ca0-baa0-4791-b810-caaa0f891a8c",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A33878",
+        "date": "2022-09-19",
+        "dateTime": "2022-09-19",
+        "creditAmount": 3.99,
+        "paymentID": "ddbaa503-856c-48fd-a2fe-8aaa606e2ddd",
+        "import": true,
+        "reason": "DAMAGE GARMENT"
+    },
+    {
+        "customerID": "A439160",
+        "date": "2022-09-20",
+        "dateTime": "2022-09-20",
+        "creditAmount": 0.68,
+        "paymentID": "119fcf74-7575-454f-b9d3-289c312fd57a",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A520095",
+        "date": "2022-09-21",
+        "dateTime": "2022-09-21",
+        "creditAmount": 0.48,
+        "paymentID": "7f40f5d4-1dfc-442b-86d0-50ff9745cbc2",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A327863",
+        "date": "2022-09-22",
+        "dateTime": "2022-09-22",
+        "creditAmount": 0.69,
+        "paymentID": "b6d7c720-e861-4da2-b6ce-35dff377b372",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A33162",
+        "date": "2022-09-24",
+        "dateTime": "2022-09-24",
+        "creditAmount": 0.46,
+        "paymentID": "86adc9ae-0fea-4166-ba62-234b458e303f",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A499900",
+        "date": "2022-09-24",
+        "dateTime": "2022-09-24",
+        "creditAmount": 0.48,
+        "paymentID": "9286cfd8-e340-47d2-8485-511f02297f16",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A32403",
+        "date": "2022-10-03",
+        "dateTime": "2022-10-03",
+        "creditAmount": 0.48,
+        "paymentID": "c5f26d29-3a61-4100-8973-8e9be0f124a6",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A398420",
+        "date": "2022-10-03",
+        "dateTime": "2022-10-03",
+        "creditAmount": 0.48,
+        "paymentID": "7f1f285b-e671-40a6-ab03-cbc7dd8c2de5",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A459576",
+        "date": "2022-10-03",
+        "dateTime": "2022-10-03",
+        "creditAmount": 0.46,
+        "paymentID": "9a49ba44-083b-49fd-ad85-afa35f927cb0",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A32222",
+        "date": "2022-10-04",
+        "dateTime": "2022-10-04",
+        "creditAmount": 0.46,
+        "paymentID": "270c6d41-c5f3-425d-a654-9e70ec377899",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A65277",
+        "date": "2022-10-06",
+        "dateTime": "2022-10-06",
+        "creditAmount": 0.46,
+        "paymentID": "4fc42e83-779b-498c-be26-c9a8401881af",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A428844",
+        "date": "2022-10-06",
+        "dateTime": "2022-10-06",
+        "creditAmount": 2.17,
+        "paymentID": "fc65f846-7fbf-4a45-8491-358c32498845",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A520159",
+        "date": "2022-10-07",
+        "dateTime": "2022-10-07",
+        "creditAmount": 0.48,
+        "paymentID": "99f89678-3c03-413a-b701-97675ee19fa0",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10084",
+        "date": "2022-10-07",
+        "dateTime": "2022-10-07",
+        "creditAmount": 0.48,
+        "paymentID": "88447ba7-b932-43d9-b795-38b384aeb7c1",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A479849",
+        "date": "2022-10-10",
+        "dateTime": "2022-10-10",
+        "creditAmount": 0.48,
+        "paymentID": "c28f7a68-36b7-4f7b-a9a7-032c2b51dcb2",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A327993",
+        "date": "2022-10-13",
+        "dateTime": "2022-10-13",
+        "creditAmount": 0.48,
+        "paymentID": "dc43dc4c-c2f7-4e16-9d67-58d5e67b65cc",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A418697",
+        "date": "2022-10-13",
+        "dateTime": "2022-10-13",
+        "creditAmount": 0.46,
+        "paymentID": "f0704a1c-69ed-4fbc-aaff-b5cd92f89df6",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A11097",
+        "date": "2022-10-15",
+        "dateTime": "2022-10-15",
+        "creditAmount": 2.74,
+        "paymentID": "6bdc8783-bf44-4dc2-b6d7-e222bb6e8414",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A520013",
+        "date": "2022-10-17",
+        "dateTime": "2022-10-17",
+        "creditAmount": 0.48,
+        "paymentID": "8acf6914-079e-496e-b119-e2f002e6afa5",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A146230",
+        "date": "2022-10-20",
+        "dateTime": "2022-10-20",
+        "creditAmount": 0.46,
+        "paymentID": "580841e6-de7f-4b9e-86ba-877543e10603",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A530253",
+        "date": "2022-10-27",
+        "dateTime": "2022-10-27",
+        "creditAmount": 0.46,
+        "paymentID": "aed1ca46-1bab-4fe7-8cd2-897382da1c9e",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A530260",
+        "date": "2022-10-28",
+        "dateTime": "2022-10-28",
+        "creditAmount": 0.48,
+        "paymentID": "b39424d2-f653-4fda-9c2d-8c63c1cc2333",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A246897",
+        "date": "2022-10-28",
+        "dateTime": "2022-10-28",
+        "creditAmount": 1.6,
+        "paymentID": "aa378d42-ce5b-4977-aaed-4add18ddfa25",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A11456",
+        "date": "2022-11-02",
+        "dateTime": "2022-11-02",
+        "creditAmount": 20.0,
+        "paymentID": "44020fc6-65ed-4548-94fc-57d32c7fb1c3",
+        "import": true,
+        "reason": "Double Charged"
+    },
+    {
+        "customerID": "A10726",
+        "date": "2022-11-02",
+        "dateTime": "2022-11-02",
+        "creditAmount": 0.48,
+        "paymentID": "444e1191-a6c2-4e7b-af29-defa6f455531",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10673",
+        "date": "2022-11-07",
+        "dateTime": "2022-11-07",
+        "creditAmount": 1.6,
+        "paymentID": "f85e5ec1-d7e5-4c0b-9f84-0a6d49247258",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A530322",
+        "date": "2022-11-08",
+        "dateTime": "2022-11-08",
+        "creditAmount": 0.48,
+        "paymentID": "0bf24d74-4c1c-43a9-9b56-9f7bf5b34a7b",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A21974",
+        "date": "2022-11-08",
+        "dateTime": "2022-11-08",
+        "creditAmount": 0.48,
+        "paymentID": "0149a120-c633-477b-af8a-65b1408cd989",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A54919",
+        "date": "2022-11-11",
+        "dateTime": "2022-11-11",
+        "creditAmount": 0.48,
+        "paymentID": "bb34e2e1-7199-43a0-bbd6-9cbf6db87318",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A96027",
+        "date": "2022-11-12",
+        "dateTime": "2022-11-12",
+        "creditAmount": 0.48,
+        "paymentID": "494af9cf-3382-41e7-972e-6102b7153f7b",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A33911",
+        "date": "2022-11-14",
+        "dateTime": "2022-11-14",
+        "creditAmount": 0.46,
+        "paymentID": "3a5baa3c-86e0-48ed-b49d-ca68e851edad",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A439126",
+        "date": "2022-11-15",
+        "dateTime": "2022-11-15",
+        "creditAmount": 0.46,
+        "paymentID": "6b978b58-291c-4906-83b6-5207537a327a",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A469724",
+        "date": "2022-11-23",
+        "dateTime": "2022-11-23",
+        "creditAmount": 2.74,
+        "paymentID": "a3c02ed5-aca3-444a-bc4c-e6d85c9f02a5",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A520100",
+        "date": "2022-12-05",
+        "dateTime": "2022-12-05",
+        "creditAmount": 23.82,
+        "paymentID": "b07193bb-41bd-417d-9ad8-3b498e39c9a5",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A520013",
+        "date": "2022-12-08",
+        "dateTime": "2022-12-08",
+        "creditAmount": 0.48,
+        "paymentID": "d372e1da-3c10-4870-82a7-c50ccf348c5a",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A236622",
+        "date": "2022-12-09",
+        "dateTime": "2022-12-09",
+        "creditAmount": 1.6,
+        "paymentID": "bc466488-2608-42cd-a6d8-b473f267b227",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A540464",
+        "date": "2022-12-09",
+        "dateTime": "2022-12-09",
+        "creditAmount": 0.46,
+        "paymentID": "c753ad8c-3175-4216-972f-3716049f7f00",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A327928",
+        "date": "2022-12-10",
+        "dateTime": "2022-12-10",
+        "creditAmount": 2.74,
+        "paymentID": "bae9201b-b8aa-448a-ae54-8f0304d39cfb",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A388259",
+        "date": "2022-12-10",
+        "dateTime": "2022-12-10",
+        "creditAmount": 0.46,
+        "paymentID": "741730fa-134b-47b0-919f-94a364a89eb6",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A398479",
+        "date": "2022-12-10",
+        "dateTime": "2022-12-10",
+        "creditAmount": 0.48,
+        "paymentID": "c1bbd750-6737-4f61-af47-b2daf2581149",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A327761",
+        "date": "2022-12-12",
+        "dateTime": "2022-12-12",
+        "creditAmount": 9.41,
+        "paymentID": "d3968349-1895-45f9-affe-fa6e8929b885",
+        "import": true,
+        "reason": "Lost Garment"
+    },
+    {
+        "customerID": "A22169",
+        "date": "2022-12-14",
+        "dateTime": "2022-12-14",
+        "creditAmount": 1.99,
+        "paymentID": "2d951cb3-cb51-45bd-9986-0af66fb1cfa7",
+        "import": true,
+        "reason": ""
+    },
+    {
+        "customerID": "A348122",
+        "date": "2022-12-20",
+        "dateTime": "2022-12-20",
+        "creditAmount": 0.46,
+        "paymentID": "73e740cf-8ad7-4051-9bcf-5af6451c9614",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A236796",
+        "date": "2022-12-20",
+        "dateTime": "2022-12-20",
+        "creditAmount": 0.48,
+        "paymentID": "1c12bb24-dafc-4bac-92a4-8a7a791b5800",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A540524",
+        "date": "2022-12-21",
+        "dateTime": "2022-12-21",
+        "creditAmount": 0.48,
+        "paymentID": "f6713e26-ea66-454b-baa7-8daf797741ea",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A236622",
+        "date": "2022-12-22",
+        "dateTime": "2022-12-22",
+        "creditAmount": 1.6,
+        "paymentID": "baba3c94-5ef7-4ff8-824e-676d2d66367c",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A499935",
+        "date": "2022-12-30",
+        "dateTime": "2022-12-30",
+        "creditAmount": 0.46,
+        "paymentID": "63695e94-ba5f-4152-940e-7c169ea15c67",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A236622",
+        "date": "2022-12-30",
+        "dateTime": "2022-12-30",
+        "creditAmount": 1.6,
+        "paymentID": "2832230e-8ad8-4702-ac56-7f785ccaf574",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A540608",
+        "date": "2023-01-03",
+        "dateTime": "2023-01-03",
+        "creditAmount": 0.48,
+        "paymentID": "9b45d1a4-e2b1-47c4-9981-1885768061b7",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A540617",
+        "date": "2023-01-04",
+        "dateTime": "2023-01-04",
+        "creditAmount": 0.48,
+        "paymentID": "b18f0389-6022-423e-b6e2-31d826c3a2fc",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A10247",
+        "date": "2023-01-06",
+        "dateTime": "2023-01-06",
+        "creditAmount": 1.6,
+        "paymentID": "e132c34c-d1cd-4545-bb5e-b06c8c90d637",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A540634",
+        "date": "2023-01-06",
+        "dateTime": "2023-01-06",
+        "creditAmount": 0.48,
+        "paymentID": "6b782643-9098-4f2c-b472-2dd1be946f36",
+        "import": true,
+        "reason": "Over Pay"
+    },
+    {
+        "customerID": "A21605",
+        "date": "2023-01-19",
+        "dateTime": "2023-01-19",
+        "creditAmount": 1.99,
+        "paymentID": "802226f3-dc1b-47c7-af0f-e9e0ee6ea27d",
+        "import": true,
+        "reason": "Not Processed"
+    },
+    {
+        "customerID": "A21783",
+        "date": "2023-01-24",
+        "dateTime": "2023-01-24",
+        "creditAmount": 22.66,
+        "paymentID": "ece8df00-af8a-4e9c-ad81-b02064d687e3",
+        "import": true,
+        "reason": "Payment Delete"
+    },
+    {
+        "customerID": "A428979",
+        "date": "2023-01-25",
+        "dateTime": "2023-01-25",
+        "creditAmount": 6.42,
+        "paymentID": "12a8e39d-7f57-4ae0-8ac9-9cff12852c7e",
+        "import": true,
+        "reason": "Benefit Credit"
+    }
+]
