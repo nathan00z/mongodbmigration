@@ -169,7 +169,7 @@ class SQLServer:
 
 class MongoDB:
     def __init__(self, db_name, collection_name):
-        self.uri = "mongodb+srv://nathannguyen71121:c1LlLjKtmH6OJWqK@cluster0.eh34seg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+        self.uri = "##"
         self.db_name = db_name
         self.collection_name = collection_name
         self.client = MongoClient(self.uri)
